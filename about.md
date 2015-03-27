@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The name Repleatur comes from a prayer before choir practice.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+[OratioAnteSchola](http://repleatur.net/wp-content/uploads/2012/03/OratioAnteSchola.pdf)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can listen here:
+
+[repleatur.mp3]({{ site.url }}/audio/repleatur.mp3)
+
+That's how we begin choir practice.
+
+This web page focusses on choir stuff for the Parramatta Apostolate of the Priestly Fraternity of St Peter.
+
+Choir practice is generally held on Sundays 12.30pm after the 10.45am Mass at Mulgoa and 4pm 1st and 2nd Sundays at Lawson.
+

@@ -1,0 +1,22 @@
+---
+author: veronicab
+comments: true
+date: 2014-12-06 04:30:10+00:00
+layout: post
+slug: gaudete-2
+title: Gaudete
+wordpress_id: 1030
+categories:
+- Lawson
+- Missa cantata
+---
+
+I'm just putting folders together for tomorrow's practice at Lawson Catholic Church 4pm.
+
+[gaudetepropers]({{ site.url }}/wp-content/uploads/2014/12/gaudetepropers.pdf) is the Introit, Gradual and Alleluia and Offertory.
+
+The Communion verse is [Dicite Pusillanimes](http://media.musicasacra.com/pdf/dicite.pdf) from Musica Sacra's Communio book.
+
+Two practices, then Mass next Sunday - 3rd Sunday of Advent.
+
+And if you have a spare minute or three [Listen To This](a?"https://www.youtube.com/watch?v=DFtppysEl-k") (nb: this is a Christmas thing, so we won't sing it for Gaudete Sunday at Mass - everyone asks)

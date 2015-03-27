@@ -1,0 +1,23 @@
+---
+author: veronicab
+comments: true
+date: 2013-06-09 12:10:04+00:00
+layout: post
+slug: '835'
+title: Psalm toned propers in a few clicks
+wordpress_id: 835
+categories:
+- News
+- Publishing
+---
+
+Now you too can prepare propers:
+
+
+
+[chrome app](https://chrome.google.com/webstore/detail/gabc-transcription-tool/mkhgaijffgijgkolifpoaijimncdakkd)
+[online version](http://gabc.romanliturgy.org/propers.html)
+
+There you go.  I am redundant.
+
+Comments are welcome.

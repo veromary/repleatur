@@ -1,0 +1,30 @@
+---
+author: veronicab
+comments: true
+date: 2014-11-04 08:56:17+00:00
+layout: post
+slug: gaudete
+title: Gaudete!
+wordpress_id: 1009
+categories:
+- Lawson
+- Missa cantata
+---
+
+The rose coloured vestments are due for Sunday 14th December.
+
+Sung Mass at Our Lady of the Nativity Church, Lawson.
+
+Here are my favourite bits:
+
+[The Introit]({{ site.url }}/wp-content/uploads/2014/11/introitus.mp3)
+[download mp3]({{ site.url }}/wp-content/uploads/2014/11/introitus.mp3)
+(Rejoice in the Lord always, again I say rejoice!)
+
+[The Alleluia]({{ site.url }}/wp-content/uploads/2014/11/alleluia.mp3)
+[download mp3]({{ site.url }}/wp-content/uploads/2014/11/alleluia.mp3)
+
+[The Communion Antiphon]({{ site.url }}/wp-content/uploads/2014/11/communio.mp3)
+[download mp3]({{ site.url }}/wp-content/uploads/2014/11/communio.mp3)
+
+Practice from 4pm in the parish meeting room, Exposition of the Blessed Sacrament about 4.30pm in the Church with Benediction about 4.50pm.  Mass starts 5pm, expected to finish just a little after 6pm.

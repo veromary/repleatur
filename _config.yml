@@ -1,14 +1,54 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Repleatur
+email: veronica@brandt.id.au
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Choir-related things for Parramatta Latin Mass stuff.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+twitter_username: veromarybrrr
+github_username:  veromary
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: repleatur
+
+# Social icons
+show_social_icons: false
+github_username: veromary
+stackoverflow_id:
+twitter_username: veromarybrrr
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url: veronica@brandt.id.au
+flattr_button: veromary
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
 
 # Build settings
-markdown: kramdown
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
