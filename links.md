@@ -20,14 +20,26 @@ And this one for when I'm making CDs [Paper CD Case](http://www.papercdcase.com)
 
 [Windsor reading sheets for priests](http://www.windsorlatinmass.org/latin/chant.htm)
 
-[Gregorio Chant Wiki](http://www.gregoriochant.org)
-
 (see also CC Watershed's links under recordings)
 
 [Institute of Christ the King - Propers and Kyriale](http://www.institute-christ-king.org/latin-mass-resources/sacred-music/)
 
+[Richard Rice's Communion Antiphons with verses](http://musicasacra.com/music/communio/)
+
+There's a whole lot of stuff at [Musica Sacra's collection of chant books](http://musicasacra.com/music/) including the scanned in 1961 Liber Usualis.
+
+CC Watershed has a [Liber Usualis with English Translations](http://www.ccwatershed.org/blog/2013/mar/19/liber-usualis-english-translations-solesmes-1957/) (aka Mass and Vespers, 1957)
+
+[Gregorio Chant Wiki](http://www.gregoriochant.org)
+
 [Gregobase](http://gregobase.selapa.net)
 
+
+### Hymnbooks
+
+[A New Book of Old Hymns](http://newbookoldhymns.tumblr.com)
+
+[Veronica's books at Lulu](http://www.lulu.com/brandt/)
 
 ### Repertoire
 
