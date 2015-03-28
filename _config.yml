@@ -9,7 +9,7 @@ twitter_username: veromarybrrr
 github_username:  veromary
 
 # Google analytics
-google_analytics:
+google_analytics: UA-39810569-1
 
 # Optional features
 animated:           false
@@ -21,11 +21,11 @@ show_post_footers:  false
 disqus_shortname: repleatur
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username: veromary
 stackoverflow_id:
 twitter_username: veromarybrrr
-google_plus_id:
+google_plus_id: VeronicaBrandt
 linkedin_username:
 bitcoin_url:
 paypal_url: veronica@brandt.id.au
