@@ -24,15 +24,15 @@ disqus_shortname: repleatur
 show_social_icons: true
 github_username: veromary
 stackoverflow_id:
-twitter_username: veromarybrrr
-google_plus_id: u/0/+VeronicaBrandt
+twitter_username: repleatur
+google_plus_id: 
 linkedin_username:
 bitcoin_url:
 paypal_url:
-flattr_button: <a href="https://flattr.com/submit/auto?user_id=veromary&url=http%3A%2F%2Fwww.repleatur.net" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+flattr_button: 
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: true
