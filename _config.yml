@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Choir-related things for Parramatta Latin Mass stuff.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.repleatur.net" # the base hostname & protocol for your site
+#url: "http://localhost:4000"
 twitter_username: veromarybrrr
 github_username:  veromary
 
