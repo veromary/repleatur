@@ -1,13 +1,11 @@
 # Site settings
 title: Repleatur
-email: veronica@brandt.id.au
+email: veronica@repleatur.net
 description: > # this means to ignore newlines until "baseurl:"
-  Choir-related things for Parramatta Latin Mass stuff.
+  Choir-related things for Latin Masses in the Parramatta diocese.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.repleatur.net" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
-twitter_username: veromarybrrr
-github_username:  veromary
 
 # Google analytics
 google_analytics: UA-39810569-1
@@ -31,6 +29,7 @@ linkedin_username:
 bitcoin_url:
 paypal_url:
 flattr_button: 
+feed: http://feeds.feedburner.com/Repleatur
 
 # Post sharing icons
 show_sharing_icons: true
