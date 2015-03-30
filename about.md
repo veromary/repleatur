@@ -16,5 +16,22 @@ That's how we begin choir practice.
 
 This web page focusses on choir stuff for the Parramatta Apostolate of the Priestly Fraternity of St Peter.
 
+
+### Join
+
 Choir practice is generally held on Sundays 12.30pm after the 10.45am Mass at Mulgoa and 4pm 1st and 2nd Sundays at Lawson.
+
+Generally, if you can come along to practice an hour before Mass is due to start, then that would be really helpful to us.  A minimum requirement would be an ability to sing the Ordinaries of the Mass.  We usually keep it simple.
+
+### Support
+
+If you'd like to support this attempt at spreading Missa Cantatas in Sydney's West, you might like to chip in. 
+
+<script data-gratipay-username="veromary"
+        data-gratipay-widget="button"
+        src="//grtp.co/v1.js"></script> &nbsp; <a href="https://flattr.com/submit/auto?user_id=veromary&url=http%3A%2F%2Fwww.repleatur.net" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a> 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="F8UPJGGR9H35A"><input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal — The safer, easier way to pay online."><img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1"></form>
+
+
+Money raised goes towards buying music books, web hosting fees, printing costs, ongoing education&mdash;any recommendations for good singing teachers are warmly welcome!
 
