@@ -3,6 +3,8 @@ layout: post
 title: Veni Creator
 ---
 
+![Holy Spirit by Bernini](images/Gian_Lorenzo_Bernini_-_Dove_of_the_Holy_Spirit.jpg)
+
 Looking ahead to Pentecost, anyone up for joining us at Mulgoa for 24th May?
 
 There's a lovely, simple [Veni Creator](http://musique.liturgique.free.fr/partitions/Veni%20Creator%20-%20Chanoine%20COUTURIER%20-%202p.pdf) that we used to sing at the Holy Family Religion School at Riverwood with the kids.  The verses alternate between the Gregorian Chant and a 4 part setting.
