@@ -3,7 +3,7 @@ layout: post
 title: Veni Creator
 ---
 
-![Holy Spirit by Bernini](images/Gian_Lorenzo_Bernini_-_Dove_of_the_Holy_Spirit.jpg)
+![Holy Spirit by Bernini]({{ site.url }}/images/Gian_Lorenzo_Bernini_-_Dove_of_the_Holy_Spirit.jpg)
 
 Looking ahead to Pentecost, anyone up for joining us at Mulgoa for 24th May?
 
