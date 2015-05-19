@@ -14,7 +14,9 @@ tags:
 - mp3
 ---
 
-[![](http://veronica.brandt.id.au/files/2012/03/annun_angelico-300x220.jpg)](http://veronica.brandt.id.au/files/2012/03/annun_angelico.jpg)And here are the recordings - not as wonderful as I hoped.  The microphone was behind us and picked up any tapping on the bench or the wooden floorboards.  But it's proof we sang it and people still said nice things about us after Mass.
+**19/5/2015** This has been one of the most tantalising mysteries in the tangle of broken links - I can't remember even where to start looking for the missing recordings here, but I'll leave the post in case I figure it out.  Also for the sequence for the Annunciation.
+
+And here are the recordings - not as wonderful as I hoped.  The microphone was behind us and picked up any tapping on the bench or the wooden floorboards.  But it's proof we sang it and people still said nice things about us after Mass.
 
 
 [audio:http://veronica.brandt.id.au/files/2012/03/AveMariaArcadelt.mp3]

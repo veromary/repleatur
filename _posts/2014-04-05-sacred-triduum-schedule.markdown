@@ -8,7 +8,7 @@ title: Sacred Triduum schedule
 wordpress_id: 955
 ---
 
-[caption id="attachment_165" align="alignright" width="300"]![Girraween decked out for Easter](http://repleatur.net/wp-content/uploads/2012/04/girraweensm-300x250.jpg) Girraween decked out for Easter[/caption]Holy Thursday: 7pm <del>Mulgoa</del> Girraween
+[caption id="attachment_165" align="alignright" width="300"]![Girraween decked out for Easter]({{ site.url }}/wp-content/uploads/2012/04/girraweensm-300x250.jpg) Girraween decked out for Easter[/caption]Holy Thursday: 7pm <del>Mulgoa</del> Girraween
 Good Friday: 10am Stations Girraween
     3pm Celebration of the Passion <del>Mulgoa</del> Girraween
 Easter Vigil: 8pm Mulgoa

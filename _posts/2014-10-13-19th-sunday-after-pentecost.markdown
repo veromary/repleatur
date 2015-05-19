@@ -10,7 +10,7 @@ categories:
 - Mulgoa
 ---
 
-![stmarysAEC](http://repleatur.net/wp-content/uploads/2012/12/stmarysAEC-300x239.jpg)Each time I get ready for one of these, I run through the music with someone and go over each phrase, thinking I should record this, then, no, I'll get it myself first, then do it over again, bit by bit.
+![stmarysAEC]({{ site.url }}/wp-content/uploads/2012/12/stmarysAEC-300x239.jpg)Each time I get ready for one of these, I run through the music with someone and go over each phrase, thinking I should record this, then, no, I'll get it myself first, then do it over again, bit by bit.
 
 Then I finally get round to recording and only record the straight through version.
 
@@ -18,14 +18,11 @@ Hopefully you can stop and start the recording and repeat back bits as you need.
 
 Go get your music at [The Library of Gregorian Chant Propers in PDF](http://www.institute-christ-king.org/latin-mass-resources/sacred-music/) or [Rene Goupil](http://www.ccwatershed.org/goupil/).  You'll need to look for **19th Sunday after Pentecost**.
 
-**[The Introit](http://repleatur.net/wp-content/uploads/2014/10/XIXPP00.mp3)** - Salus populi
-[audio mp3="http://repleatur.net/wp-content/uploads/2014/10/XIXPP00.mp3"][/audio]
+**[The Introit]({{ site.url }}/wp-content/uploads/2014/10/XIXPP00.mp3)** - Salus populi
 
-**[The Alleluia](http://repleatur.net/wp-content/uploads/2014/10/XIXPP00-com.mp3)**
-[audio mp3="http://repleatur.net/wp-content/uploads/2014/10/XIXPP00-com.mp3"][/audio]
+**[The Alleluia]({{ site.url }}/wp-content/uploads/2014/10/XIXPP00-com.mp3)**
 
-**[The Communion](http://repleatur.net/wp-content/uploads/2014/10/XIXPP00-all.mp3)** (I sing it through twice) Tu Mandasti
-[audio mp3="http://repleatur.net/wp-content/uploads/2014/10/XIXPP00-all.mp3"][/audio]
+**[The Communion]({{ site.url }}/wp-content/uploads/2014/10/XIXPP00-all.mp3)** (I sing it through twice) Tu Mandasti
 
 We can probably pick up a few verses for Communion time to go with the antiphon.
 
