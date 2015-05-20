@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Veni Creator
+categories:
+- Repertoire
+tags: Pentecost
 ---
 
 ![Holy Spirit by Bernini]({{ site.url }}/images/Gian_Lorenzo_Bernini_-_Dove_of_the_Holy_Spirit.jpg)

@@ -4,7 +4,7 @@ comments: true
 date: 2014-06-02 02:19:18+00:00
 layout: post
 slug: pentecost
-title: Pentecost
+title: Pentecost 2014
 wordpress_id: 967
 ---
 

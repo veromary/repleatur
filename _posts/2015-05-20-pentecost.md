@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Pentecost
+title: Pentecost 2015
+tags: Pentecost
+categories:
+- Missa cantata
+- Mulgoa
 ---
 
 ![Holy Spirit by Bernini]({{ site.url }}/images/Gian_Lorenzo_Bernini_-_Dove_of_the_Holy_Spirit.jpg)
