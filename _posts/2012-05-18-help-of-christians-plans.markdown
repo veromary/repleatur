@@ -10,14 +10,14 @@ categories:
 - Mulgoa
 ---
 
-The booklet for [this Thursday night](http://repleatur.net/events/mary-help-of-christians/) at [Mulgoa](http://repleatur.net/locations/st-marys-mulgoa/):
+The booklet for [this Thursday night]({{ site.url }}/events/mary-help-of-christians/) at [Mulgoa]({{ site.url }}/locations/st-marys-mulgoa/):
 
-[propers](http://repleatur.net/wp-content/uploads/2012/05/propers.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/05/propers.pdf)
 
 Mass 9, Credo 2, psalm toned propers, except Ave Maria for Offertory.  A few extra verses here and there for good measure.
 
 The gabc file for the Ave Maria, since I couldn't find it anywhere else:
-[avemaria.gabc](http://repleatur.net/wp-content/uploads/2012/05/avemaria.gabc)
+[avemaria.gabc]({{ site.url }}/wp-content/uploads/2012/05/avemaria.gabc)
 Sorry, I didn't put in ictuses (icti?).
 
-See [The Earlier Post](http://repleatur.net/2012/05/18/ave-maria/) for examples of how to sing the Ave Maria as the Gregorian Chant Antiphon (Liber Usualis p 1679)
+See [The Earlier Post]({{ site.url }}/2012/05/18/ave-maria/) for examples of how to sing the Ave Maria as the Gregorian Chant Antiphon (Liber Usualis p 1679)

@@ -10,7 +10,7 @@ categories:
 - Lawson
 ---
 
-[![olonNewSign](http://repleatur.net/wp-content/uploads/2013/04/olonNewSign-225x300.jpg)](http://repleatur.net/wp-content/uploads/2013/04/olonNewSign.jpg)
+[![olonNewSign]({{ site.url }}/wp-content/uploads/2013/04/olonNewSign-225x300.jpg)]({{ site.url }}/wp-content/uploads/2013/04/olonNewSign.jpg)
 
 5pm Latin - that's us!
 

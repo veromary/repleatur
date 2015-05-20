@@ -10,7 +10,7 @@ wordpress_id: 732
 
 Here's the music for Sunday's Sung Mass at Mulgoa:
 
-[psalmorum-139-pdfjam-pdfjam](http://repleatur.net/wp-content/uploads/2012/11/psalmorum-139-pdfjam-pdfjam.pdf)
+[psalmorum-139-pdfjam-pdfjam]({{ site.url }}/wp-content/uploads/2012/11/psalmorum-139-pdfjam-pdfjam.pdf)
 
 Pardon the weird filename, but that's how it came out of the pdfjam program.
 

@@ -10,7 +10,7 @@ categories:
 - Mulgoa
 ---
 
-Next Sung Mass at Mulgoa is on [Sunday 15th July](http://repleatur.net/events/seventh-sunday-post-pentecost/).  Omnes gentes plaudite manibus!  All nations clap yo' hands!
+Next Sung Mass at Mulgoa is on [Sunday 15th July]({{ site.url }}/events/seventh-sunday-post-pentecost/).  Omnes gentes plaudite manibus!  All nations clap yo' hands!
 
 ![Wolf in sheep's clothing](http://hystar.files.wordpress.com/2010/07/wold-sheep-clothing2.jpg)Beware of false prophets, who come to you in the clothing of sheep, but inwardly they are ravening wolves. By their fruits you shall know them.
 

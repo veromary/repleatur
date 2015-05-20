@@ -11,7 +11,7 @@ categories:
 - Mulgoa
 ---
 
-All Souls Day[![](http://repleatur.net/wp-content/uploads/2012/10/Purgatory-2.jpg)](http://repleatur.net/wp-content/uploads/2012/10/Purgatory-2.jpg)
+All Souls Day[![]({{ site.url }}/wp-content/uploads/2012/10/Purgatory-2.jpg)]({{ site.url }}/wp-content/uploads/2012/10/Purgatory-2.jpg)
 
 Friday 2nd November
 6pm Mass at Mulgoa
@@ -22,7 +22,7 @@ It is surprisingly tricky to find recordings.  The **Ordinaries** at least are a
 
 NOTE: The ordinaries are the most important thing to learn.  They are for everyone to learn.  So get those three first: Kyrie, Sanctus, Agnus Dei.
 
-The **Propers** are another kettle of fish.  The wonderful collection from [St Benedict's, Sao Paolo](http://www.christusrex.org/www2/cantgreg/trid_i_c_omnium_fidelium_defunctorum.html) only has the Introit and Offertory.  The Dies Irae (Sequence) can be found [in the Internet Archive](http://archive.org/details/GregorianChantMass) (see track 2 - the first track listed).  I recorded my own take on the Gradual and Tract (Requiem and Absolve): [GradualTract](http://repleatur.net/wp-content/uploads/2012/10/GradualTract.mp3).  The recording of Lux Aeterna is more elusive this morning.
+The **Propers** are another kettle of fish.  The wonderful collection from [St Benedict's, Sao Paolo](http://www.christusrex.org/www2/cantgreg/trid_i_c_omnium_fidelium_defunctorum.html) only has the Introit and Offertory.  The Dies Irae (Sequence) can be found [in the Internet Archive](http://archive.org/details/GregorianChantMass) (see track 2 - the first track listed).  I recorded my own take on the Gradual and Tract (Requiem and Absolve): [GradualTract]({{ site.url }}/wp-content/uploads/2012/10/GradualTract.mp3).  The recording of Lux Aeterna is more elusive this morning.
 
 Youtube clips are musch easier to find.  [Here is a playlist](http://www.youtube.com/playlist?list=PLR7cOUX2gl7pz2mniDbYprDfa4RoB-wsA) of propers for a Requiem.  Youtube frowns upon people turning these into mp3s.
 

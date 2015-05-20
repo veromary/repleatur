@@ -15,7 +15,7 @@ tags:
 - sung Mass
 ---
 
-Stuff for Pentecost.  Here is the [event page](http://repleatur.net/events/pentecost/) with google map and all.
+Stuff for Pentecost.  Here is the [event page]({{ site.url }}/events/pentecost/) with google map and all.
 
 It is Sunday 27th May.  It will be followed by a parish picnic at a Christian Brothers place further south along Mulgoa Rd.
 

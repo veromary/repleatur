@@ -9,13 +9,13 @@ wordpress_id: 636
 ---
 
 Fixed a typo in the introit:
-[propers](http://repleatur.net/wp-content/uploads/2012/08/propers7.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/08/propers7.pdf)
 
-[12Pente-01](http://repleatur.net/wp-content/uploads/2012/08/12Pente-01.mp3) Introit
-[12Pente-02](http://repleatur.net/wp-content/uploads/2012/08/12Pente-02.mp3) Gradual
-[12Pente-03](http://repleatur.net/wp-content/uploads/2012/08/12Pente-03.mp3) Alleluia
-[12Pente-04](http://repleatur.net/wp-content/uploads/2012/08/12Pente-04.mp3) Offertory
-[12Pente-05](http://repleatur.net/wp-content/uploads/2012/08/12Pente-05.mp3) Communion
+[12Pente-01]({{ site.url }}/wp-content/uploads/2012/08/12Pente-01.mp3) Introit
+[12Pente-02]({{ site.url }}/wp-content/uploads/2012/08/12Pente-02.mp3) Gradual
+[12Pente-03]({{ site.url }}/wp-content/uploads/2012/08/12Pente-03.mp3) Alleluia
+[12Pente-04]({{ site.url }}/wp-content/uploads/2012/08/12Pente-04.mp3) Offertory
+[12Pente-05]({{ site.url }}/wp-content/uploads/2012/08/12Pente-05.mp3) Communion
 
 So, what motets do we know?
 

@@ -10,13 +10,13 @@ wordpress_id: 617
 
 Here are the plans for the feast of the Assumption:
 
-[propers](http://repleatur.net/wp-content/uploads/2012/08/propers4.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/08/propers4.pdf)
 
-[Assump-01](http://repleatur.net/wp-content/uploads/2012/08/Assump-01.mp3) Introit - Signum magnum
-[Assump-02](http://repleatur.net/wp-content/uploads/2012/08/Assump-02.mp3) Gradual - Audi, filia
-[Assump-03](http://repleatur.net/wp-content/uploads/2012/08/Assump-03.mp3) Alleluia - Assumpta est
-[Assump-04](http://repleatur.net/wp-content/uploads/2012/08/Assump-04.mp3) Offertory - Inimicitias
-[Assump-05](http://repleatur.net/wp-content/uploads/2012/08/Assump-05.mp3) Communion - Beatam me dicent
+[Assump-01]({{ site.url }}/wp-content/uploads/2012/08/Assump-01.mp3) Introit - Signum magnum
+[Assump-02]({{ site.url }}/wp-content/uploads/2012/08/Assump-02.mp3) Gradual - Audi, filia
+[Assump-03]({{ site.url }}/wp-content/uploads/2012/08/Assump-03.mp3) Alleluia - Assumpta est
+[Assump-04]({{ site.url }}/wp-content/uploads/2012/08/Assump-04.mp3) Offertory - Inimicitias
+[Assump-05]({{ site.url }}/wp-content/uploads/2012/08/Assump-05.mp3) Communion - Beatam me dicent
 
 Ordinaries: [Mass 9](http://antoinedanielmass.org/kyriale/IX/) and [Credo 1](http://www.antoinedanielmass.org/kyriale/Credo/).
 

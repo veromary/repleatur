@@ -14,6 +14,6 @@ categories:
 (Twas the day before th'Assumption and hopefully everyone can run through Mass 9 ready for tomorrow.)
 
 This Sunday is the 3rd Sunday of the month so supposed to be a sung Mass at Mulgoa.
-[propers](http://repleatur.net/wp-content/uploads/2012/08/propers6.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/08/propers6.pdf)
 
 Mass 11, Credo 1 as usual.  Maybe Adoro te at Communion if time permits.

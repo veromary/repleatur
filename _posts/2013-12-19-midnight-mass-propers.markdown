@@ -12,6 +12,6 @@ categories:
 
 Here's a quick pdf of the general gist of it:
 
-[gregorio52b2eef7a1ef97.68194143](http://repleatur.net/wp-content/uploads/2013/12/gregorio52b2eef7a1ef97.68194143.pdf)
+[gregorio52b2eef7a1ef97.68194143]({{ site.url }}/wp-content/uploads/2013/12/gregorio52b2eef7a1ef97.68194143.pdf)
 
 For midnight at Mulgoa.

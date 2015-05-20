@@ -20,7 +20,7 @@ http://www.youtube.com/watch?v=lpQ5HtN-ASk) is the straight link.
 
 And the relevant page from [A New Book of Old Hymns](http://brandt.id.au/music/hymnbook)
 
-[avemaria](http://repleatur.net/wp-content/uploads/2012/05/avemaria.pdf)
+[avemaria]({{ site.url }}/wp-content/uploads/2012/05/avemaria.pdf)
 
 And then once you've got that, you can check out a contemporary polyphonic elaboration [here](http://www.youtube.com/watch?v=DO6ex2Vj3yw).
 

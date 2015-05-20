@@ -18,4 +18,4 @@ If we can manage the proper Communion Antiphon, then there are extra verses avai
 
 And if any Mulgoa people think that double heading sung Masses on Sunday is a good thing, then that might be the way to go.
 
-**Update:** [Here is a psalm toned Gradual and Alleluia.](http://repleatur.net/wp-content/uploads/2014/07/gregorio53c0e7f6c97066.96111080.pdf)
+**Update:** [Here is a psalm toned Gradual and Alleluia.]({{ site.url }}/wp-content/uploads/2014/07/gregorio53c0e7f6c97066.96111080.pdf)

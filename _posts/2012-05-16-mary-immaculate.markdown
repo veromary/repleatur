@@ -11,7 +11,7 @@ categories:
 ---
 
 From the Saturday Singing in May
-[MaryImmac2up](http://repleatur.net/wp-content/uploads/2012/05/MaryImmac2up.pdf)
+[MaryImmac2up]({{ site.url }}/wp-content/uploads/2012/05/MaryImmac2up.pdf)
 
 Mary Immaculate was written by Rev F W Wetherell (1829-1903), a minister of the Church of Ireland.  The tune is Liebster Immanuel from J S Bach, another protestant we owe much.
 

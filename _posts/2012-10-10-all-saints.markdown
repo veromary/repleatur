@@ -10,7 +10,7 @@ categories:
 - Missa cantata
 ---
 
-[allpropers](http://repleatur.net/wp-content/uploads/2012/10/allpropers.pdf)
+[allpropers]({{ site.url }}/wp-content/uploads/2012/10/allpropers.pdf)
 
 Proper Introit,
 Gradual and Alleluia from Liber Brevior's simplified versions

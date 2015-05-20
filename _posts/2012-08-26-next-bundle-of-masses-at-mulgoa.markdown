@@ -11,7 +11,7 @@ categories:
 - Mulgoa
 ---
 
-**Wed 12th September:** Holy Name of Mary (Introit Vultum tuum, like we did for [St Mary of the Cross](http://repleatur.net/2012/08/05/st-mary-of-the-cross/), Offertory [Ave Maria](http://repleatur.net/2012/05/18/ave-maria/), Communion: [Beata Viscera](http://www.youtube.com/watch?v=t6orwO3w8og) which sounds very familiar.  Mass 9. No Credo! (it's only a 3rd class feast)
+**Wed 12th September:** Holy Name of Mary (Introit Vultum tuum, like we did for [St Mary of the Cross]({{ site.url }}/2012/08/05/st-mary-of-the-cross/), Offertory [Ave Maria]({{ site.url }}/2012/05/18/ave-maria/), Communion: [Beata Viscera](http://www.youtube.com/watch?v=t6orwO3w8og) which sounds very familiar.  Mass 9. No Credo! (it's only a 3rd class feast)
 
 **Fri 14th September:** [Exaltation of the Holy Cross](http://sacredheartchoir.blogspot.com.au/2008/08/exaltation-of-holy-cross.html) or [St Benedict's, Sao Paolo](http://www.christusrex.org/www2/cantgreg/missa_in_exaltatione_sanctae_crucis.html).  Introit and Gradual from Holy Thursday.  Mass 4.
 

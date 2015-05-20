@@ -17,15 +17,15 @@ The feast of the Immaculate Heart of Mary is only a second class feast so can't 
 
 The alleluia shares the same tune as the [5th Sunday after Pentcost](http://www.christusrex.org/www2/cantgreg/trid_dVpostPentecosten.html).
 
-[propers](http://repleatur.net/wp-content/uploads/2012/08/propers8.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/08/propers8.pdf)
 
 Okay, so you've had a look at the pdf and first up you're staring at the Introit think "that's not a psalm tone".  Well, it's not the proper antiphon either, and I think we can manage it.  Have a listen and see what you think.
 
-[Immac-01](http://repleatur.net/wp-content/uploads/2012/08/Immac-01.mp3) Introit
-[Immac-02](http://repleatur.net/wp-content/uploads/2012/08/Immac-02.mp3) Gradual
-[Immac-03](http://repleatur.net/wp-content/uploads/2012/08/Immac-03.mp3) Alleluia
-[Immac-04](http://repleatur.net/wp-content/uploads/2012/08/Immac-04.mp3) Offertory
-[Immac-05](http://repleatur.net/wp-content/uploads/2012/08/Immac-05.mp3) Communion - this is a beautiful bible verse.
+[Immac-01]({{ site.url }}/wp-content/uploads/2012/08/Immac-01.mp3) Introit
+[Immac-02]({{ site.url }}/wp-content/uploads/2012/08/Immac-02.mp3) Gradual
+[Immac-03]({{ site.url }}/wp-content/uploads/2012/08/Immac-03.mp3) Alleluia
+[Immac-04]({{ site.url }}/wp-content/uploads/2012/08/Immac-04.mp3) Offertory
+[Immac-05]({{ site.url }}/wp-content/uploads/2012/08/Immac-05.mp3) Communion - this is a beautiful bible verse.
 
-And for an offertory motet we have [Ave Maria](http://repleatur.net/2012/05/18/ave-maria/).  Communion we could try the Magnificat again?  Or remember that silence is always an option :) or Ave Verum - which might be good reminiscent of Mary's sharing in the sufferings of Our Lord (heart pierced...)[Ave Verum on video here](http://www.youtube.com/watch?v=rdyQQ8I2Pi4).
+And for an offertory motet we have [Ave Maria]({{ site.url }}/2012/05/18/ave-maria/).  Communion we could try the Magnificat again?  Or remember that silence is always an option :) or Ave Verum - which might be good reminiscent of Mary's sharing in the sufferings of Our Lord (heart pierced...)[Ave Verum on video here](http://www.youtube.com/watch?v=rdyQQ8I2Pi4).
 

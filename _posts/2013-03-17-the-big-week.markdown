@@ -8,7 +8,7 @@ title: The Big Week!
 wordpress_id: 775
 ---
 
-[![eccelignum](http://repleatur.net/wp-content/uploads/2012/04/eccelignum-150x150.jpg)](http://repleatur.net/wp-content/uploads/2012/04/eccelignum.jpg)Here's the schedule:
+[![eccelignum]({{ site.url }}/wp-content/uploads/2012/04/eccelignum-150x150.jpg)]({{ site.url }}/wp-content/uploads/2012/04/eccelignum.jpg)Here's the schedule:
 
 Palm Sunday
 regular 10.45am at Mulgoa

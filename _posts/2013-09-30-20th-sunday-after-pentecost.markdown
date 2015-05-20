@@ -19,7 +19,7 @@ The ordinary (Kyrie, Gloria, Sanctus, Agnus Dei) will be from Missa Orbis Factor
 
 The Credo will be Credo I, which can be found a little further down the same page.
 
-Here is the sheet music for the propers: [gregorio5246a667cb1686.40466635](http://repleatur.net/wp-content/uploads/2013/09/gregorio5246a667cb1686.40466635.pdf)
+Here is the sheet music for the propers: [gregorio5246a667cb1686.40466635]({{ site.url }}/wp-content/uploads/2013/09/gregorio5246a667cb1686.40466635.pdf)
 
 **Introit**
 
@@ -41,15 +41,15 @@ We usually sing this in this order : 1, 2, 3, 1.  But if we need more time we wi
 
 Here is a recording with my mother, Teresa, leading and me joining in where the rest of the choir usually joins in.  We're singing 1231.
 
-[audio mp3="http://repleatur.net/wp-content/uploads/2013/09/introit1.mp3"][/audio]
-[introit1.mp3](http://repleatur.net/wp-content/uploads/2013/09/introit1.mp3)
+[audio mp3="{{ site.url }}/wp-content/uploads/2013/09/introit1.mp3"][/audio]
+[introit1.mp3]({{ site.url }}/wp-content/uploads/2013/09/introit1.mp3)
 
 **Gradual**
 
 This is sung just after the Epistle
 
-[audio mp3="http://repleatur.net/wp-content/uploads/2013/09/gradual.mp3"][/audio]
-[gradual.mp3](http://repleatur.net/wp-content/uploads/2013/09/gradual.mp3)
+[audio mp3="{{ site.url }}/wp-content/uploads/2013/09/gradual.mp3"][/audio]
+[gradual.mp3]({{ site.url }}/wp-content/uploads/2013/09/gradual.mp3)
 
 **Alleluia**
 
@@ -78,8 +78,8 @@ Let's divide this one up too:
 
 
 
-[audio mp3="http://repleatur.net/wp-content/uploads/2013/09/alleluia1.mp3"][/audio]
-[alleluia1.mp3](http://repleatur.net/wp-content/uploads/2013/09/alleluia1.mp3)
+[audio mp3="{{ site.url }}/wp-content/uploads/2013/09/alleluia1.mp3"][/audio]
+[alleluia1.mp3]({{ site.url }}/wp-content/uploads/2013/09/alleluia1.mp3)
 
 That's all the tricky stuff done
 
@@ -87,21 +87,21 @@ That's all the tricky stuff done
 
 The leader sings, then the rest join in at the star.
 
-[audio mp3="http://repleatur.net/wp-content/uploads/2013/09/offertory.mp3"][/audio]
-[offertory.mp3](http://repleatur.net/wp-content/uploads/2013/09/offertory.mp3)
+[audio mp3="{{ site.url }}/wp-content/uploads/2013/09/offertory.mp3"][/audio]
+[offertory.mp3]({{ site.url }}/wp-content/uploads/2013/09/offertory.mp3)
 
 **Communion**
 
 Same pattern again - leader starts, we join in at the star.
 
-[audio mp3="http://repleatur.net/wp-content/uploads/2013/09/communion.mp3"][/audio]
-[communion.mp3](http://repleatur.net/wp-content/uploads/2013/09/communion.mp3)
+[audio mp3="{{ site.url }}/wp-content/uploads/2013/09/communion.mp3"][/audio]
+[communion.mp3]({{ site.url }}/wp-content/uploads/2013/09/communion.mp3)
 
 And that's it for the propers!
 
-God bless, let me know how you go, and hope to see you there by 10 Sunday morning at Mulgoa.  A practice on Saturday would be great - join the [Mailing List](http://repleatur.net/mailman/listinfo/choir_repleatur.net) to discuss it.
+God bless, let me know how you go, and hope to see you there by 10 Sunday morning at Mulgoa.  A practice on Saturday would be great - join the [Mailing List]({{ site.url }}/mailman/listinfo/choir_repleatur.net) to discuss it.
 
 UPDATE: I nearly forgot.  There was the suggestion to make the recordings available in a male voice, which has been unsuccessful, but here is the Communion verse taken down an octave thanks to audio editing software:
 
-[audio mp3="http://repleatur.net/wp-content/uploads/2013/09/commdownanoctave.mp3"][/audio]
-[commdownanoctave.mp3](http://repleatur.net/wp-content/uploads/2013/09/commdownanoctave.mp3)
+[audio mp3="{{ site.url }}/wp-content/uploads/2013/09/commdownanoctave.mp3"][/audio]
+[commdownanoctave.mp3]({{ site.url }}/wp-content/uploads/2013/09/commdownanoctave.mp3)

@@ -11,7 +11,7 @@ categories:
 - Missa cantata
 ---
 
-A sung requiem Mass this Wednesday, 10.30am, 18th April at [Our Lady of the Nativity Church Lawson](http://repleatur.net/locations/our-lady-of-the-nativity-lawson/).
+A sung requiem Mass this Wednesday, 10.30am, 18th April at [Our Lady of the Nativity Church Lawson]({{ site.url }}/locations/our-lady-of-the-nativity-lawson/).
 
 Email veronica at brandt.id.au if you can make it.
 

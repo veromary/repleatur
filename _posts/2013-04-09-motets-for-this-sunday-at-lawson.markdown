@@ -11,7 +11,7 @@ categories:
 - Repertoire
 ---
 
-Offertory:[![alleluia](http://repleatur.net/wp-content/uploads/2013/04/alleluia-300x163.png)](http://www.youtube.com/watch?v=V1IoWqxxJ7U)
+Offertory:[![alleluia]({{ site.url }}/wp-content/uploads/2013/04/alleluia-300x163.png)](http://www.youtube.com/watch?v=V1IoWqxxJ7U)
 
 [Concordi Laetitiae](http://youtu.be/GDNGr76hRU0) from the Parish Book of Chant organ accompaniment.
 

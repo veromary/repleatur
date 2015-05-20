@@ -14,8 +14,8 @@ categories:
 
 It's that time of year again.
 
-Here's the hymn to the Holy Ghost as in our New [Mass Books](http://repleatur.net/2013/04/27/proofs-have-arrived/) but arranged to fit on one A4 page.
+Here's the hymn to the Holy Ghost as in our New [Mass Books]({{ site.url }}/2013/04/27/proofs-have-arrived/) but arranged to fit on one A4 page.
 
-[venicreator](http://repleatur.net/wp-content/uploads/2013/05/venicreator.pdf)
+[venicreator]({{ site.url }}/wp-content/uploads/2013/05/venicreator.pdf)
 
 In English it's famous as "Come Holy Ghost Creator come, from Thy bright heav'nly throne" or "Come Holy Ghost Creator blest, and in our hearts take up Thy rest".  Look it up, memorise it, pray it.  Ready for the Nine Days from Ascension Thursday to Pentecost.

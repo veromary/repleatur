@@ -27,7 +27,7 @@ The plan so far:
   * Gradual and Alleluia as per Liber Brevior's 'easy' parts.
 
 	
-  * Psalm toned offertory: [PToffertory](http://repleatur.net/wp-content/uploads/2012/11/PToffertory.pdf)
+  * Psalm toned offertory: [PToffertory]({{ site.url }}/wp-content/uploads/2012/11/PToffertory.pdf)
 
 	
   * Mass 17 (the one for Sundays in Advent and Lent
@@ -48,5 +48,5 @@ Libers available from [Fraternity Publications](http://www.fraternitypublication
 Or you can get the propers from [Rene Goupil](http://renegoupil.org) or [the Institute of Christ the King](http://www.institute-christ-king.org/latin-mass-resources/sacred-music/) and the ordinaries from [CC Watershed](http://www.ccwatershed.org/kyriale/).
 
 Or I'll put together this booklet with it all in one place:
-[propers.pdf](http://repleatur.net/wp-content/uploads/2012/11/propers2.pdf)
+[propers.pdf]({{ site.url }}/wp-content/uploads/2012/11/propers2.pdf)
 

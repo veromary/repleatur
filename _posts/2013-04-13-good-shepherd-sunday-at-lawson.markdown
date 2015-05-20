@@ -10,6 +10,6 @@ wordpress_id: 792
 
 Here's the congregation's booklet for tomorrow.
 
-[goodshep2013](http://repleatur.net/wp-content/uploads/2013/04/goodshep2013.pdf)
+[goodshep2013]({{ site.url }}/wp-content/uploads/2013/04/goodshep2013.pdf)
 
 And have you ever checked ccwatershed's blog: [Views from the choir loft](http://www.ccwatershed.org)?

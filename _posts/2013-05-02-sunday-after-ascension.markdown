@@ -14,13 +14,13 @@ I've got Folders for the choir this time.  All the music will be in order in the
 
 Here are the propers:
 
-[ILintroit](http://repleatur.net/wp-content/uploads/2013/05/ILintroit.pdf)
+[ILintroit]({{ site.url }}/wp-content/uploads/2013/05/ILintroit.pdf)
 
-[ILalleluia](http://repleatur.net/wp-content/uploads/2013/05/ILalleluia.pdf)
+[ILalleluia]({{ site.url }}/wp-content/uploads/2013/05/ILalleluia.pdf)
 
-[ILoffertory](http://repleatur.net/wp-content/uploads/2013/05/ILoffertory.pdf)
+[ILoffertory]({{ site.url }}/wp-content/uploads/2013/05/ILoffertory.pdf)
 
-[ILcommunion](http://repleatur.net/wp-content/uploads/2013/05/ILcommunion.pdf)
+[ILcommunion]({{ site.url }}/wp-content/uploads/2013/05/ILcommunion.pdf)
 
 All done to psalm tone 2D.  The offertory has some extra flourishes from the solemn version of the psalm tone.
 

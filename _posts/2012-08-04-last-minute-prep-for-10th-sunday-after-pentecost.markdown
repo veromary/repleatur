@@ -15,7 +15,7 @@ Last minute cold feet about reading off the Psalm toned Propers of the Gregorian
 
 So herewith are the propers of the Tenth Sunday after Pentecost:
 
-[propers1.pdf](http://repleatur.net/wp-content/uploads/2012/08/propers1.pdf)
+[propers1.pdf]({{ site.url }}/wp-content/uploads/2012/08/propers1.pdf)
 
 I have just put in the asterisks for doing the solo inicipit thingy.  I can't remember which ones we did and didn't do at practice, so I've put them all in.
 

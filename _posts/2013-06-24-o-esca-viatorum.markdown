@@ -12,8 +12,8 @@ categories:
 
 Because I thought it was already in here, but couldn't find it.
 
-Sheet music: [IMSLP174387-WIMA.bf36-esca](http://repleatur.net/wp-content/uploads/2013/06/IMSLP174387-WIMA.bf36-esca.pdf)
-Triple tracked recording: [oescaviatorum](http://repleatur.net/wp-content/uploads/2012/05/oescaviatorum.mp3)
+Sheet music: [IMSLP174387-WIMA.bf36-esca]({{ site.url }}/wp-content/uploads/2013/06/IMSLP174387-WIMA.bf36-esca.pdf)
+Triple tracked recording: [oescaviatorum]({{ site.url }}/wp-content/uploads/2012/05/oescaviatorum.mp3)
 
 Maybe I was too shy to own up to the recording.  If you can find a better, please comment.
 

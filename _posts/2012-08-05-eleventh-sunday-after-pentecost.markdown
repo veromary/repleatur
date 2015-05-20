@@ -13,7 +13,7 @@ categories:
 
 Quick transcription of the Psalm toned Propers of the Gregorian Institute of Guam.
 
-[propers.pdf](http://repleatur.net/wp-content/uploads/2012/08/propers2.pdf)
+[propers.pdf]({{ site.url }}/wp-content/uploads/2012/08/propers2.pdf)
 
 Hooray for the GABC Transcription Tool!
 

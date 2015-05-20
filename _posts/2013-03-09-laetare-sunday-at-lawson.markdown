@@ -12,7 +12,7 @@ categories:
 ---
 
 Here's the latest draft for tomorrow night's sung Mass:
-[test](http://repleatur.net/wp-content/uploads/2013/03/test.pdf)
+[test]({{ site.url }}/wp-content/uploads/2013/03/test.pdf)
 
 I'm currently trying to pick a recessional hymn.
 

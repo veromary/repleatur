@@ -12,6 +12,6 @@ tags:
 - Bulletin
 ---
 
-[Bulletin parra June July 2012](http://repleatur.net/wp-content/uploads/2012/06/Bulletin-parra-June-July-2012.pdf)
+[Bulletin parra June July 2012]({{ site.url }}/wp-content/uploads/2012/06/Bulletin-parra-June-July-2012.pdf)
 
 Featuring the Litany of the Most Precious Blood of Our Lord Jesus Christ (feast day Sunday 1st July)

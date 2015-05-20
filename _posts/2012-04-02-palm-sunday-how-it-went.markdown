@@ -18,6 +18,6 @@ Paul Smith has some photos of the morning Mass at Mulgoa over on [his website](h
 
 In the evening we did it all again at Lawson.  Having had a bit more experience was a great help.  Also a slightly larger choir and a rather smaller congregation - a little disheartening until you think of St Paul's cloud of witnesses.  And God knows.
 
-[![Palm Sunday procession](http://repleatur.net/wp-content/uploads/2012/04/procession-300x200.jpg)](http://repleatur.net/wp-content/uploads/2012/04/procession.jpg)From Paul's [photo gallery](http://www.latin-mass-mulgoa.com) - note the littlest altar boy as boat bearer next to the tallest as thurifer.  It's the little one's first time serving at Mass too.
+[![Palm Sunday procession]({{ site.url }}/wp-content/uploads/2012/04/procession-300x200.jpg)]({{ site.url }}/wp-content/uploads/2012/04/procession.jpg)From Paul's [photo gallery](http://www.latin-mass-mulgoa.com) - note the littlest altar boy as boat bearer next to the tallest as thurifer.  It's the little one's first time serving at Mass too.
 
 Between the servers and the choir still on L plates, there is hope for us yet.  Maybe if we can all keep together we will really be shining this time next year.

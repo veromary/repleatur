@@ -14,4 +14,4 @@ Greg's coaching us for this one, but just in case it helps:
 
 [recordings of the propers from Brazil](http://www.christusrex.org/www2/cantgreg/missa_ss_petri_et_pauli_apostolorum.html)
 
-See you there on the [29th June, 7pm Mulgoa](http://repleatur.net/events/sts-peter-and-paul/)!  Unless you're going to support Pope Benedict XVI by turning up to St Peter's Square for the [Noi per Benedetto](http://www.youtube.com/watch?feature=player_embedded&v=Tcpa2MvUfPQ) thing at 11am.
+See you there on the [29th June, 7pm Mulgoa]({{ site.url }}/events/sts-peter-and-paul/)!  Unless you're going to support Pope Benedict XVI by turning up to St Peter's Square for the [Noi per Benedetto](http://www.youtube.com/watch?feature=player_embedded&v=Tcpa2MvUfPQ) thing at 11am.

@@ -15,7 +15,7 @@ We have a sung Mass at Lawson every second Sunday of the month.
 
 10th June this year is the Sunday in the Octave of Corpus Christi or the Second Sunday after Pentecost.  It's the day of the big Procession of the Blessed Sacrament in Sydney and also the Queen's Birthday Long Weekend.
 
-Here is the plan for what the choir will sing: [propers](http://repleatur.net/wp-content/uploads/2012/05/propers2.pdf)
+Here is the plan for what the choir will sing: [propers]({{ site.url }}/wp-content/uploads/2012/05/propers2.pdf)
 
 Mass 11, Credo 1, 
 proper Offertory (it's an unusually simple one) :

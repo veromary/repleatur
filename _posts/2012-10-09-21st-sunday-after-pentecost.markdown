@@ -15,7 +15,7 @@ Going with the plan for a sung Mass on the third Sunday of the month, our next S
 
 Normally we try sing the proper introit and communion antiphons, but this particular Mass is a bit long, and some of us are gearing up for the [Christus Rex Pilgrimage](http://crex.org), and then there's All Saints and All Souls once we get back, so...
 
-[propers](http://repleatur.net/wp-content/uploads/2012/10/propers.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/10/propers.pdf)
 
 So the only tune there we have to learn is the Alleluia - which may be a little familiar to you.
 

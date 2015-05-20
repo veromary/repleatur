@@ -15,7 +15,7 @@ categories:
 
 Here's the booklet.  Mass 11, Orbis Factor for the Ordinaries.  Psalm tones for the propers.  Ave Verum for a communion motet.
 
-[propers](http://repleatur.net/wp-content/uploads/2012/06/propers1.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/06/propers1.pdf)
 
 To be sung at Our Lady of the Nativity Church, Lawson at 5pm on Sunday 8th July 2012.
 

@@ -13,7 +13,7 @@ categories:
 
 Next sung Mass at Lawson is 5pm Sunday 9th September 2012.  Fr Eugene's schedule means we have space for only two practices: 4pm Sunday 19th August and 9th September.
 
-[propers](http://repleatur.net/wp-content/uploads/2012/08/propers5.pdf)
+[propers]({{ site.url }}/wp-content/uploads/2012/08/propers5.pdf)
 
 All simple psalm tones.
 
