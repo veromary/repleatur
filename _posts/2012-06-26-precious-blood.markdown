@@ -17,8 +17,8 @@ For the feast of the Precious Blood, this Sunday 1st July:
 
 And Rene Goupil doesn't have recordings for this feast and neither does Luis Quiroz in Brazil, so here's my interpretation of the Alleuia and Communion verse:
 
-[audio: {{ site.url }}/wp-content/uploads/2012/06/Alleluia3.mp3]
-[audio: {{ site.url }}/wp-content/uploads/2012/06/ChristusSemel.mp3]
+ * [Alleluia3.mp3]({{ site.url }}/wp-content/uploads/2012/06/Alleluia3.mp3)
+ * [ChistusSemel.mp3]({{ site.url }}/wp-content/uploads/2012/06/ChristusSemel.mp3)
 
 That's all the bits from the Liber I'm game to go for this time. The introit is put to an introit psalm tone, offertory and gradual a basic psalm tone and the alleluia gets a slightly fancier tone.
 
