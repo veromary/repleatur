@@ -10,7 +10,7 @@ categories:
 - Publishing
 ---
 
-[caption id="attachment_800" align="alignleft" width="300"][![The Mass Book]({{ site.url }}/wp-content/uploads/2013/04/proof1-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/04/proof1.jpg) New samples of the Mass Book[/caption] The two new proof copies are in front.  The older, darker version is behind.  I got one spiral bound to see how it looked.  The spiral is very big, but it is handy to have it lie flat.  In the past I have found the spiral bound books tend to fall apart with heavy wear, but maybe a handy option for more careful choir members.
+[![The Mass Book]({{ site.url }}/wp-content/uploads/2013/04/proof1-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/04/proof1.jpg) New samples of the Mass Book[/caption] The two new proof copies are in front.  The older, darker version is behind.  I got one spiral bound to see how it looked.  The spiral is very big, but it is handy to have it lie flat.  In the past I have found the spiral bound books tend to fall apart with heavy wear, but maybe a handy option for more careful choir members.
 
 [![GEDSC DIGITAL CAMERA]({{ site.url }}/wp-content/uploads/2013/04/proof2-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/04/proof2.jpg) So here you can see some of the kyriale in the books.  I've only included fifteen of the 18 Mass settings in a full Kyriale.  Why not just include the full set?  Well, by the time we've mastered the ones in here we'll probably be thinking about new books anyway.  Or maybe [the Campion Missal](http://www.ccwatershed.com/campion/)!
 
@@ -24,10 +24,11 @@ categories:
 
 [![GEDSC DIGITAL CAMERA]({{ site.url }}/wp-content/uploads/2013/04/proof7-300x225.jpg)]({{ site.url }}/wp-content/uploads/2013/04/proof7.jpg)And lastly the last page of the Index and the Colophon.  Thank God for automatic index generaters.  I put in the Prayer before a Crucifix over the credits because a) I like it and b) there was room.  I've squeezed in a few other prayers in the book where there was space and given them their own little index in the back so they can be found.  The Memorare was in there for a while, but got pushed out when rearranging hymns.
 
-Also, I did end up putting in our National Anthem at the back too.  At first I baulked at the idea, as it isn't a religious piece - though patriotism is a virtue - but many hymnbooks have it and it is a practical addition when so many of us don't know it off by heart.  The controversial Christian verse is included - it is not from the original as sometimes claimed, but an anonymous 20th century addition.  The original was a very British song, take this verse for instance:
+Also, I did end up putting in our National Anthem at the back too.  At first I baulked at the idea, as it isn't a religious piece - though patriotism is a virtue - but many hymnbooks have it and it is a practical addition when so many of us don't know it off by heart.  The controversial Christian verse is included - it is not from the original as sometimes claimed, but an anonymous 20th century addition. 
 
+**Update** The additional verse was written by Ruth Ponniah in 1988. [Article from news.com.au](http://www.news.com.au/national/schools-insert-god-into-australian-anthem/story-e6frfkvr-1226155301780)
 
-    
+The original anthem was a very British song, take this verse for instance:
     
     When gallant Cook from Albion sailed
     To trace wide oceans o'er, 
