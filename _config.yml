@@ -57,4 +57,3 @@ lunr_search:
   excludes: [rss.xml, atom.xml, feed.xml]
 lunr_search:
   stopwords: "stopwords.txt"
-  min_length: 4
