@@ -4,6 +4,8 @@ title: Search
 permalink: /search/
 ---
 
+<h1>Search</h1>
+
 <div id="search">
   <form action="/search" method="get">
     <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
@@ -17,6 +19,18 @@ permalink: /search/
   </div>
 </section>
 
+<h2>or browse the archives</h2>
+
+{% for post in site.posts %}
+  {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h3>{{ currentyear }}</h3>
+    <ul>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 
 {% raw %}
 <script id="search-results-template" type="text/mustache">
