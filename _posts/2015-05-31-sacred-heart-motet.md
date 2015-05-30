@@ -20,3 +20,13 @@ Thank you Hugh Henry, for sharing the music.
 
 Thank you Patrick for your help in making these recordings.
 
+### The 14th June
+
+This is in readiness for the next Sung Mass at Lawson - or more likely Wentworth Falls at this stage.
+
+The propers are available in mp3 format [at Rene Goupil](http://www.ccwatershed.org/goupil) Scroll down to the 3rd Sunday after Pentecost and look for the Introit starting with Respice.
+
+The Alleluia is a doozy, but see how we go.
+
+See you on Sunday 7th June!
+
