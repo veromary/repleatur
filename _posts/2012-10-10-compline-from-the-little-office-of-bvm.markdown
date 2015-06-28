@@ -1,7 +1,7 @@
 ---
 author: veronicab
 comments: true
-date: 2012-10-09 21:01:44+00:00
+date: 2012-10-10
 layout: post
 slug: compline-from-the-little-office-of-bvm
 title: Compline from the Little Office of BVM
