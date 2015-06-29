@@ -20,4 +20,8 @@ Recordings:
 
 The Mass setting here (Kyrie, Sanctus and Agnus Dei) is the regular one for feasts of Our Lady.  It's called Mass 9 or Missa cum Jubilo.  It's not compulsory, but it is good to know and worth a shot.
 
+We're planning on singing O Purest of Creatures at the end of Mass.  You can hear a fine recording [here](https://youtu.be/TsLXoekyFJA)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TsLXoekyFJA
+" target="_blank"><img src="http://img.youtube.com/vi/TsLXoekyFJA/0.jpg" 
+alt="O Purest of Creatures" width="240" height="180" border="10" /></a>
