@@ -3,7 +3,7 @@ layout: post
 title: Our Lady of Mt Carmel
 ---
 
-A homeschool group is having a Sung Mass for the feast of Our Lady of Mt Carmel on Thursday 16th June and here is the music:
+A homeschool group is having a Sung Mass for the feast of Our Lady of Mt Carmel on Thursday 16th July and here is the music:
 
 Choir booklet: [olmc.pdf]({{ site.url }}/pdf/olmc.pdf)
 
