@@ -52,8 +52,8 @@ permalink: /:year/:month/:day/:title/
 paginate:     10
 sass:
   compressed: true
-gems: ['jekyll-lunr-js-search']
-lunr_search:
-  excludes: [rss.xml, atom.xml, feed.xml]
-lunr_search:
-  stopwords: "stopwords.txt"
+#gems: ['jekyll-lunr-js-search']
+#lunr_search:
+#  excludes: [rss.xml, atom.xml, feed.xml]
+#lunr_search:
+#  stopwords: "stopwords.txt"

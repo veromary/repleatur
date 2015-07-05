@@ -1,7 +1,6 @@
 ---
 author: veronicab
 comments: true
-date: 2015-01-12 03:12:24+00:00
 layout: post
 slug: 2015-plans
 title: 2015 Plans
@@ -10,10 +9,10 @@ wordpress_id: 1038
 
 Lawson - 2nd Sunday of the month
 
-Feb 8 - Sexagesima (a really long Epistle for Fr)
-Mar 8 - 3rd Sunday of Lent - Mass 17
-Apr 12 - Low Sunday - Mass 1
-May 10 - 5th Sunday after Easter - Mass 1
+* Feb 8 - Sexagesima (a really long Epistle for Fr)
+* Mar 8 - 3rd Sunday of Lent - Mass 17
+* Apr 12 - Low Sunday - Mass 1
+* May 10 - 5th Sunday after Easter - Mass 1
 
 Mulgoa - was 3rd Sunday of each month, but varies.
 
