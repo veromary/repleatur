@@ -3,7 +3,9 @@ title: WWF and Mulgoa
 layout: post
 ---
 
-###Two Plans:
+![Choir at WWF]({{ site.url }}/images/choirwwf.jpg)
+
+Here I describe **Two Plans:**
 
 1. Regular monthly Sung Mass Sunday 9th August at Wentworth Falls
 2. First Communion Mass Sunday 16th August at Mulgoa
