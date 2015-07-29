@@ -16,6 +16,8 @@ Both with Credo 1.
 
 ###11th Sunday after Pentecost
 
+This is cut and paste from [goupil chant](http://ccwatershed.org/goupil)
+
 * Introit [Score](http://www.ccwatershed.org/pdfs/dcef_int_11th_sun_pentecost/download/)  [Video](http://www.ccwatershed.org/video/10539204/?return_url=/goupil/)  [Mp3](http://www.ccwatershed.org/audio/4591-introit-11th-sunday-after-pentecost-lully-hall/download/)  Organist • Deus in loco sancto suo
 * Gradual   Alleluia will be simplified down
 * Offertory [Score](http://www.ccwatershed.org/pdfs/dcef_off_11th_sun_pentecost/download/)  [Video](http://www.ccwatershed.org/video/10540680/?return_url=/goupil/)  Organist • Exaltabo te Domine - maybe simplified
@@ -24,6 +26,8 @@ Both with Credo 1.
 #Sunday 16th August
 
 ###12th Sunday after Pentecost
+
+This is cut and paste from [goupil chant](http://ccwatershed.org/goupil)
 
 * Introit • [Score](http://www.ccwatershed.org/pdfs/dcef_int_12th_sun_pentecost/download/)  [Video](http://www.ccwatershed.org/video/10544895/?return_url=/goupil/)  [Mp3](http://www.ccwatershed.org/audio/8335-solesmes-gajard-deus-adjutorium-meum-intende/download/)  Organist • Deus in adjutorium meum intende
 * Gradual   Alleluia will be simplified
