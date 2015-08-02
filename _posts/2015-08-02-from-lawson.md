@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: From practice at Lawson
 ---
 
