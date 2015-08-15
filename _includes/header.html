@@ -2,10 +2,14 @@
   <div class="mt2 wrap">
     <div class="measure">
       <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav right">
-        {% include navigation.html %}
+<!-- {% if page.searchbox %}
+{% include search.html %}
+{% endif %} -->
+      <nav class="site-nav"> 
+        {% include navigation.html %}<br />
+        {% include feedburner.html %}
       </nav>
-      <div class="clearfix"></div>
+      <div class="clearfix"></div> 
       {% if site.show_social_icons %}
         {% include social_links.html %}
       {% endif %}
