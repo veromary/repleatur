@@ -18,27 +18,12 @@ Adapted from [Nova Organi Harmonia](http://chabanelpsalms.org/introductory_mater
 
 Other:
 
-
-
-	
   * [Soul of my Saviour](http://hymni.files.wordpress.com/2011/10/soul1.pdf)
-
-	
   * [Firmly I believe](http://hymni.files.wordpress.com/2011/10/properfirmly.pdf) to the tune Omni Die. Usually in Australia it is sung to a tune by Edward Elgar, but this alternative was heard at [Maternal Heart](http://www.maternalheart.org) church, Lewisham. I think it is from the New Westminster Hymnal as there is a similar setting in the Old Westminster Hymnal.
-
-	
   * [O salutaris](http://hymni.files.wordpress.com/2011/10/osalutariswebbe.pdf) the metric tune by Samuel Webbe.
-
-	
   * [Firmly I believe](http://hymni.files.wordpress.com/2011/10/firmlychords.pdf) same tune as above but with a simplified left hand with verses alternating between chords and the bass voice. If that sounds confusing, see for yourself.
-
-	
   * [Praise to the Lord](http://hymni.files.wordpress.com/2011/10/praisetothelord.pdf)
-
-	
   * [Hail Queen of Heaven](http://hymni.files.wordpress.com/2011/10/hailqueen.pdf)
-
-	
   * [Glory be to Jesus](http://hymni.files.wordpress.com/2011/10/glorybeme.pdf) the left hand had some spans of over an octave so I've transposed the bass line from the original to make it easier to play.
 
 
