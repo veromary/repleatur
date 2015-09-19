@@ -30,8 +30,6 @@ If you'd like to support this attempt at spreading Missa Cantatas in Sydney's We
 <script data-gratipay-username="veromary"
         data-gratipay-widget="button"
         src="//grtp.co/v1.js"></script> &nbsp; <a href="https://flattr.com/submit/auto?user_id=veromary&url=http%3A%2F%2Fwww.repleatur.net" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a> 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="F8UPJGGR9H35A"><input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal — The safer, easier way to pay online."><img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1"></form>
-
 
 Money raised goes towards buying music books, web hosting fees, printing costs, ongoing education&mdash;any recommendations for good singing teachers are warmly welcome!
 

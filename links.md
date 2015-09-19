@@ -18,6 +18,8 @@ And this one for when I'm making CDs [Paper CD Case](http://www.papercdcase.com)
 
 ### Sheet music
 
+[My page here on hymnbooks and sheet music](/hymnbooks)
+
 [Windsor reading sheets for priests](http://www.windsorlatinmass.org/latin/chant.htm)
 
 (see also CC Watershed's links under recordings)
@@ -36,6 +38,8 @@ CC Watershed has a [Liber Usualis with English Translations](http://www.ccwaters
 
 
 ### Hymnbooks
+
+[My page here on hymnbooks and sheet music](/hymnbooks)
 
 [A New Book of Old Hymns](http://newbookoldhymns.tumblr.com)
 
