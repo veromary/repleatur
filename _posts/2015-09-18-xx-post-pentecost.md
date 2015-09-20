@@ -23,8 +23,8 @@ Looking a little ahead, we're also hoping to sing All Saints Day on Sunday 1st N
 
  * Introit: Gaudeamus [youtube](https://www.youtube.com/watch?v=Wf1td_BJLDQ)  &#124; [my mp3](/audio/allsaints/intgaudeamus.mp3)
  * Gradual and Alleluia: [psalm toned pdf](/pdf/allsaints/psgradalle.pdf)  &#124; [my mp3](/audio/gradual.mp3) [my alleluia mp3](/audio/allevenite.mp3)
- * Offertory: Justorum psalm toned middle - [pdf](/pdf/allsaints/propers.pdf)
- * Communion: Beati mundo corde [youtube](https://www.youtube.com/watch?v=ReMd61fdgls)
+ * Offertory: Justorum psalm toned middle - [pdf](/pdf/allsaints/propers.pdf) - [my mp3](/audio/allsaints/offertory.mp3)
+ * Communion: Beati mundo corde [youtube](https://www.youtube.com/watch?v=ReMd62fdgls) - [my mp3](/audio/allsaints/commbeati.mp3)
 
 ### All Souls (2nd Nov)
 
