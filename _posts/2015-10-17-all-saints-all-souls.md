@@ -1,3 +1,8 @@
+---
+title: All Saints, All Souls
+layout: post
+---
+
 There are only two Sundays before All Saints Day and it would be good to run over some music at both, so, how about aiming to get to Wentworth Falls at 4pm on the next two Sundays to go through the music?
 
 Also, as All Saints is a big feast day, how about a change from Mass XI?  The other one we know well is Mass VIII (Missa de Angelis) which is very festive, so sounds like that's a good way to go on short time.
