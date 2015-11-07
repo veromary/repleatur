@@ -4,6 +4,10 @@ title: Links
 permalink: /links/
 ---
 
+### Bulletin
+
+[parrafssp.pdf](http://repleatur.net/bulletins/parrafssp.pdf)
+
 ### Recordings
 
 [The Adoremus Hymnal mp3s](http://www.ignatius.com/promotions/adoremus-hymnal/downloadable-mp3s.htm)
