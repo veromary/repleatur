@@ -16,10 +16,11 @@ That's how we begin choir practice.
 
 This web page focusses on choir stuff for the Parramatta Apostolate of the Priestly Fraternity of St Peter.
 
+The Latest Bulletin should be here: [parrafssp.pdf](http://repleatur.net/bulletins/parrafssp.pdf)
 
 ### Join
 
-Choir practice is generally held on Sundays 12.30pm after the 10.45am Mass at Mulgoa and 4pm 1st and 2nd Sundays at Lawson.
+Choir practice is generally held on Sundays before 5pm Mass at St Francis Xavier's Wentworth Falls.
 
 Generally, if you can come along to practice an hour before Mass is due to start, then that would be really helpful to us.  A minimum requirement would be an ability to sing the Ordinaries of the Mass.  We usually keep it simple.
 
