@@ -22,6 +22,8 @@ Here's a highlight from the [Bulletin](http://repleatur.net/bulletins/parrafssp.
 > After the Rosary we will go to the lookout over the Nepean River.
 > If interested, please contact Fr Klein.
 
+And before going on, I'd like to share a favourite tune from the Communion Antiphon for Mass for the last Sundays before Advent: [Amen Dico Vobis]({{ site.url }}/audio/pente23/amendicovobis.mp3) Amen, I say to you, whatever you ask for in prayer, believe that you have received it, and you will have it. [pdf](http://www.ccwatershed.org/pdfs/dcef_com_last_sun_pentecost/download/)
+
 ## Gaudete!
 
 The next sung Mass is planned for the Third Sunday of Advent, **Sunday 13th December**, also known as *Gaudete Sunday*. The name comes from the introit: Gaudete in Domino semper - Rejoice in the Lord always, again I say rejoice!
