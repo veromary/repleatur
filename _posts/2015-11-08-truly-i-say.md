@@ -15,8 +15,8 @@ Here's a highlight from the [Bulletin](http://repleatur.net/bulletins/parrafssp.
 
 > Family picnic day at Mt Schӧnstatt
 >
-> Next Saturday 14th November.
-> Beginning at 11 am with Holy Mass.
+> Next Saturday ~~14th November.~~ **postponed due to rain to 28th November**
+> Beginning at 11 am with Holy Mass at St Mary's Catholic Church 1262 Mulgoa Rd, Mulgoa.
 > After Mass is a picnic followed by a talk and Rosary.
 > There will opportunity for Confession (e.g. During the Rosary.)
 > After the Rosary we will go to the lookout over the Nepean River.
