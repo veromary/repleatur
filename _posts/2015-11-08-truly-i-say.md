@@ -32,11 +32,11 @@ We'll stay with Mass 8, Credo 3 through Christmas.
 
 The Propers:
 
-* Introit - Gaudete [me singing a bit too high mp3]({{ site.url }}/audio/introitus.mp3) * [monks singing mp3](http://www.ccwatershed.org/audio/9326-gaudete-free-mp3/download/) * [pdf](http://www.ccwatershed.org/pdfs/dcef_int_3rd_sun_advent/download/)
+* Introit - Gaudete [me singing a bit too high mp3]({{ site.url }}/audio/gaudete/introitus.mp3) * [monks singing mp3](http://www.ccwatershed.org/audio/9326-gaudete-free-mp3/download/) * [pdf](http://www.ccwatershed.org/pdfs/dcef_int_3rd_sun_advent/download/)
 * Gradual - we'll psalm tone this one
-* Alleluia - an easy one [mp3]({{ site.url }}/audio/alleluia.mp3)
+* Alleluia - an easy one [mp3]({{ site.url }}/audio/gaudete/alleluia.mp3)
 * Offertory - Benedixisti - might psalm tone this one too, or [monks singing mp3](http://www.ccwatershed.org/audio/9309-benedixisti-domine-terram-tuam-offertory/download/)
-* Communio - Dicite pusillanimes [mp3]({{ site.url }}/audio/communio.mp3) * [monks singing mp3](http://www.ccwatershed.org/audio/9306-dicite-pusillanimes-communion-mp3/download/) * [pdf](http://www.ccwatershed.org/pdfs/dcef_com_3rd_sun_advent/download/)
+* Communio - Dicite pusillanimes [mp3]({{ site.url }}/audio/gaudete/communio.mp3) * [monks singing mp3](http://www.ccwatershed.org/audio/9306-dicite-pusillanimes-communion-mp3/download/) * [pdf](http://www.ccwatershed.org/pdfs/dcef_com_3rd_sun_advent/download/)
 
 You can find the psalm toned bits in [this booklet from last year]({{ site.url }}/pdf/gaudete/propers2.pdf).  It uses the Ordinary for Advent and Lent - which is one of the easiest ones to learn, but as Gaudete is sort of an upbeat Advent Sunday we can go with Missa de Angelis - plus it's better known and good to practice for Christmas.
 
