@@ -9,7 +9,7 @@ For all the rest of you wonderful people out in the interwebs, here's a list to 
 
 ### Gaudete Sunday - 13th December
 
-* Introit - Gaudete [me singing a bit too high mp3]({{ site.url }}/audio/gaudete/introitus.mp3) * [my mother an me singing a bit better]({{ site.url }}/audio/gaudete/introitwithmum.mp3 * [monks singing mp3](http://www.ccwatershed.org/audio/9326-gaudete-free-mp3/download/) * [pdf](http://www.ccwatershed.org/pdfs/dcef_int_3rd_sun_advent/download/)
+* Introit - Gaudete [me singing a bit too high mp3]({{ site.url }}/audio/gaudete/introitus.mp3) * [my mother an me singing a bit better]({{ site.url }}/audio/gaudete/introitwithmum.mp3) * [monks singing mp3](http://www.ccwatershed.org/audio/9326-gaudete-free-mp3/download/) * [pdf](http://www.ccwatershed.org/pdfs/dcef_int_3rd_sun_advent/download/)
 * Gradual - we'll psalm tone this one
 * Alleluia - an easy one [mp3]({{ site.url }}/audio/gaudete/alleluia.mp3)
 * Offertory - Benedixisti - might psalm tone this one too, or [monks singing mp3](http://www.ccwatershed.org/audio/9309-benedixisti-domine-terram-tuam-offertory/download/)
