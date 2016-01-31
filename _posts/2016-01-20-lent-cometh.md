@@ -41,7 +41,7 @@ And a video below:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/L8FCpldsBV0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Mass 16
+Mass 17
 =======
 
 There are about 18 Gregorian chant settings of the Ordinary parts of the Mass - that is, the Kyrie (Lord have mercy), Sanctus (Holy, Holy Holy) and Agnus Dei (Lamb of God).  Most also include the Gloria, but that is left out in Lent.
