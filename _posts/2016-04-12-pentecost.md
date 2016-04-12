@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Pentecost 2016
-tags: Pentecost
-categories:
-- Missa cantata
 ---
 
 ![Holy Spirit by Bernini]({{ site.url }}/images/Gian_Lorenzo_Bernini_-_Dove_of_the_Holy_Spirit.jpg)
