@@ -89,3 +89,10 @@ Other:
 
 
 The lilypond source files can be downloaded from [Draft Traditional Hymnbook](https://sourceforge.net/projects/dthymnbook/) at Sourceforge.
+
+Choir music
+===========
+
+  * [Veni Creator](pdf/Veni_Creator_-_Couturier.pdf) with alternate 4 part harmony verses by Couturier.  [Musescore source](pdf/Veni_Creator_-_Couturier.mscz) adapted from [bps351 via musescore.com](https://musescore.com/user/139215/scores/862046).  All on one A4 page with verse 7 in chant.
+
+
