@@ -1,3 +1,4 @@
+# Repleatur's config file:
 title: Repleatur
 email: veronica@repleatur.net
 description: > # this means to ignore newlines until "baseurl:"
@@ -39,9 +40,9 @@ share_twitter: true
 share_googleplus: true
 
 # Build settings
-markdown:  kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+# markdown:  kramdown
+# redcarpet:
+#   extensions: ['smart', 'tables', 'with_toc_data']
 permalink: /:year/:month/:day/:title/
 paginate:     10
 sass:
