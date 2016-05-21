@@ -10,7 +10,27 @@ wordpress_id: 142
 
 [![Home made books](http://repleatur.net/wp-content/uploads/2012/03/homemadebooks-300x225.jpg)](http://repleatur.net/hymnbooks/homemadebooks/)
 
-###Sheet music pdfs
+### Printed Books
+
+  * Westminster Hymnal 1912, R R Terry, 431pp: 
+[more info, incl pdf download](http://www.ccwatershed.org/blog/2014/sep/6/richard-terrys-hymnal/), 
+[coil bound](http://www.lulu.com/shop/richard-terry/old-westminster-hymnal-coil-bound/paperback/product-21785083.html), 
+[paperback via lulu](http://www.lulu.com/shop/richard-terry/old-westminster-hymnal/paperback/product-21787994.html), 
+[paperback via createspace](https://www.createspace.com/4910514)
+  * Arundel Hymns 1905, Henry Duke of Norfolk and Charles Gatty, 553pp:
+[more info](http://www.ccwatershed.org/blog/2013/apr/26/arundel-hymns/), 
+[paperback](http://www.lulu.com/shop/henry-duke-of-norfolk-and-charles-gatty/arundel-hymns/paperback/product-18749247.html)
+  * A Treasury of Catholic Song 1915, Sidney Hurlbut, 311pp: 
+[paperback](http://www.lulu.com/shop/sidney-hurlbut/treasury-of-catholic-song/paperback/product-18866942.html)
+  * St Basil's Hymnal 1918, 351pp: 
+[paperback](http://www.lulu.com/shop/sidney-hurlbut/treasury-of-catholic-song/paperback/product-18866942.html)
+  * A New Book of Old Hymns, 2001-2013, V Brandt (that's me) 92pp: 
+[paperback](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns/paperback/product-22569619.html), 
+[coil bound](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-spiral-bound/paperback/product-22569618.html), 
+[large print](http://www.lulu.com/shop/veronica-brandt/a-new-book-of-old-hymns-large-print/paperback/product-22569622.html), 
+[more info](http://www.brandt.id.au/music/hymnbook/)
+
+### Sheet music pdfs
 
 Adapted from [Nova Organi Harmonia](http://chabanelpsalms.org/introductory_material/Gregorian_organ_accomp/) using [Lilypond](http://lilypond.org) and transposed down for the people who say they can't sing that high.  The little lilypad icon indicates lilypond source files.
 
