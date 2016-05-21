@@ -47,6 +47,7 @@ permalink: /:year/:month/:day/:title/
 paginate:     10
 sass:
   compressed: true
+gems: 
  - jekyll-sitemap
  - jekyll-paginate
 
