@@ -94,23 +94,6 @@ permalink: /:year/:month/:day/:title/
 paginate:     10
 sass:
   compressed: true
-#gems: ['jekyll-lunr-js-search']
-#lunr_search:
-#  excludes: [rss.xml, atom.xml, feed.xml]
-#lunr_search:
-#  stopwords: "stopwords.txt"
-#=======
-#share_hackernews: false
-
-# Build settings
-#markdown:     kramdown
-#redcarpet:
-#  extensions: ['smart', 'tables', 'with_toc_data']
-#permalink:    pretty
-#paginate:     4
-#sass:
-#  compressed: true
-gems:
  - jekyll-sitemap
  - jekyll-paginate
-#>>>>>>> 17093accf3ed12e81ce160b38ede5bdc95c27744
+
