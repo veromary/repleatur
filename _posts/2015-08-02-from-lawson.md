@@ -5,7 +5,7 @@ title: From practice at Lawson
 
 We had a great practice today with extra accompaniment on the little organ.
 
-###Ordinaries
+### Ordinaries
 
 The first things to learn are the ordinary parts of the Mass.
 
@@ -19,7 +19,7 @@ Then, you can find the Asperges, Kyrie, Gloria, Sanctus, Agnus Dei and Credo [he
 
 If you've got all that you are doing well!  Ideally everyone in the congregation would be singing all those parts.  Go to [Maternal Heart, Lewisham](http://www.maternalheart.org) to see this in action.  We do have a fairly good number singing along at Lawson/Wentworth Falls though, but Maternal Heart is always worth a visit.
 
-###Propers
+### Propers
 
 Here are the propers especially for Sunday 9th August:
 
@@ -28,7 +28,7 @@ Here are the propers especially for Sunday 9th August:
 * [Offertory mp3]({{ site.url }}/audio/pente11/offertory.mp3)
 * [Communion mp3]({{ site.url }}/audio/pente11/communio.mp3) and [sheet music pdf here](http://www.ccwatershed.org/pdfs/dcef_com_11th_sun_pentecost/download/)
 
-###Extras (or dessert pieces)
+### Extras (or dessert pieces)
 
 [**Panis Angelicus by Claudio Casciolini**][1] - another three part motet.
 

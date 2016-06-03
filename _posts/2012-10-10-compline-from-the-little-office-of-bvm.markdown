@@ -27,6 +27,8 @@ Sung by Veronica, Patrick, Christopher, Anthony and Bernard Brandt at home.  We'
 And the sing-a-long Karaoke book:
 [compline]({{ site.url }}/wp-content/uploads/2012/10/compline.pdf)
 
+UPDATE: Further work on the Little Office is being collected [www.brandt.id.au/littleOffice/](http://www.brandt.id.au/littleOffice/)
+
 While it would be great to sing the full office, there is a very ancient and venerable shortcut in the Officium Parvum Beatae Mariae Virgine, or the Little Office of the Blessed Virgin Mary.  There is less variety in there, but still more psalms than most people say in a day (taking a global average there, which may not be a fair comparison...  though even an average of mass going Catholics might stand up.)  Baronius Press released a [Little Office book](http://www.baroniuspress.com/book.php?wid=56&bid=47) with the music.  A complete office (Latin and English) with music in a little tiny book!  The Roman Breviary equivalent would be several kilograms - and I don't think one exists anyway.
 
 For the keen eyes/ears, you might notice we sing the Monastic Sub tuum.  That comes from frequenting [The Maternal Heart of Mary Church, Lewisham](http://maternalheart.org).  The rest is Roman.  Though the tone for the psalm is what they sing at their Monastic Compline.
