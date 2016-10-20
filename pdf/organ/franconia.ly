@@ -79,7 +79,7 @@ lower = \context Staff = "lower" <<
 
 
 \score {
-    \transpose ees g
+    \transpose ees c
     \context ChoirStaff <<
             \upper
             \lower
