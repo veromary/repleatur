@@ -10,6 +10,9 @@
       <a class="fa fa-stack-overflow" href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}"></a>
     {% endif %}
     <a class="fa fa-rss" href="{{ site.feed }}"></a>
+    {% if site.facebook_page %}
+      <a class="fa fa-facebook" href="https://facebook.com{{ site.facebook_page }}"></a>
+    {% endif %}
     {% if site.twitter_username %}
       <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"></a>
     {% endif %}
