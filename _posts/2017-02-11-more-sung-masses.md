@@ -7,9 +7,9 @@ layout: post
 
 We have the go ahead for more sung Masses at Our Lady of the Nativity Church, Lawson!
 
-Wonderful plans are being made for the 4th Sunday of each month at St Mary's 1262 Mulgoa Road also - 10.45am Be There!
+*Wonderful plans are being made for the 4th Sunday of each month at St Mary's 1262 Mulgoa Road also - 10.45am Be There!*
 
-To fit in with the Mulgoa Sung Masses (which incidentally sound fantastic and you must attend) Lawson Sung Masses will be moving to the 1st and 3rd Sundays of each month starting in March.
+To fit in with the Mulgoa Sung Masses *(which incidentally sound fantastic and you must attend)* Lawson Sung Masses will be moving to the 1st and 3rd Sundays of each month starting in March.
 
 So, tomorrow, Sunday 12th February, Septuagesima Sunday, 5pm Sung Mass, Missa Orbis Factor.
 

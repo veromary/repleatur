@@ -20,7 +20,7 @@ The Latest Bulletin should be here: [parrafssp.pdf](http://repleatur.net/bulleti
 
 ### Join
 
-Choir practice is generally held on Sundays before 5pm Mass at St Francis Xavier's Wentworth Falls.
+Choir practice is generally held on Sundays before Mass.
 
 Generally, if you can come along to practice an hour before Mass is due to start, then that would be really helpful to us.  A minimum requirement would be an ability to sing the Ordinaries of the Mass.  We usually keep it simple.
 
