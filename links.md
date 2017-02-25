@@ -10,9 +10,11 @@ permalink: /links/
 
 ### Recordings
 
+[Gregorian Chant Hymns](http://gregorian-chant-hymns.com/hymns-2/)
+
 [The Adoremus Hymnal mp3s](http://www.ignatius.com/promotions/adoremus-hymnal/downloadable-mp3s.htm)
 
-[Cant Greg at christusrex.org from a monastery in Sao Paolo, Brazil](http://www.christusrex.org/www2/cantgreg/all_masses_trid.html)
+Broken -> [Cant Greg at christusrex.org from a monastery in Sao Paolo, Brazil](http://www.christusrex.org/www2/cantgreg/all_masses_trid.html)
 
 [CC Watershed's collection of propers](http://ccwatershed.org/goupil)
 
