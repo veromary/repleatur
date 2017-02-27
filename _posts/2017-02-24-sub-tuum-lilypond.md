@@ -13,6 +13,6 @@ Lilypond is not really made for this sort of music.  You simulate the lack of Me
 
 Also, in my earlier transcriptions I used slurs where I should have used ties.  Learning all the time.
 
-One of the best parts about typing it up is that you can transpose for those who might prefer to play with one sharp rather than four flats.
+One of the best parts about typing it up is that you can transpose for those who might prefer to play with [one sharp]({{ site.url }}/pdf/organ/SubTuum-monastic-in-G.pdf) rather than four flats.
 
 Now, to get back to making a CD for choir home study for the upcoming Masses.

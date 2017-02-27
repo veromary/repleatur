@@ -122,7 +122,7 @@ et be -- ne -- dí -- cta.
 
 
 \score {
-%        \transpose bes g
+        \transpose aes g
         <<
 	\new GrandStaff <<
 	    \set Score.midiInstrument = "Pipe Organ"
