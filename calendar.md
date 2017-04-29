@@ -9,4 +9,4 @@ The remaining Sundays we have Low Masses with hymns.  Same times, just a little 
 
 ----
 
-The latest weekly FSSP Parramatta Apostolate Bulletin: [parrafssp.pdf](http://repleatur.net/bulletins/parafssp.pdf)
+The latest weekly FSSP Parramatta Apostolate Bulletin: [parrafssp.pdf](http://repleatur.net/bulletins/parrafssp.pdf)
