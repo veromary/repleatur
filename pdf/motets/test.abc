@@ -1,0 +1,24 @@
+% Sample file to test various features of abc2ps
+
+U: M = !tenuto!		% abcm2ps: default M is lowermordent
+
+% abcm2ps >= 7.6.0 - definition of '...' (ellipsis) for PostScript
+%%glyph 2026 ellipsis
+
+X:1
+T: Tantum Ergo 2017 Easter Camp
+C: Fr D Popplewell
+M: 3/4
+K: F
+L: 1/4
+F(GA)|GF2|B(AG)|AG2|B/A/G/F/E/D/|C2c|AG2|F3|
+w: Tan-tum_ er-go sa-cra_ men-tum ve___ne_re-mur cer-nu-i
+w: Ge-ni_to-ri ge-ni_to-que laus___ et_ ju-bi-la-ti-o
+A(GF)|EF2|D(DE)|(FC)c|B2B|B2A|B(cC)|F3|
+w: et an_ti-quum do-cu_men_tum no-vo ce-dat ri-tu_i
+w: sa-lus_ ho-nor vir-tus_ quo_que sit et be-ne-di-cti_o
+cc2|BA2|F/G/A/B/c|FE2|DB/A/G/F/|E2F|FE2|F3|
+w: prae-stet fi-des sup__-ple-men-tum sen__su_um de-fe-ctu-i
+w: pro-ce-den-ti ab___ u-tro-que com__par_ sit lau-da-ti-o
+[FB]3|[FA]3|
+w: A-men.
