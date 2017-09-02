@@ -1,0 +1,22 @@
+% Sample file to test various features of abc2ps
+
+U: M = !tenuto!		% abcm2ps: default M is lowermordent
+
+% abcm2ps >= 7.6.0 - definition of '...' (ellipsis) for PostScript
+%%glyph 2026 ellipsis
+
+X:1
+T: Magnificat
+N: transcribed from CE's memory
+M: 4/4
+K: Bb
+L: 1/4
+C2G/F/G|zF/E/D/E/F|"I"ECC2|DB,B,2| 
+w: Ma-gni-fi-cat Ma_gni-fi-cat Do-mi-num me_um
+w: Ma-gni-fi-cat a_ni_ma me_a Do-mi-num
+C2G/F/G|zF/E/D/E/F|GcG2|FBF2| 
+w: Can-ta_te can_ta_te Do-mi-no me_o
+w: et ex_sul-ta_vit__ spi-ri-tus me_us
+G>GG/F/E|F>FF/E/D|C4|z4||
+w: Al-le-lu_ia Al-le-lu_ia Hey
+w: in_ De_o sa-lu-ta_ri meo

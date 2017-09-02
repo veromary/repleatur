@@ -17,13 +17,13 @@ For an update on simpler polyphonic pieces.
 
 ### Canons (also known as Rounds)
 
-[Tantum Ergo]({{ site.url }}/pdf/motets/Out.pdf) The one Fr Popplewell wrote and taught at the legendary BXVI Homeschool Camp of 2017.
+[Tantum Ergo]({{ site.url }}/pdf/motets/tantumergo-dp.pdf) The one Fr Popplewell wrote and taught at the legendary BXVI Homeschool Camp of 2017.
 
 [Jubilate](http://www.brandt.id.au/newbookoldhymns/hymns/jubilatedeo.html) Attributed to Michael Praetorius
 
 [Non nobis Domine](http://www.brandt.id.au/newbookoldhymns/hymns/nonnobis.html) This is the one I learned before the better known and very similar [Da Pacem Domine](http://www.brandt.id.au/newbookoldhymns/hymns/dapacem.html).
 
-Magnificat - still transcribing this one
+[Magnificat]({{ site.url }}/pdf/motets/magnificat-cf.pdf) - transcribed from students memories
 
 ### Other stuff I haven't tried yet
 
