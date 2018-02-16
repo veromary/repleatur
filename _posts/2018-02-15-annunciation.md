@@ -6,6 +6,9 @@ layout: post
 The choir at Mulgoa is advancing in leaps and bounds. [A new plan has been slated for March and April](/pdf/schedules/Mulgoa2018b.pdf).
 
 
+UPDATE: [Plan for Lawson for March and April](/pdf/schedules/Lawson2018a.pdf).
+
+
 One important feast day coming up after Easter is the Annunciation, this year transferred to Monday 9th April. We will be singing the Missa cum Jubilo (Mass IX).
 
 Making the following recording I realised that I am not as familiar with the propers, so I will be knuckling down to study in order to make a second recording soon.
