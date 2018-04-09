@@ -43,7 +43,7 @@ Missa Lux Origo - Mass 1 - the Gregorian setting for Easter: [Printable PDF abou
 
 * I thought I'd done a video for this, but I haven't, so another for the list.
 
-Mass in Re - I have to dig this one up - this was the two part Kyrie, Gloria, Sanctus and Agnus Dei which we used quite a bit last year.
+Mass in Re - I have to dig this one up - this was the two part Kyrie, Gloria, Sanctus and Agnus Dei which we used quite a bit last year. Fr Laurence Bevenot died in 1990, so this work is still in copyright so I can't share it here. You can purchase copies at [Presto Classical](https://www.prestoclassical.co.uk/sheet-music/composers/35125--bevenot-laurence). I've placed an order so after camp I'll hopefully have a better idea which editions are best to buy. Postage is $6.50 for the first piece and $3.30 for each additional piece.
 
 See you there!
 
