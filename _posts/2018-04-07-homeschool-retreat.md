@@ -13,22 +13,37 @@ For the keen beans.
 
 ## Sheet Music for the Retreat:
 
-Printable PDF [Alleluia Round or Canon by William Boyce](http://www0.cpdl.org/wiki/images/0/06/So_alleluiab.pdf)
+### Rounds
+
+Alleluia Round or Canon by William Boyce [Printable PDF 1 page](http://www0.cpdl.org/wiki/images/0/06/So_alleluiab.pdf)
 
 * [Video from Uruguay](https://www.youtube.com/watch?v=6-kAL48B1_4)
 
-Printable PDF [Sheet Music for The Very Impressive Regina Caeli by Gregor Aichinger](http://www0.cpdl.org/wiki/images/5/5c/Ws-aich-re1.pdf) 
+Fr Popplewell's Tantum Ergo from 2017 [Printable PDF 1 page]({{ site.url }}/pdf/motets/tantumergo-dp.pdf)
+
+* Anyone have a recording of this one?
+
+Non nobis Domine - a round in 3 parts - nice as a finale "Not unto us, Lord, not unto us, but unto Thy Name be the glory" [Printable PDF 1 page](http://stcpress.org/miscellaneous/non_nobis_domine/non_nobis_domine.pdf)
+
+* Lots of recordings of this one available - [This one is alright](https://www.youtube.com/watch?v=RdLPAOXTbMc)
+
+
+### Other pieces
+
+The Very Impressive Regina Caeli by Gregor Aichinger [Printable PDF 2 pages](http://www0.cpdl.org/wiki/images/5/5c/Ws-aich-re1.pdf) 
 
 * see [a video of little choir in a lovely old church](https://www.youtube.com/watch?v=5V-rDcNUo3k) or 
 * [this longer video for people who like wild geese and long organ improvisation](https://www.youtube.com/watch?v=_TAdk_JfCzM)
 
-Printable PDF [The Propers for any Latin Masses](http://www.institute-christ-king.org/uploads/music/Mass2SAE_lg.pdf) - includes Entrance Antiphon, Alleluia, Offertory Antiphon and Communion Antiphon.
+The Propers for any Latin Masses [Printable PDF about 6 pages](http://www.institute-christ-king.org/uploads/music/Mass2SAE_lg.pdf) - includes Entrance Antiphon, Alleluia, Offertory Antiphon and Communion Antiphon.
 
 * I have to make a video of these for my choir at Lawson - this would be probably not for many people, and I'll bring easy versions too as backup.
 
-Printable PDF of [Fr Popplewell's Tantum Ergo from 2017]({{ site.url }}/pdf/motets/tantumergo-dp.pdf)
+Missa Lux Origo - Mass 1 - the Gregorian setting for Easter: [Printable PDF about 5 pages](http://www.ccwatershed.org/pdfs/djc_01_complete_pdf/download/)
 
-* Anyone have a recording of this one?
+* I thought I'd done a video for this, but I haven't, so another for the list.
+
+Mass in Re - I have to dig this one up - this was the two part Kyrie, Gloria, Sanctus and Agnus Dei which we used quite a bit last year.
 
 See you there!
 
