@@ -53,5 +53,48 @@ Other suggestions :
 
 * [Jesu Rex Admirabilis](http://www3.cpdl.org/wiki/images/2/21/Palestrina_Jesu_Rex_admirabilis.pdf)
 * [Panis Angelicus]({{ site.url }}/pdf/motets/Casciolini_Panis_Angelicus.pdf)
+* [Jubilate Deo](http://www.brandt.id.au/newbookoldhymns/hymns/jubilatedeo.html) - another round.
+
+### What We Sang Last Year
+
+#### Monday
+
+* Mass of St Francis
+* Jesus Christ is Risen Today
+* Jesu Rex Admirabilis
+* Let All Mortal Flesh Keep Silence
+* Alleluia Sing to Jesus
+
+#### Tuesday
+
+* Mass 1
+* Crown Him with Many Crowns
+* Alleluia (canon by Boyce)
+* Soul of my Saviour / O Bread of Heaven
+* Bring All Ye Dear Bought Nations
+
+#### Wednesday
+
+* Mass in Re
+* Hail Redeemer
+* Jubilate Deo
+* O Filii et Filiae / Regina Caeli
+* Praise My Soul the King of Heaven
+
+#### Thursday
+
+* Mass in Re
+* Firmly I Believe
+* Regina Caeli
+* Sweet Sacrament
+* All Creatures of Our God and King
+
+#### Friday
+
+* Mass in Re
+* We Stand for God
+* Regina Caeli
+* Tantum Ergo / Soul of my Saviour
+* O Purest of Creatures
 
 
