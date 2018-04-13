@@ -47,3 +47,11 @@ Mass in Re - I have to dig this one up - this was the two part Kyrie, Gloria, Sa
 
 See you there!
 
+#### UPDATE: 
+
+Other suggestions :
+
+* [Jesu Rex Admirabilis](http://www3.cpdl.org/wiki/images/2/21/Palestrina_Jesu_Rex_admirabilis.pdf)
+* [Panis Angelicus]({{ site.url }}/pdf/motets/Casciolini_Panis_Angelicus.pdf)
+
+
