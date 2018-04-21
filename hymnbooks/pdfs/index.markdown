@@ -10,11 +10,11 @@ wordpress_id: 387
 
 Adapted from [Nova Organi Harmonia](http://chabanelpsalms.org/introductory_material/Gregorian_organ_accomp/) using [Lilypond](http://lilypond.org) and transposed down for the people who say they can't sing that high.  The little lilypad icon indicates lilypond source files.
 
-[Adoro Te](http://hymni.files.wordpress.com/2011/10/adorote.pdf) or in English [Godhead here in hiding](http://hymni.files.wordpress.com/2011/10/godhead.pdf)
-[Sing my tongue](http://hymni.files.wordpress.com/2011/10/singmy.pdf) with people's chant version: [Sing my tongue](http://hymni.files.wordpress.com/2011/10/singmytongue.pdf)
-[O salutaris](http://hymni.files.wordpress.com/2011/10/osalutarisnoh.pdf) [OSalutarisNOH.ly](http://repleatur.net/wp-content/uploads/2011/10/OSalutarisNOH.ly)
-[Conditor alme](http://hymni.files.wordpress.com/2011/10/conditoralme.pdf) [ConditorAlme.ly](http://repleatur.net/wp-content/uploads/2011/10/ConditorAlme.ly)
-[VeniCreator](http://repleatur.net/wp-content/uploads/2011/10/VeniCreator.pdf) [VeniCreator.ly](http://repleatur.net/wp-content/uploads/2011/10/VeniCreator.ly)
+* [Adoro Te](http://hymni.files.wordpress.com/2011/10/adorote.pdf) or in English [Godhead here in hiding](http://hymni.files.wordpress.com/2011/10/godhead.pdf)
+* [Sing my tongue](http://hymni.files.wordpress.com/2011/10/singmy.pdf) with people's chant version: [Sing my tongue](http://hymni.files.wordpress.com/2011/10/singmytongue.pdf)
+* [O salutaris](http://hymni.files.wordpress.com/2011/10/osalutarisnoh.pdf) [OSalutarisNOH.ly](http://repleatur.net/wp-content/uploads/2011/10/OSalutarisNOH.ly)
+* [Conditor alme](http://hymni.files.wordpress.com/2011/10/conditoralme.pdf) [ConditorAlme.ly](http://repleatur.net/wp-content/uploads/2011/10/ConditorAlme.ly)
+* [VeniCreator](http://repleatur.net/wp-content/uploads/2011/10/VeniCreator.pdf) [VeniCreator.ly](http://repleatur.net/wp-content/uploads/2011/10/VeniCreator.ly)
 
 Other:
 
