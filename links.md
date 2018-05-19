@@ -6,7 +6,7 @@ permalink: /links/
 
 ### Bulletin
 
-[parrafssp.pdf](http://repleatur.net/bulletins/parrafssp.pdf)
+[Now has its own page](/bulletins/)
 
 ### Recordings
 
