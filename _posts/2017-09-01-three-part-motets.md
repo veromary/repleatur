@@ -17,7 +17,7 @@ For an update on simpler polyphonic pieces.
 
 ### Canons (also known as Rounds)
 
-[Tantum Ergo]({{ site.url }}/pdf/motets/tantumergo-dp.pdf) The one Fr Popplewell wrote and taught at the legendary BXVI Homeschool Camp of 2017.
+[Tantum Ergo]({{ site.url }}/pdf/motets/tantumergo-dp.pdf) The one Fr Popplewell taught at the legendary BXVI Homeschool Camp of 2017.
 
 [Jubilate](http://www.brandt.id.au/newbookoldhymns/hymns/jubilatedeo.html) Attributed to Michael Praetorius
 
