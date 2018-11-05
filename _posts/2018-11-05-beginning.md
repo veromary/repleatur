@@ -7,7 +7,7 @@ This post is inspired by a few new people at Mass last night who were interested
 
 The first hurdle - pronouncing the Latin - here's a video I prepared earlier.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qgv-nrYYVzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qgv-nrYYVzQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Perhaps learning some Latin is the next part - I'm working on more resources for that, but for now I'll see that any print outs have a translation on them, so you'll be able to compare the Latin and English yourself and make the links.
 
@@ -27,7 +27,7 @@ And then there are the ad libitum pieces. Last night we sang [Ubi Caritas](http:
 
 One which I would very much like to sing is Anima Christi:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HXM1VdINphQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HXM1VdINphQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This was gleaned from [Chant Cafe](http://chantcafe.com) but today that webpage is not responding for me, so I've taken the liberty of copying the pdf into Repleatur's collection and [Here is the link to the PDF for Anima Christi thanks to Peter Kwasniewski]({{ site.url }}/pdf/animachristi2.pdf).
 

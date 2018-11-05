@@ -4,10 +4,6 @@ title: Links
 permalink: /links/
 ---
 
-### Bulletin
-
-[Now has its own page](/bulletins/)
-
 ### Recordings
 
 [Gregorian Chant Hymns](http://gregorian-chant-hymns.com/hymns-2/)
