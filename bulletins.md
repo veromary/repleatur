@@ -3,14 +3,13 @@ layout: page
 title: Bulletins for FSSP Parramatta Apostolate
 ---
 
-[![Bulletin Header](https://repleatur.net/bulletins/parrafssp.gif)](https://repleatur.net/bulletins/parrafssp.pdf)
+[![Bulletin Header](https://repleatur.net/bulletins/parrafssp.gif)](http://fssp-parra.org/bulletins/)
 
 **New Official Parramatta FSSP Webpage**: [fssp-parra.org](https://fssp-parra.org)
 
-Each week's bulletin is uploaded, usually Saturday night or Sunday morning.
-You can download your copy by [Clicking Here.](https://repleatur.net/bulletins/parrafssp.pdf)
+**New Bulletin Address:** [fssp-parra.org/bulletins/](http://fssp-parra.org/bulletins/)
 
-I hope this can be the digital equivalent of picking up last week's bulletin from the virtual church's foyer (or narthex)
+I'll leave this page here for now, but please update your links to reflect the new official source of information.
 
 For the Australian FSSP webpage see [fssp.net](http://fssp.net)
 
