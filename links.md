@@ -26,7 +26,7 @@ And this one for when I'm making CDs [Paper CD Case](http://www.papercdcase.com)
 
 (see also CC Watershed's links under recordings)
 
-[Institute of Christ the King - Propers and Kyriale](http://www.institute-christ-king.org/latin-mass-resources/sacred-music/)
+[Institute of Christ the King - Propers and Kyriale](https://www.institute-christ-king.org/resources/sacred-music)
 
 [Richard Rice's Communion Antiphons with verses](http://musicasacra.com/music/communio/)
 
