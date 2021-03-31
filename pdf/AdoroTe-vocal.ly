@@ -1,7 +1,7 @@
 \header {
   title = "Adoro te"
-  composer = "Dom Stephen (Esteban) Moreno OSB, 1890-1953"
-  poet = "Saint Thomas Aquinas OP, 1225-1274"
+  composer = "Dom Stephen Moreno OSB, 1890-1953"
+  poet = "St Thomas Aquinas OP, 1225-1274"
 }
 
 
@@ -152,6 +152,6 @@ lhlowervoice = \relative c { \partial 4 r4 |
 }
 
 \paper { 
-#(set-paper-size "a4")
+#(set-paper-size "a5")
 }
 
