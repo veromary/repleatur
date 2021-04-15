@@ -1,8 +1,7 @@
 # Repleatur's config file:
 title: "Repleatur"
 email: veronica@repleatur.net
-description: > # this means to ignore newlines until "baseurl:"
-  "Choir-related things for Latin Masses in the Parramatta diocese."
+description: Choir-related things for Latin Masses in the Parramatta diocese.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.repleatur.net" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
