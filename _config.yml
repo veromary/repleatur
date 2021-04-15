@@ -30,7 +30,7 @@ linkedin_username:
 bitcoin_url:
 paypal_url:
 flattr_button: 
-feed: http://feeds.feedburner.com/Repleatur
+feed: https://repleatur.net/feed
 
 # Post sharing icons
 show_sharing_icons: true
