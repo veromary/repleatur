@@ -13,3 +13,10 @@ And [Here Is My New Version](/pdf/motets/Praetorius_einros.pdf).
 
 We're also aiming to sing [Jesu Rex Admirabilis](https://www.ccwatershed.org/2015/09/09/sab-setting-palestrina-jesu-rex-admirabilis/).
 
+**UPDATE:** Singing Jesu Rex Admirabilis went really well today, but Lo How a Rose was a bit shaky, so I'm saving it for next Sunday's Sung Mass.
+
+Being a Sung Mass, I needed to put it in Latin, so :
+
+[Here is the Latin: Flos de Radíce Jesse](/pdf/motets/Praetorius_flos.pdf)
+
+
