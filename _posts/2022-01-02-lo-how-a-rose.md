@@ -19,4 +19,15 @@ Being a Sung Mass, I needed to put it in Latin, so :
 
 [Here is the Latin: Flos de Radíce Jesse](/pdf/motets/Praetorius_flos.pdf)
 
+Here is my instructional video for the top melody line:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c0zBDgcDDiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+and here is another choir singing it:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5mXeTSFZRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+and here's a very nice version in a church:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pHOrTKUTFd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
