@@ -18,16 +18,16 @@ comments: true
 
 * Mass 17
 * Credo 1
-* O Bone Jesu: [Video with sheet music](https://www.youtube.com/watch?v=NG6NGCcQFmg), [Sheet music by Abel Marco of Capella Gregoriana](http://drive.google.com/uc?id=14j7spKVdg7fo8-I-eFfcecesQg20-sWm&export=download)
+* O Bone Jesu: [Video with sheet music](https://www.youtube.com/watch?v=NG6NGCcQFmg), [Sheet music by Abel Marco of Capella Gregoriana](http://drive.google.com/uc?id=14j7spKVdg7fo8-I-eFfcecesQg20-sWm&export=download) - [**cached here: OBoneJesIngenieri.pdf**](/pdf/motets/OBoneJesIngenieri.pdf)
 * Adoro Te: [Page from New Book Old Hymns](https://newbookoldhymns.brandt.id.au/hymns/adorote.html)
-* Lord Jesus Think on Me: [Video with lyrics](https://www.youtube.com/watch?v=gtPD24Bvn38), [Hymnary's page with 1st 4 verses - probably just sing those](https://hymnary.org/text/lord_jesus_think_on_me)
+* Lord Jesus Think on Me: [Video with lyrics](https://www.youtube.com/watch?v=gtPD24Bvn38), [Hymnary's page with 1st 4 verses - probably just sing those](https://hymnary.org/text/lord_jesus_think_on_me) - *UPDATE* - [**sheet music: LordJesusThink.pdf**](/pdf/hymns/LordJesusThink.pdf)
 
 ### 20 March, 3rd Sunday of Lent
 
 * May this Lenten Discipline: [Video from awesome Mass in Sydney with Cardinal Burke](https://youtu.be/kus0_eCOxSA?t=162), Google "May this Lenten discipline,
 which we undertake with love,
 turn our minds to things above." for the lyrics and music - they are copyright, but appear in different pdf booklets and are very consistent as it's a recent composition. Australian too.
-* Audi Benigne Conditor: [Clear video](https://www.youtube.com/watch?v=kN-UBu8a8TE), [here's the link to gregobase](https://gregobase.selapa.net/chant.php?id=1830) - *UPDATE* [**sheet music: audiben.pdf **](/pdf/chant/audiben.pdf)
+* Audi Benigne Conditor: [Clear video](https://www.youtube.com/watch?v=kN-UBu8a8TE), [here's the link to gregobase](https://gregobase.selapa.net/chant.php?id=1830) - *UPDATE* - [**sheet music: audiben.pdf**](/pdf/chant/audiben.pdf)
 * Soul of my Saviour: you have to learn this off by heart, but here's the [video](https://www.youtube.com/watch?v=2AdFNZfGpSs)
 * When I survey the Wondrous Cross: [video with lyrics](https://www.youtube.com/watch?v=mDkuxEIcpdI)
 
