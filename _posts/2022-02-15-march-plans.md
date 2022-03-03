@@ -19,6 +19,7 @@ comments: true
 * Mass 17
 * Credo 1
 * O Bone Jesu: [Video with sheet music](https://www.youtube.com/watch?v=NG6NGCcQFmg), [Sheet music by Abel Marco of Capella Gregoriana](http://drive.google.com/uc?id=14j7spKVdg7fo8-I-eFfcecesQg20-sWm&export=download) - [**cached here: OBoneJesIngenieri.pdf**](/pdf/motets/OBoneJesIngenieri.pdf)
+  + Videos of the 4 parts: [Soprano video](https://rumble.com/vwd3h3-o-bone-jesu-ingegneri-soprano-part.html), [alto part as a video](https://rumble.com/vwd2yr-o-bone-jesu-alto-part.html), [Tenor:](https://rumble.com/vwd42h-o-bone-jesu-ingegneri-tenor-part.html), [Bass](https://rumble.com/vwd4il-o-bone-jesu-ingegneri-bass-part.html).
 * Adoro Te: [Page from New Book Old Hymns](https://newbookoldhymns.brandt.id.au/hymns/adorote.html)
 * Lord Jesus Think on Me: [Video with lyrics](https://www.youtube.com/watch?v=gtPD24Bvn38), [Hymnary's page with 1st 4 verses - probably just sing those](https://hymnary.org/text/lord_jesus_think_on_me) - *UPDATE* - [**sheet music: LordJesusThink.pdf**](/pdf/hymns/LordJesusThink.pdf)
 
