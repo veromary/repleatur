@@ -12,7 +12,7 @@ comments: true
 * Forty Days and Forty Nights: [fancy 4 part recording](https://www.youtube.com/watch?v=RJXe6B7g5gE), [awesome Anglican congregational recording with subtitles - words pretty close](https://www.youtube.com/watch?v=m5Nq4YXlcX8) - and [here are the words we're using](https://hymnary.org/hymn/HPEC1871/49) - *UPDATE* - [**sheet music: FortyDays.pdf**](/pdf/hymns/FortyDays.pdf)
 * Attende Domine: [exhaustive page of relevant links](https://newbookoldhymns.brandt.id.au/hymns/attende.html)
 * Godhead here in hiding: [good recording](https://www.youtube.com/watch?v=cqHIf5DYF2c) and [hymnary's page with words and sheet music](https://hymnary.org/text/godhead_here_in_hiding)
-* God of Mercy and Compassion: [Video with lyrics](https://www.youtube.com/watch?v=LOtiQyGa1OE), [Hymnary page with words and sheet music](https://hymnary.org/text/god_of_mercy_and_compassion_look_with_pi) - *UPDATE* - [**sheet music: GodofMercy.pdf**](/pdf/GodofMercy.pdf)
+* God of Mercy and Compassion: [Video with lyrics](https://www.youtube.com/watch?v=LOtiQyGa1OE), [Hymnary page with words and sheet music](https://hymnary.org/text/god_of_mercy_and_compassion_look_with_pi) - *ANOTHER UPDATE* - [**unison verses with 3 part chorus sheet music: GodofMercy.pdf**](/pdf/hymns/GodofMercy.pdf) 
 
 ### 13 March, 2nd Sunday of Lent
 
