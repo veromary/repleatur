@@ -12,7 +12,7 @@ I've set myself a bit of a high bar with linking to sheet music, so I might not 
 
 Low Mass
 
-* When I survey the wondrous Cross
+* When I survey the wondrous Cross - [**sheet music: WhenISurvey.pdf**](/pdf/hymns/WhenISurvey.pdf)
 * Vexilla Regis
 * Ave Verum
 * Abroad the regal banners

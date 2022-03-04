@@ -61,7 +61,7 @@ Fa -- ther, let me call Thee Fa -- ther
 secondWords = \lyricmode
 {
 	\set stanza = "2. "
-By my sins I have deser -- ved,
+By my sins I have de -- ser -- ved,
 Death and end -- less mi -- se -- ry;
 Hell with all its pains and tor -- ments
 And for all e -- ter -- ni -- ty.
