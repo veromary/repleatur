@@ -108,7 +108,7 @@ tenor = \relative c { \clef "treble_8"
   e'2 \bar "|" d4(c) b2 a4(g) f(g) \bar "|" a2(g4 f) g2 \bar "||" 
       c \bar "|" c c4(b) a2 a \bar "|" \once \override NoteColumn #'force-hshift = #1 a1. \bar "||" \break
       
-  a2 \bar "|" g g4(fis) g(a) b(g) \bar "|" e(a) fis2 g \bar "||" 
+  a2 \bar "|" g g4(fis) g(a) b(g) \bar "|" e(a fis2) g \bar "||" 
       g f! g a d,4(g) \bar "|" g1. \bar "||" 
 }
 
@@ -157,6 +157,31 @@ Yet hosts of heaven a -- dore Thee
 And trem -- ble as they gaze.
 	}
 
+secondWords = \lyricmode
+{
+\set stanza = "2. "
+I see Thy strength and vi -- gour,
+All fad -- ing in the strife,
+And death with cru -- el ri -- gour,
+Be -- reav -- ing Thee of life;
+O a -- go -- ny and dy -- ing!
+O love to sin -- ners free!
+Je -- sus, all grace sup -- ply -- ing,
+Turn Thou Thy face on me.
+}
+
+thirdWords = \lyricmode
+{
+\set stanza = "3. "
+What lan -- guage shall I bor -- row
+To thank Thee, dear -- est Friend,
+For this Thy dy -- ing sor -- row,
+Thy pi -- ty with -- out end?
+O make me Thine for -- ev -- er,
+And should I faint -- ing be,
+Lord, let me ne -- ver, ne -- ver
+Out -- live my love to Thee.
+}
 
 
 \book {
@@ -167,19 +192,27 @@ And trem -- ble as they gaze.
   \context Staff = upper << 
         \context Voice = sopranos { \global \soprano }
 	\context Lyrics = sopranos \lyricsto sopranos \firstWords
+	\context Lyrics = sopranosTwo \lyricsto sopranos \secondWords
+	\context Lyrics = sopranosThree \lyricsto sopranos \thirdWords
 		>>
   \context Staff = subupper <<
         \context Voice = altos    { \global \alto }
 	\context Lyrics = altos \lyricsto altos \firstWords
+	\context Lyrics = altosTwo \lyricsto altos \secondWords
+	\context Lyrics = altosThree \lyricsto altos \thirdWords
               >>
   \context Staff = lower <<
         \context Voice = tenors { \global \tenor }
 	\context Lyrics = tenors \lyricsto tenors \firstWords
-		>>
+	\context Lyrics = tenorsTwo \lyricsto tenors \secondWords
+	\context Lyrics = tenorsThree \lyricsto tenors \thirdWords
+			>>
   \context Staff = sublower <<
         \context Voice = basses { \global \bass }
 	\context Lyrics = basses \lyricsto basses \firstWords
-                              >>
+	\context Lyrics = bassesTwo \lyricsto basses \secondWords
+	\context Lyrics = bassesThree \lyricsto basses \thirdWords
+	                       >>
 >>
 \layout {
         indent=0
@@ -195,9 +228,12 @@ And trem -- ble as they gaze.
 
 %%% Lyric attribution
 
-\markup { \hspace #78 \small { \center-align { \line { \italic "P. Gerhardt, 1607-76, based on" "Salve caput cruentatum" }  
-                                               \line { "(" \italic "ascribed to St. Bernard" ")." \italic " Tr. Y. H." }
-}}}
+\markup { \hspace #3 \column { \line {" "}}}
+
+\markup { \small { \line { \italic "P. Gerhardt, 1607-76, based on" "Salve caput cruentatum" } }}
+\markup { \small { \line { "(" \italic "ascribed to St. Bernard" ")."} }}
+\markup { \small { \line{ \italic " Tr. Henry Williams Baker, 1821-77 and James Waddel Alexander, 1804-1859 " }}
+}
 
 %%% Note: In order to generate the Fraktur title below, a Fraktur font is needed.
 %%% HumboldtFraktur and GF Gesetz are examples of Fraktur fonts which resemble the original
@@ -207,101 +243,7 @@ And trem -- ble as they gaze.
 %%% on Macintosh installations, thus GF Gesetz has been used below
 %%% If you use another Fraktur font, simply put the name into the font-name override below.
 
-\markup { \line {  \small { \hspace #38 \override #'(font-name . "GF Gesetz") {"O Haupt voll Blut und Wunden." }}}}
-
-%%% Main lyrics markup block
-  
-\markup { \hspace #32 %%add space as necc. to center the column
-                      \column { %%% verse 1 is a column of 2 lines  
-                          \line { \hspace #2.2 \column { \lower #2.4 \fontsize #8 "O" }   %%Drop Cap goes here
-                                  \hspace #-1.2    %% adjust this if other letters are too far from Drop Cap
-                                  \column  { \raise #0.0 " SACRED head, sore wounded,"  
-                                                         "  Defiled and put to scorn;" } }          
-                          \line {  \hspace #2.5  %%adjust hspace until this line left edge is flush with Drop Cap
-                                   \lower  #1.56  %%adjust this until the line spacing looks right
-                                   \column {   
-                                           "O kingly head, surrounded"
-                                           "    With mocking crown of thorn:"
-                                           "What sorrow mars thy grandeur?"
-                                           "    Can death thy bloom deflower?"
-                                           "O countenance whose splendour"
-                                           "    The hosts of heaven adore."
-                                        }}
-                               
-                                   } %% finish verse 1    
-}         
-
-
-
-%%%fake score block to occupy space and force a pagebreak.  Can't think of a better way of doing this.
-\score{
-        {s4 }
-\header { breakbefore = ##f piece = ##f opus = ##f tagline = ##f }
-\layout{        
-        \context { \Staff
-                \remove Time_signature_engraver
-                \remove Key_engraver
-                \remove Clef_engraver
-                \remove Staff_symbol_engraver
-}}}
-
-        
-%%% second page
-%%% Continuation of lyrics
-
-\markup { \hspace #32   %%add space as necc. to center the column
-          \column { 
-                \hspace #1 
-                \line { "2  "
-                           \column {         
-				   "Thy beauty, long-desirèd,"
-				   "    Hath vanished from our sight;"
-				   "Thy power is all expirèd."
-				   "    And quenched the light of light."
-				   "Ah me! for whom thou diest,"
-				   "    Hide not so far thy grace:"
-				   "Show me, O Love most highest,"
-				   "    The brightness of thy face."
-                        }}
-                  \hspace #1 
-                  \line { "3  "
-                    \column {        
-			    "* I pray thee, Jesus, own me,"
-			    "    Me, Shepherd good, for thine;"
-			    "Who to thy fold hast won me,"
-			    "    And fed with truth divine."
-			    "Me guilty, me refuse not,"
-			    "    Incline thy face to me,"
-			    "This comfort that I lose not,"
-			    "    On earth to comfort thee."
-                        }}
-                \hspace #1 % adds vertical spacing between verses  
-                \line {"4  "
-                    \column {        
-			    "In thy most bitter passion"
-			    "    My heart to share doth cry,"
-			    "With thee for my salvation"
-			    "    Upon the Cross to die."
-			    "Ah, keep my heart thus movèd"
-			    "    To stand thy Cross beneath,"
-			    "To mourn thee, well-belovèd,"
-			    "    Yet thank thee for thy death."
-                        }} 
-                \hspace #1 % adds vertical spacing between verses  
-                \line {"5. "
-                    \column {        
-			    "* My days are few, O fail not,"
-			    "    With thine immortal power,"
-			    "To hold me that I quail not"
-			    "    In death's most fearful hour:"
-			    "That I may fight befriended,"
-			    "    And see in my last strife"
-			    "To me thine arms extended"
-			    "    Upon the Cross of life."
-                }}
-          }
-} %%% lyric markup bracket
-
+\markup { \line { { \hspace #8 \override #'(font-name . "UnifrakturMaguntia") {"O Haupt voll Blut und Wunden." }}}}
 
 %% Amen score block
 

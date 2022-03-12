@@ -17,11 +17,12 @@ permalink: /library/
 | Es ist ein Ros entsprungen, Praetorius | [PDF](/pdf/motets/Praetorius_einros.pdf) | [ly](/pdf/motets/Praetorius_einros.ly) |
 | Flos de Radice Jesse, Praetorius | [PDF](/pdf/motets/Praetorius_flos.pdf) | [ly](/pdf/motets/Praetorius_flos.ly) |
 | Forty Days and Forty Nights | [PDF](/pdf/hymns/FortyDays.pdf) | [ly](/pdf/hymns/FortyDays.ly) |
-|God of Mercy and Compassion with SAT chorus | [PDF](/pdf/hymns/GodofMercy.pdf) | [ly](/pdf/hymns/GodofMercy.ly) |
+|God of Mercy and Compassion with SAT chorus | [PDF (G minor)](/pdf/hymns/GodofMercy.pdf) and lower : [PDF (E minor)](/pdf/hymns/GodofMercy-low.pdf) | [ly](/pdf/hymns/GodofMercy.ly) and lower [transposed](/pdf/hymns/GodofMercy-low.ly) |
 | I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
 | Lo, how a Rose E'er Blooming, Praetorius | [pdf](/pdf/motets/lohowarose.pdf) | [ly](/pdf/motets/lohowarose.ly) |
-| Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
+| Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
 | Magnificat, a round with slightly random words, modernish | [pdf](/pdf/motets/magnificat-cf.pdf) | [abc](/pdf/motets/magnificat-cf.abc) |
+| O Sacred Head, Passion Chorale | [PDF](/pdf/hymns/OSacredHead.pdf) | [ly](/pdf/hymns/OSacredHead.ly) |
 | O Sanctissima, Beethoven's harmony | [PDF](/pdf/motets/O_sanctissima.pdf) | [ly](/pdf/motets/O_sanctissima.ly) |
 | Panis Angelicus, Casciolini/Baini | [PDF](/pdf/motets/Casciolini_Panis_Angelicus.pdf) | [ly](/pdf/motets/Casciolini_Panis_Angelicus.ly) |
 | Salvete Flores Martyrum, chant hymn for 28th December | [pdf](/pdf/holyinno/salvete.pdf) | [tex](/pdf/holyinno/salvete.tex) and [gabc](/pdf/holyinno/salvete.gabc) |

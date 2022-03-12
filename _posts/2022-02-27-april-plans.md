@@ -22,7 +22,7 @@ Low Mass
 * Mass 17
 * Credo 1
 * Popule Meus - Victoria - or the chant one if we're out of singers.
-* O Sacred Head - [Vatican Hymnal Page](https://archive.ccwatershed.org/media/pdfs/11/08/17/19-15-54_0.pdf) - about half the words are the same - I'm sorry, I loved the verse which called Jesus our Friend, but if you get the hang of the tune, I'll aim to have a copy with our words and this harmony together before the beginning of April!
+* O Sacred Head - [OSacredHead.pdf](/pdf/hymns/OSacredHead.pdf) - taking a harmony from the English Hymnal and pairing with the words we have in our hymnbooks.
 
 ### 17 April: Easter Sunday
 
