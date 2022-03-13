@@ -29,8 +29,8 @@ comments: true
 which we undertake with love,
 turn our minds to things above." for the lyrics and music - they are copyright, but appear in different pdf booklets and are very consistent as it's a recent composition. Australian too.
 * Audi Benigne Conditor: [Clear video](https://www.youtube.com/watch?v=kN-UBu8a8TE), [here's the link to gregobase](https://gregobase.selapa.net/chant.php?id=1830) - *UPDATE* - [**sheet music: audiben.pdf**](/pdf/chant/audiben.pdf)
-* Soul of my Saviour: you have to learn this off by heart, but here's the [video](https://www.youtube.com/watch?v=2AdFNZfGpSs)
-* When I survey the Wondrous Cross: [video with lyrics](https://www.youtube.com/watch?v=mDkuxEIcpdI)
+* Soul of my Saviour: you have to learn this off by heart, but here's the [video](https://www.youtube.com/watch?v=2AdFNZfGpSs) - [PDF](/pdf/organ/Soul-choir.pdf)
+* When I survey the Wondrous Cross: [video with lyrics](https://www.youtube.com/watch?v=mDkuxEIcpdI) - [PDF from Musica Sacra](https://media.musicasacra.com/books/hymns/pbeh_when_i_survey_rockingham.pdf)
 
 ### 27 March, 4th Sunday of Lent, Laetare
 
