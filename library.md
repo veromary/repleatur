@@ -9,6 +9,7 @@ permalink: /library/
 |---|----|----|
 |Title | PDF | Source |
 |----|----|----|
+| Abroad the Regal Banners Fly | [Pdf-melody](/pdf/hymns/AbroadTheRegal.pdf) | [ly](/pdf/hymns/AbroadTheRegal.ly) |
 | Adoro Te, Stephen Moreno | [Vocal score](/pdf/AdoroTe-vocal.pdf) and [With piano reduction](/pdf/AdoroTe.pdf) | [Vocal score](/pdf/AdoroTe-vocal.ly) and [with piano ly](/pdf/hymns/AdoroTe.ly) |
 | Ametur, SAB | [PDF](/pdf/AmeturChoir.pdf) | (Hugh Henry via Musica Sacra Forum) |
 | Assumpta est Maria in Caelum, Ravanello | [PDF](/pdf/motets/Ravanello_Assumpta.pdf), [All parts mp3](/pdf/motets/Ravanello_Assumpta.mp3), [Soprano mp3](/pdf/motets/Rav-sop.mp3), [Alto mp3](/pdf/motets/Rav-alt.mp3), [Bass mp3](/pdf/motets/Rav-bas.mp3) | [ly](/pdf/motets/Ravanello_Assumpta.ly) |
@@ -29,6 +30,7 @@ permalink: /library/
 | Sancta et Immaculata, Dering | [PDF](/pdf/dering/10-sanctaetimmac.pdf) | [ly](/pdf/dering/10-sanctaetimmac.ly) |
 | Soul of my Saviour | [pdf](/pdf/organ/Soul-choir.pdf) | [ly](/pdf/organ/Soul-choir.ly) |
 | Tantum Ergo, canon | [PDF](/pdf/motets/tantumergo-dp.pdf) | [abc](/pdf/motets/tantumergo-dp.abc) |
+| The Royal Banners Forward Go (Gonfalon Royal) | [PDF - melody line](/pdf/hymns/TheRoyalBanners.pdf) | [ly](/pdf/hymns/TheRoyalBanners.ly) |
 | Veni Creator Spiritus, Couturier | [PDF](/pdf/Veni_Creator_-_Couturier.pdf) | [musescore](/pdf/Veni_Creator_-_Couturier.mscz) |
 |---|---|---|
 

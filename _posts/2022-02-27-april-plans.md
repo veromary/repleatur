@@ -15,7 +15,7 @@ Low Mass
 * When I survey the wondrous Cross - [**sheet music: WhenISurvey.pdf**](/pdf/hymns/WhenISurvey.pdf)
 * Vexilla Regis - [**sheet music: vexilla.pdf**](/pdf/chant/vexilla.pdf)
 * Ave Verum - [A New Book of Old Hymns](https://newbookoldhymns.brandt.id.au/hymns/aveverum.html)
-* Abroad the regal banners - [**sheet music: abroad.pdf**](/pdf/chant/abroad.pdf)
+* Abroad the regal banners - [**sheet music: abroad.pdf**](/pdf/chant/abroad.pdf) - or a metrical tune [AbroadTheRegal.pdf](/pdf/hymns/AbroadTheRegal.pdf)
 
 ### 10 April: Palm Sunday
 
