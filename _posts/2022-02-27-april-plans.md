@@ -21,7 +21,7 @@ Low Mass - End of Daylight Savings!
 
 * Mass 17
 * Credo 1
-* Popule Meus - Victoria - or the chant one if we're out of singers.
+* Popule Meus - Victoria - or [O Crux Ave](https://www.ccwatershed.org/2017/03/04/o-crux-ave-partial-recording/) by David Friel - I purchased copies some years ago. That link goes to a partial recording for learning the middle part - roughly alto. It's mostly 3 parts for the chorus and splits into 4 for the final. The verses are psalm toned versions of the hymn Vexilla Regis.
 * Lord Jesus Think on Me again - [PDF](/pdf/hymns/LordJesusThink.pdf)
 
 ### 17 April: Easter Sunday
