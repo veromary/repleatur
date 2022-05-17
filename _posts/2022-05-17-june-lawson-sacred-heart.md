@@ -22,6 +22,7 @@ Pentecost falls on the 5th of June this year. Then we have Trinity, Corpus Chris
 * Mass 11
 * Credo 1
 * Jam sol recedit igneus - Hymn from 2nd Vespers [PDF](/pdf/chant/trinity-2vespershymn.pdf)
+* If we can get 4 parts together, [Cantate Domino](/pdf/cpdl/Cantate_Domino_-_Pitoni.pdf) by Giuseppe Pitoni
 * Firmly I Believe
 
 ### 19 June - 2nd Sunday after Pentecost / Sunday in the Octave of Corpus Christi
