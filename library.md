@@ -45,6 +45,7 @@ permalink: /library/
 | Glory Be Me | [PDF](/pdf/organ/GloryBeMe.pdf) | [ly](/pdf/organ/GloryBeMe.ly) |
 | God of Mercy and Compassion, though [this one by JKK is great too](https://forum.musicasacra.com/forum/discussion/13367/lent-or-septuagesima-hymn-god-of-mercy-and-compassion) | [PDF](/pdf/GodofMercy.pdf) | (thanks to Hymnary.org and the Catholic Church Hymnal with Music 1905) |
 | Hail Queen | [PDF](/pdf/organ/HailQueen.pdf) | [ly](/pdf/organ/HailQueen.ly) |
+| Help, Lord, the Souls | [PDF](/pdf/organ/HelpLord-Dundee.pdf) | [ly](/pdf/organ/HelpLord-Dundee.ly) |
 | O Sacrament most Holy | [PDF](/pdf/organ/osacrament.pdf) | [ly](/pdf/organ/osacrament.ly) |
 | O Salutaris, Nova Organi Harmonia | [PDF](/pdf/organ/OSalutarisNOH.pdf) | [ly](/pdf/organ/OSalutarisNOH.ly) |
 | O Salutaris Webbe | [PDF](/pdf/organ/OSalutarisWebbe.pdf) | [ly](/pdf/organ/OSalutarisWebbe.ly) |
