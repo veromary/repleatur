@@ -15,26 +15,6 @@
 {
     indent = 0.0
     line-width = 185 \mm
-    %between-system-space = 0.1 \mm
-    %between-system-padding = #1
-    %ragged-bottom = ##t
-    %top-margin = 0.1 \mm
-    %bottom-margin = 0.1 \mm
-    %foot-separation = 0.1 \mm
-    %head-separation = 0.1 \mm
-    %before-title-space = 0.1 \mm
-    %between-title-space = 0.1 \mm
-    %after-title-space = 0.1 \mm
-    %paper-height = 32 \cm
-    %print-page-number = ##t
-    %print-first-page-number = ##t
-    %ragged-last-bottom
-    %horizontal-shift
-    %system-count
-    %left-margin
-    %paper-width
-    %printallheaders
-    %systemSeparatorMarkup
 }
 
 \header
@@ -152,6 +132,7 @@ bassWords = \lyricmode
 {
     \transpose ees d
     <<
+	\chords { ees1 bes2 des2 aes ees bes1 ees1. c2:m f bes ees f2:m bes ees }
 	\new Staff
 	<<
 	    %\set Score.midiInstrument = "Orchestral Strings"
@@ -248,6 +229,6 @@ ees2 aes,4 c bes bes ees2
 	\line{\italic {Tune Name:} Dundee}
 	%\line{\italic {Poetic Meter:} }
 	\line{\italic Source: English Hymnal, no. 428}
-        \line{\italic {Original Key:} G}
+        \line{\italic {Original Key:} E\flat}
     }
 }
