@@ -55,28 +55,28 @@ global = {
 }
 
 soprano = \relative c' { 
-\partial 2 e2 g a2 b1~ b2 b2 a g2 s1 \bar "" s2 \bar "||"
+\partial 2 e2 g a2 b2. b4 a2 g2 s1 \bar "" s2 \bar "||"
 fis2 g a2 b2. b4 a2 a2 s1 \bar "" s2 \bar "||"
 b2 d2 b2 a2 fis2 g a2 b2. \bar "||"
 \breathmark b4 b2. b4 b2 a4( g) fis2 fis s1 \bar "" s2 \bar "||"
 }
 
 alto = \relative c' { 
-b2 e e dis1~ dis2 e e e <fis dis>1.
+b2 e e dis2 e e e <fis dis>1.
 dis2 e fis g2. g4 g2 fis <g g>1.
 g2 g g fis fis e e dis2.
 dis4 e2 fis e e e dis <e e>1.
 }
 
 tenor = \relative c' { 
-\clef bass g2 b e, fis1~ fis2 g2 c b b1.
+\clef bass g2 b e, fis2 g2 c b b1.
 b2 b d d2. d4 e2 d4( c) b1.
 d2 b g a b b e, fis2.
 fis4 g2 fis g c fis, b g1.
 }
 
 bass = \relative c { 
-e2 e c b1~ b2 e a, e' b1.
+e2 e c b2 e a, e' b1.
 b2 e d g2. b,4 c2 d g1.
 g2 g g d d e c b2.
 b4 e2 dis e a, b b e1.
