@@ -50,22 +50,22 @@ push = { \once \override NoteColumn #'force-hshift = #0.4 }
 
 global = {
   \time 2/2
-  \key g \major
+  \key e \minor
   \set Staff.midiInstrument = "church organ"
 }
 
 soprano = \relative c' { 
-\partial 2 e2 g a2 b1~ b2 b2 a g2 fis1. \bar "||"
-fis2 g a2 b2. b4 a2 a2 g1. \bar "||"
+\partial 2 e2 g a2 b1~ b2 b2 a g2 s1 \bar "" s2 \bar "||"
+fis2 g a2 b2. b4 a2 a2 s1 \bar "" s2 \bar "||"
 b2 d2 b2 a2 fis2 g a2 b2. \bar "||"
-\breathmark b4 b2. b4 b2 a4( g) fis2 fis e1. \bar "||"
+\breathmark b4 b2. b4 b2 a4( g) fis2 fis s1 \bar "" s2 \bar "||"
 }
 
 alto = \relative c' { 
-b2 e e dis1~ dis2 e e e dis1.
-dis2 e fis g2. g4 g2 fis g1.
+b2 e e dis1~ dis2 e e e <fis dis>1.
+dis2 e fis g2. g4 g2 fis <g g>1.
 g2 g g fis fis e e dis2.
-dis4 e2 fis e e e dis e1.
+dis4 e2 fis e e e dis <e e>1.
 }
 
 tenor = \relative c' { 
@@ -83,11 +83,26 @@ b4 e2 dis e a, b b e1.
 }
 
 firstVerse = \lyricmode {
-O gra -- cious Ma -- ker bend thine ears
+\set stanza = "1. " O gra -- cious Ma -- ker bend thine ears
 Un -- to our prayers and bit -- ter tears;
 May we this fast in truth now keep,
 Whilst thus we pray and hum -- bly weep.
 }
+
+secondVerse = \lyricmode {
+\set stanza = "2. " Thy pier -- cing eye our hearts doth scan,
+And mea -- sure all the woes of man;
+Whilst now, we sorrow -- ing turn to thee,
+From sin’s foul bur -- den set us free.
+}
+
+thirdVerse = \lyricmode {
+\set stanza = "3. " Much have we sinned, and to ex -- cess,
+But spare us, Lord, who thus con -- fess;
+And for the glo -- ry of thy name,
+Thy sav -- ing mer -- cy now pro -- claim.}
+
+
 
 \paper {
   #(set-paper-size "a4")
@@ -95,6 +110,7 @@ Whilst thus we pray and hum -- bly weep.
   print-page-number = ##f
   ragged-last-bottom = ##t
   ragged-bottom = ##t
+  line-width = 150
 }
 
 \book {
@@ -105,14 +121,14 @@ Whilst thus we pray and hum -- bly weep.
   \context Staff = upper << 
         \context Voice = sopranos { \voiceOne \global \soprano }
         \context Voice = altos    { \voiceTwo \global \alto }
-
                               >>
-  \new Lyrics = tenors
+    \new Lyrics \lyricsto "altos" \firstVerse
+    \new Lyrics \lyricsto "altos" \secondVerse
+    \new Lyrics \lyricsto "altos" \thirdVerse
   \context Staff = lower <<
         \context Voice = tenors { \voiceOne \global \tenor }
         \context Voice = basses { \voiceTwo \global \bass }
                               >>
-  \context Lyrics = tenors \lyricsto tenors \firstVerse
 >>
 \layout {
         indent=0
@@ -171,7 +187,7 @@ Whilst thus we pray and hum -- bly weep.
    \context { 
         \Score timing = ##f }
         ragged-right = ##t
-        indent = 15\cm
+        indent = 10\cm
    \context { \Staff \remove Time_signature_engraver }
 
        } %% close layout
