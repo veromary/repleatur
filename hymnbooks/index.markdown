@@ -8,7 +8,7 @@ wordpress_id: 142
 ---
 
 
-[![Home made books](http://repleatur.net/wp-content/uploads/2012/03/homemadebooks-300x225.jpg)](http://repleatur.net/hymnbooks/homemadebooks/)
+[![Home made books](/wp-content/uploads/2012/03/homemadebooks-300x225.jpg)](/hymnbooks/homemadebooks/)
 
 ### Printed Books
 
