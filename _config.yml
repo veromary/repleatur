@@ -3,7 +3,7 @@ title: "Repleatur"
 email: veronica@repleatur.net
 description: Choir-related things for Latin Masses in the Parramatta diocese.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.repleatur.net" # the base hostname & protocol for your site
+url: "https://www.repleatur.net" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
 
 # Google analytics
