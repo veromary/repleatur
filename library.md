@@ -18,6 +18,7 @@ permalink: /library/
 | Es ist ein Ros entsprungen, Praetorius | [PDF](/pdf/motets/Praetorius_einros.pdf) | [ly](/pdf/motets/Praetorius_einros.ly) |
 | Flos de Radice Jesse, Praetorius | [PDF](/pdf/motets/Praetorius_flos.pdf) | [ly](/pdf/motets/Praetorius_flos.ly) |
 | Forty Days and Forty Nights | [PDF](/pdf/hymns/FortyDays.pdf) | [ly](/pdf/hymns/FortyDays.ly) |
+| Glory be to Jesus | [PDF (D major)](/pdf/motets/Glory-be-to-Jesus.pdf) | [ly](/pdf/motets/Glory-be-to-Jesus.ly) |
 |God of Mercy and Compassion with SAT chorus | [PDF (G minor)](/pdf/hymns/GodofMercy.pdf) and lower : [PDF (E minor)](/pdf/hymns/GodofMercy-low.pdf) | [ly](/pdf/hymns/GodofMercy.ly) and lower [transposed](/pdf/hymns/GodofMercy-low.ly) |
 | I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
 | Lo, how a Rose E'er Blooming, Praetorius | [pdf](/pdf/motets/lohowarose.pdf) | [ly](/pdf/motets/lohowarose.ly) |
