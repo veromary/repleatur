@@ -28,7 +28,7 @@ Low Mass
 
 Sung Mass - also feast of Our Lady of Mt Carmel
 
-* Flos Carmeli
+* [Flos Carmeli](https://www.ccwatershed.org/2018/07/07/flos-carmeli-carmelite-novena/)
 * Help of Christians
 
 ### 23 - 8th Sunday after Pentecost
@@ -44,7 +44,7 @@ Low Mass
 
 Sung Mass
 
-* Panis Angelicus
+* [Panis Angelicus](/pdf/motets/Casciolini_Panis_Angelicus.pdf)
 * Holy God
 
 
