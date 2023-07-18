@@ -1,0 +1,18 @@
+return {
+ ["line_heights"]={
+ },
+ ["last_syllables"]={
+  ["924ffa377f371736c495b3096dde1247f00bea61.1"]={
+   [32]=32,
+   [40]=40,
+   [16]=16,
+  },
+ },
+ ["saved_lengths"]={
+ },
+ ["saved_newline_before_euouae"]={
+ },
+ ["state_hashes"]={
+  ["924ffa377f371736c495b3096dde1247f00bea61.1"]="eb7f014bc08f99717c7dd370d5d5eb8a",
+ },
+}
