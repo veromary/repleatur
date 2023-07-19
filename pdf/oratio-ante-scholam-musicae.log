@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.3.23)  19 JUL 2023 09:14
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.3.23)  19 JUL 2023 10:54
  restricted system commands enabled.
 **oratio-ante-scholam-musicae.tex
 (./oratio-ante-scholam-musicae.tex
@@ -1158,23 +1158,23 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 (Font)              scaled to size 40.0pt on input line 15.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 4217) in paragraph at lines 77--81
+Underfull \hbox (badness 4217) in paragraph at lines 77--84
 \TU/LinLibertine(0)/m/n/10 atque Caecília, tua no-bis pietáte
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 77--81
+Underfull \hbox (badness 2753) in paragraph at lines 77--84
 \TU/LinLibertine(0)/m/n/10 con-céde; ut quam of-férimus lau-
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 84--85
-\TU/LinLibertine(0)/m/n/10 unto us thy mercy; that through
+Underfull \hbox (badness 1087) in paragraph at lines 87--93
+\TU/LinLibertine(0)/m/n/10 unto us Thy mercy; that through
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 84--85
-\TU/LinLibertine(0)/m/n/10 earthly pil-grim-age, * we may be
+Underfull \hbox (badness 1755) in paragraph at lines 87--93
+\TU/LinLibertine(0)/m/n/10 earthly pil-grim-age, \gre@font@variant@D  \TU/LinLibertine(0)/m/n/10 we may be
  []
 
 [1
@@ -1186,12 +1186,12 @@ Here is how much of LuaTeX's memory you used:
  100000,1977958 words of node,token memory allocated
  1289 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 30 attribute, 207 glue_spec, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 2:5175,3:939,4:6,5:1348,6:126,7:3508,9:1724,10:4,11:92
+   avail lists: 2:5225,3:937,4:6,5:1346,6:124,7:3506,9:1720,10:4,11:92
  56628 multiletter control sequences out of 65536+600000
  66 fonts using 17330943 bytes
  87i,10n,110p,631b,1191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/veronica/.TinyTeX/texmf-dist/fonts/truetype/public/gregoriotex/greextra.ttf></home/veronica/.TinyTeX/texmf-dist/fonts/truetype/public/gregoriotex/greciliae.ttf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf>
-Output written on oratio-ante-scholam-musicae.pdf (1 page, 24386 bytes).
+Output written on oratio-ante-scholam-musicae.pdf (1 page, 24308 bytes).
 
 PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

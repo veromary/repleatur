@@ -6,7 +6,7 @@ permalink: /about/
 
 The name Repleatur comes from a prayer before choir practice.
 
-[OratioAnteSchola]({{ site.url }}/pdf/oratio-ante-scholam-musicae.pdf)
+[OratioAnteSchola]({{ site.url }}/pdf/oratio-ante-scholam-musicae.pdf) and [two to a page]({{ site.url }}/pdf/oratio-ante-scholam-musicae-2up.pdf)
 
 You can listen here:
 
