@@ -45,13 +45,17 @@ texttwo = \lyricmode {
 
 }
 
-upper = \relative c'' {
+upperone = \relative c'' {
   \clef treble
   \key c \major
   \time 4/4
 
   g,1( g2) c4 d e1( d2) f4 g
 a2 f4 e8 d e1( e1)( e2) f2 e1( e2.)
+}
+
+uppertwo = \relative c' {
+  g1
 }
 
 lower = \relative c {
@@ -82,7 +86,12 @@ g2 a4 b c b8 a g2 a1
     >>
     \new Lyrics = "altos"
    \new PianoStaff <<
-      \new Staff = "upper" \upper
+      \new Staff <<
+         \new Voice = "upper" 
+              \upperone
+         \new Voice = "uppertwo"
+              \uppertwo
+         >>
       \new Staff = "lower" \lower
     >>
     \context Lyrics = "sopranos" \lyricsto "sopranos" \text
