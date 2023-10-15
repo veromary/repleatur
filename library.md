@@ -30,6 +30,7 @@ permalink: /library/
 | Salvete Flores Martyrum, chant hymn for 28th December | [pdf](/pdf/holyinno/salvete.pdf) | [tex](/pdf/holyinno/salvete.tex) and [gabc](/pdf/holyinno/salvete.gabc) |
 | Sancta et Immaculata, Dering | [PDF](/pdf/dering/10-sanctaetimmac.pdf) | [ly](/pdf/dering/10-sanctaetimmac.ly) |
 | Soul of my Saviour | [pdf](/pdf/organ/Soul-choir.pdf) | [ly](/pdf/organ/Soul-choir.ly) |
+| Sub Tuum (Slavonic) | [PDF](/pdf/motets/subtuum-slavonic.pdf) | [ly](/pdf/motets/subtuum-slavonic.pdf) |
 | Tantum Ergo, canon | [PDF](/pdf/motets/tantumergo-dp.pdf) | [abc](/pdf/motets/tantumergo-dp.abc) |
 | The Royal Banners Forward Go (Gonfalon Royal) | [PDF - melody line](/pdf/hymns/TheRoyalBanners.pdf) | [ly](/pdf/hymns/TheRoyalBanners.ly) |
 | Veni Creator Spiritus, Couturier | [PDF](/pdf/Veni_Creator_-_Couturier.pdf) | [musescore](/pdf/Veni_Creator_-_Couturier.mscz) |
