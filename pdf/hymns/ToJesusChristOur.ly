@@ -26,7 +26,7 @@ text = \lyricmode {
 versetwo = \lyricmode {
 \set stanza = "2. " Your reign ex -- tend O King be -- nign
 to e -- v'ry land and na -- tion; 
-for in yout king -- dom Lord di -- vine, 
+for in your king -- dom Lord di -- vine, 
 a -- lone we find sal -- va -- tion.
 }
 
@@ -64,7 +64,15 @@ refrain = \lyricmode {
   \layout { }
   \midi { }
 }
+
+\markup {
+\vspace #2
+}
+
 \score{
+  \header {
+    piece = "Refrain"
+  }
   <<
     \new Voice = "one" {
       \chorus
