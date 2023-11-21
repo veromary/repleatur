@@ -24,16 +24,16 @@ text = \lyricmode {
 }
 
 versetwo = \lyricmode {
-\set stanza = "2. " Your reign ex -- tend O King be -- nign
+\set stanza = "2. " Thy reign ex -- tend, O King be -- nign,
 to e -- v'ry land and na -- tion; 
-for in your king -- dom Lord di -- vine, 
+for in Thy king -- dom, Lord di -- vine, 
 a -- lone we find sal -- va -- tion.
 }
 
 versethree = \lyricmode {
-\set stanza = "3. " To you and to your Church, great King,
+\set stanza = "3. " To Thee and to Thy Church, great King,
 we pledge our heart's ob -- la -- tion; 
-un -- til be -- fore your throne we sing
+un -- til be -- fore Thy throne we sing
 in end -- less ju -- bi -- la -- tion.
 }
 
