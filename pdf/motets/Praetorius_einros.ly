@@ -7,40 +7,40 @@ hcomposer=\markup \smallCaps{ "M. Praetorius"}
 ss=\once \set suggestAccidentals = ##t
 molle=^\markup{\musicglyph #"accidentals.vaticanaM1"}
 
-incipit =
-#(define-music-function (parser location incipit-music) (ly:music?)
-#{
-\once \override Staff.InstrumentName.self-alignment-X = #RIGHT
-\once \override Staff.InstrumentName.self-alignment-Y = ##f
-\once \override Staff.InstrumentName.padding = #0.3
-\once \override Staff.InstrumentName.stencil =
-#(lambda (grob)
-(let* ((instrument-name (ly:grob-property grob 'long-text)))
-(set! (ly:grob-property grob 'long-text)
-#{ \markup
-\score
-{
-{ \context MensuralStaff \with {
-instrumentName = #instrument-name
-\remove "Time_signature_engraver"
-} $incipit-music
-}
+%incipit =
+%#(define-music-function (parser location incipit-music) (ly:music?)
+%#{
+%\once \override Staff.InstrumentName.self-alignment-X = #RIGHT
+%\once \override Staff.InstrumentName.self-alignment-Y = ##f
+%\once \override Staff.InstrumentName.padding = #0.3
+%\once \override Staff.InstrumentName.stencil =
+%#(lambda (grob)
+%(let* ((instrument-name (ly:grob-property grob 'long-text)))
+%(set! (ly:grob-property grob 'long-text)
+%#{ \markup
+%\score
+%{
+%{ \context MensuralStaff \with {
+%instrumentName = #instrument-name
+%\remove "Time_signature_engraver"
+%} $incipit-music
+%}
 
-\layout { $(ly:grob-layout grob)
-line-width = \indent
-indent =
-% primitive-eval is probably easiest for
-% escaping lexical closure and evaluating
-% everything respective to (current-module).
-#(primitive-eval
-'(or (false-if-exception (- indent incipit-width))
-(* 0.5 indent)))
-ragged-right = ##f
-ragged-last = ##f
-system-count = #1 }
-}
-#})
-(system-start-text::print grob)))
+%\layout { $(ly:grob-layout grob)
+%line-width = \indent
+%indent =
+%% primitive-eval is probably easiest for
+%% escaping lexical closure and evaluating
+%% everything respective to (current-module).
+%#(primitive-eval
+%'(or (false-if-exception (- indent incipit-width))
+%(* 0.5 indent)))
+%ragged-right = ##f
+%ragged-last = ##f
+%system-count = #1 }
+%}
+%#})
+%(system-start-text::print grob)))
 #}) 
 
 global = {
@@ -49,12 +49,12 @@ global = {
    \override Voice.NoteHead.style = #'baroque
    \key g \dorian
    \time 2/2
-   \repeat unfold 17 { \skip 1 \bar "" \skip 1}
+   \repeat unfold 16 { \skip 1 \bar "" \skip 1}
   
  
   % the final bar line is not interrupted
   \revert Staff.BarLine #'transparent
-  \bar "|." \stopStaff
+%  \bar "|." \stopStaff
 }
 
 
@@ -80,8 +80,8 @@ d c c1
 a bes
 a2 g1
 f e2
-f1
-r2 a g e \break
+f1 \break
+r2 a g e
 f d c1
 r2 c'2 c2 c
 d c c1
@@ -111,12 +111,12 @@ staffAlto =
 a1 a2 f
 f f e1
 d d
-c d2. a4
+c2 c d2. a4
 c1 c
 a'1 a2 f
 f f e1
 d d
-c d2. a4
+c2 c d2. a4
 c1 c
 r2 f2 d c
 c2 b c4 d e2
@@ -200,50 +200,50 @@ c1 f,\longa
 	}
 	
 	
-incipitcantus=\new MensuralVoice = "incipitcantus" <<
+%incipitcantus=\new MensuralVoice = "incipitcantus" <<
 
-{ \relative c'' {
+%{ \relative c'' {
 
-\clef "petrucci-c1"
-\key f \major
-s2
-  }
-}
->>
+%\clef "petrucci-c1"
+%\key f \major
+%s2
+%  }
+%}
+%>>
 
-incipitaltus=\new MensuralVoice = "incipitcantusII" <<
-
-
-{ \relative c' {
-\clef "petrucci-c3"
-\key  f \major
-s2
-  }
-}
->>
-
-incipittenor=\new MensuralVoice = "incipitaltus" <<
+%incipitaltus=\new MensuralVoice = "incipitcantusII" <<
 
 
-{ \relative c' {
-\clef "petrucci-c4"
-\key  f \major
-s2
+%{ \relative c' {
+%\clef "petrucci-c3"
+%\key  f \major
+%s2
+%  }
+%}
+%>>
 
-  }
-}
->>
-
-incipitbassus=\new MensuralVoice = "incipitbassus" <<
+%incipittenor=\new MensuralVoice = "incipitaltus" <<
 
 
-{ \relative c {
-\clef "petrucci-f"
-\key  f \major
-s2
-  }
-}
->>
+%{ \relative c' {
+%\clef "petrucci-c4"
+%\key  f \major
+%s2
+
+%  }
+%}
+%>>
+
+%incipitbassus=\new MensuralVoice = "incipitbassus" <<
+
+
+%{ \relative c {
+%\clef "petrucci-f"
+%\key  f \major
+%s2
+%  }
+%}
+%>>
 
 
 
@@ -294,12 +294,12 @@ And share our ev -- 'ry load.
    \set stanza = "1."
  
 Lo, how a rose e'er bloom -- ing,
-From ten -- der stem hath sprung.
+From ten -- der stem hath _ sprung.
 Of Jes -- se's li -- neage com -- ing,
-As men of old have sung;
+As men of old have _ sung;
 It came a flow' -- ret bright, __ _ _
 A -- mid the cold of win -- ter,
-When half __ _ _ spent was the night.
+When half _ spent _ was the night.
  
  }
  
@@ -308,12 +308,12 @@ When half __ _ _ spent was the night.
    \set stanza = "2."
     
  I -- sai -- ah 'twas fore -- told it,
-The Rose I have in mind,
+The Rose I have in _ mind,
 With Ma -- ry we be -- hold it,
-The vir -- gin mo -- ther kind;
+The vir -- gin mo -- ther _ kind;
 To show God's love a -- right, __ _ _
 She bore to men a Sa -- viour,
-When half __ _ _ spent was the night.  
+When half _ spent _ was the night.  
 
  }
  
@@ -321,12 +321,12 @@ When half __ _ _ spent was the night.
 {
   \set stanza = "3."
  O Flower, whose fra -- grance ten -- der
-With sweet -- ness fills the air,
+With sweet -- ness fills the _ air,
 Dis -- pel with glor -- ious splend -- our
-The dark -- ness ev -- 'ry -- where;
+The dark -- ness ev -- 'ry _ -- where;
 True man, yet ve -- ry God, __ _ _
 From Sin and death now save us,
-And share __ _ _ our ev -- 'ry load.
+And share _ our _ ev -- 'ry load.
 
 }
  
@@ -377,11 +377,11 @@ And share our ev -- 'ry load.
 \book {
 
  \paper{
-	evenHeaderMarkup=\markup  \fill-line { \hcomposer \htitle \fromproperty #'page:page-number-string   }
-	oddHeaderMarkup= \markup  \fill-line { \on-the-fly #not-first-page \fromproperty #'page:page-number-string \on-the-fly #not-first-page \htitle \on-the-fly #not-first-page \hcomposer   }
+%	evenHeaderMarkup=\markup  \fill-line { \hcomposer \htitle \fromproperty #'page:page-number-string   }
+%	oddHeaderMarkup= \markup  \fill-line { \on-the-fly #not-first-page \fromproperty #'page:page-number-string \on-the-fly #not-first-page \htitle \on-the-fly #not-first-page \hcomposer   }
 	
-	system-system-spacing =
-	#'((basic-distance . 10) (minimum-distance . 0) (padding . 3))
+%	system-system-spacing =
+%	#'((basic-distance . 10) (minimum-distance . 0) (padding . 3))
 	
   }
 
@@ -389,7 +389,7 @@ And share our ev -- 'ry load.
 \header {
 	title = \markup \smallCaps "Es ist ein Ros entsprungen"
 	composer = \markup \center-column { "Anonimo, XVI sec." "arm. Michael Prætorius (1571 -1621)" }
-	copyright = \markup \teeny { \vspace #5  "© 2016 by CPDL. This edition can be fully distributed, duplicated, performed, and recorded. Typesetting by Francesco Spiga."}
+	copyright = \markup \teeny { \vspace #5  "© 2016 by CPDL. Typesetting by Francesco Spiga. Munged by V Brandt c2023"}
 	poet = \markup \left-column { \line { \smallCaps {M. Praetorius,}\italic {Musæ Sioniæ,} } \line { 6. Theil, 1605, Regensburg } \line { "   " } }
 }
 
@@ -458,8 +458,8 @@ And share our ev -- 'ry load.
     }
 	}
   
-  \layout {  indent = 2.5\cm
-              incipit-width = 1\cm
+  \layout { % indent = 2.5\cm
+            %  incipit-width = 1\cm
               ragged-last=##f
 
 	
@@ -482,7 +482,7 @@ And share our ev -- 'ry load.
       % **** Prevents lyrics from running too close together
       \override LyricSpace #'minimum-distance = #0.6
       % **** Makes the text of lyrics a little smaller
-      \override LyricText #'font-size = #-1
+%      \override LyricText #'font-size = #-1
       % **** Moves lines of lyrics closer together
       \override VerticalAxisGroup #'minimum-Y-extent = #'(-1 . 1)
     }
@@ -491,62 +491,4 @@ And share our ev -- 'ry load.
 
 
 
-
-
-\markup { 
-\fill-line {
-\column {
-
-\hspace #0.8 % adds vertical spacing between verses
-\line { \bold "1. "
-\column {
- 
-  "Es ist ein Ros entsprungen" 
-  "aus einer Wurzel zart," 
-  "wie uns die Alten sungen:" 
-  "Von Jesse kam die Art" 
-  "und hat ein Blüm lein 'bracht" 
-  "mitten im kalten Winter," 
-  "wohl zu der halben Nacht."
-  
 }
-}
-\vspace #1 % adds vertical spacing between verses
-\line { \bold "2. "
-\column {
-   "Das Röslein, das ich meine," 
-   "davon Jesaia sagt,"
-   "ist Maria, die Reine," 
-   "die uns das Blümlein bracht'."
-   "Aus Gottes ew'gem Rat" 
-   "hat sie ein Kind geboren" 
-   "und blieb doch reine Magd."
-  
-}
-}
-
-\vspace #1 % adds vertical spacing between verses
-\line { \bold "3. "
-\column {
-
-  "Das Blümelein so kleine," 
-  "das duftet uns so süß," 
-  "mit seinem hellen Scheine" 
-  "vertreibt die Finster nis:" 
-  "Wahr' Mensch und wahrer Gott," 
-  "hilft uns aus allem Leide," 
-  "rettet von Sünd' und Tod."
-
-}
-}
-
-\vspace #5
-
-}
-
-}
-}
-
-
-}
-

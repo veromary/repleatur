@@ -49,12 +49,12 @@ global = {
    \override Voice.NoteHead.style = #'baroque
    \key g \dorian
    \time 2/2
-   \repeat unfold 17 { \skip 1 \bar "" \skip 1}
+   \repeat unfold 16 { \skip 1 \bar "" \skip 1}
   
  
   % the final bar line is not interrupted
   \revert Staff.BarLine #'transparent
-  \bar "|." \stopStaff
+%  \bar "|." \stopStaff
 }
 
 
@@ -80,11 +80,11 @@ d c c1
 a bes
 a2 g1
 f e2
-f1
-r2 a g e \break
+f1 \break
+r2 a g e 
 f d c1
-r2 c'2 c2 c
-d c c1
+r2 c'2 c2 c 
+d c c1 \break
 a bes
 a2 g1
 f e2
@@ -111,12 +111,12 @@ staffAlto =
 a1 a2 f
 f f e1
 d d
-c d2. a4
+c2 c d2. a4
 c1 c
 a'1 a2 f
 f f e1
 d d
-c d2. a4
+c2 c d2. a4
 c1 c
 r2 f2 d c
 c2 b c4 d e2
@@ -296,12 +296,12 @@ De te me sá -- ti -- a.
    \set stanza = "1."
  
 Flos de Ra -- dí -- ce Jes -- se
-Est na -- tus hó -- di -- e;
+Est na -- tus hó -- di _ -- e;
 Quem no -- bis jam ad -- és -- se,
-Lae -- tá -- mur ú -- ni -- ce.
-Flos il -- le Je -- sus est, __ _ _
+Lae -- tá -- mur ú -- ni _ -- ce.
+Flos il -- le Je -- sus est, _ _
 Ma -- rí -- a vir -- go ra -- dix,
-De qua __ _ _ flos or -- tus est.
+De qua _ flos _ or -- tus est.
 
  }
  
@@ -310,12 +310,12 @@ De qua __ _ _ flos or -- tus est.
    \set stanza = "2."
   
 Hunc Is -- a -- í -- as flo -- rem
-Prae -- sá -- gus cé -- ci -- nit;
+Prae -- sá -- gus cé -- ci _ -- nit;
 Ad e -- jus nos a -- mó -- rem,
-Na -- scén -- tes ál -- li -- cit.
-Flos vir -- gam sú -- per -- at, __ _ _
+Na -- scén -- tes ál -- li _ -- cit.
+Flos vir -- gam sú -- per -- at, _ _
 Caé -- li ter -- raé -- que ci -- ves,
-Flos Il -- _ _ le ré -- cre -- at.
+Flos Il -- _ le _ ré -- cre -- at.
 
 }
  
@@ -324,12 +324,12 @@ Flos Il -- _ _ le ré -- cre -- at.
   \set stanza = "3."
 
 Hic su -- o flos o -- dó -- re
-Fi -- dé -- lis át -- tra -- hit;
+Fi -- dé -- lis át -- tra _ -- hit;
 Di -- ví -- no mox a -- mó -- re,
-At -- trá -- ctos ím -- bu -- it.
-O flos, O grá -- ti -- a! __ _ _
+At -- trá -- ctos ím -- bu _ -- it.
+O flos, O grá -- ti -- a! _ _
 Ad te, ad te su -- spí -- ro:
-De te __ _ _ me sá -- ti -- a.
+De te _ me _ sá -- ti -- a.
 
 }
  
@@ -382,11 +382,11 @@ De te me sá -- ti -- a.
 \book {
 
  \paper{
-	evenHeaderMarkup=\markup  \fill-line { \hcomposer \htitle \fromproperty #'page:page-number-string   }
-	oddHeaderMarkup= \markup  \fill-line { \on-the-fly #not-first-page \fromproperty #'page:page-number-string \on-the-fly #not-first-page \htitle \on-the-fly #not-first-page \hcomposer   }
+%	evenHeaderMarkup=\markup  \fill-line { \hcomposer \htitle \fromproperty #'page:page-number-string   }
+%	oddHeaderMarkup= \markup  \fill-line { \on-the-fly #not-first-page \fromproperty #'page:page-number-string \on-the-fly #not-first-page \htitle \on-the-fly #not-first-page \hcomposer   }
 	
-	system-system-spacing =
-	#'((basic-distance . 10) (minimum-distance . 0) (padding . 3))
+%	system-system-spacing =
+%	#'((basic-distance . 10) (minimum-distance . 0) (padding . 3))
 	
   }
 
@@ -394,7 +394,7 @@ De te me sá -- ti -- a.
 \header {
 	title = \markup \smallCaps "Es ist ein Ros entsprungen"
 	composer = \markup \center-column { "Anonimo, XVI sec." "arm. Michael Prætorius (1571 -1621)" }
-	copyright = \markup \teeny { \vspace #5  "© 2016 by CPDL. This edition can be fully distributed, duplicated, performed, and recorded. Typesetting by Francesco Spiga."}
+	copyright = \markup \teeny { \vspace #5  "© 2016 by CPDL. Munged by V Brandt c2023. Typesetting originally by Francesco Spiga."}
 	poet = \markup \left-column { \line { \smallCaps {M. Praetorius,}\italic {Musæ Sioniæ,} } \line { 6. Theil, 1605, Regensburg } \line { "   " } }
 }
 
@@ -464,93 +464,29 @@ De te me sá -- ti -- a.
 	}
   
   \layout {  indent = 2.5\cm
-              incipit-width = 1\cm
+      %    incipit-width = 1\cm
               ragged-last=##f
-
-	
-	
- 
-  	  
-  	  \context {
+    \context {
          \Score
          \remove "Bar_number_engraver"
-         
        }
  \context {
       \Staff
       \consists Custos_engraver
       \override Custos #'style = #'mensural
-    
     }
     \context {
       \Lyrics
       % **** Prevents lyrics from running too close together
       \override LyricSpace #'minimum-distance = #0.6
       % **** Makes the text of lyrics a little smaller
-      \override LyricText #'font-size = #-1
+%      \override LyricText #'font-size = #-1
       % **** Moves lines of lyrics closer together
       \override VerticalAxisGroup #'minimum-Y-extent = #'(-1 . 1)
     }
   }
 }
 
-
-
-
-
-\markup { 
-\fill-line {
-\column {
-
-\hspace #0.8 % adds vertical spacing between verses
-\line { \bold "1. "
-\column {
- 
-  "Es ist ein Ros entsprungen" 
-  "aus einer Wurzel zart," 
-  "wie uns die Alten sungen:" 
-  "Von Jesse kam die Art" 
-  "und hat ein Blüm lein 'bracht" 
-  "mitten im kalten Winter," 
-  "wohl zu der halben Nacht."
-  
-}
-}
-\vspace #1 % adds vertical spacing between verses
-\line { \bold "2. "
-\column {
-   "Das Röslein, das ich meine," 
-   "davon Jesaia sagt,"
-   "ist Maria, die Reine," 
-   "die uns das Blümlein bracht'."
-   "Aus Gottes ew'gem Rat" 
-   "hat sie ein Kind geboren" 
-   "und blieb doch reine Magd."
-  
-}
-}
-
-\vspace #1 % adds vertical spacing between verses
-\line { \bold "3. "
-\column {
-
-  "Das Blümelein so kleine," 
-  "das duftet uns so süß," 
-  "mit seinem hellen Scheine" 
-  "vertreibt die Finster nis:" 
-  "Wahr' Mensch und wahrer Gott," 
-  "hilft uns aus allem Leide," 
-  "rettet von Sünd' und Tod."
-
-}
-}
-
-\vspace #5
-
-}
-
-}
-}
 
 
 }
