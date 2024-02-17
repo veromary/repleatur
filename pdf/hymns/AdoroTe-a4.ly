@@ -73,9 +73,9 @@ qui -- a te con -- tem -- plans to -- tum de -- fi -- cit.
 secondWords = \lyricmode
 {
     \set stanza = "2. "
-Vi -- sus  _ tac -- tus gus -- tus in te fal -- li --tur,
+Vi -- sus  _ tac -- tus gus -- tus in te fal -- li -- tur,
 sed au -- di -- tur so -- lo tu -- to cre -- di -- tur
-Cre -- do quid quid dix -- it De -- i Fi -- li --us
+Cre -- do quid quid dix -- it De -- i Fi -- li -- us
 nil hoc ver -- bo ve -- ri -- ta -- tis ver -- i -- us.
 }
 thirdWords = \lyricmode
@@ -123,10 +123,10 @@ in te spem ha -- be -- re, te di -- li -- ge -- re.
 			>>
         \context Staff = subupper <<
 	\context Voice = altos    { \global \alto }
-	\context Lyrics = altos \lyricsto altos \firstWords
-	\context Lyrics = altosTwo \lyricsto altos \secondWords
-	\context Lyrics = altosThree \lyricsto altos \thirdWords
-	\context Lyrics = altosFour \lyricsto altos \fourthWords
+	%\context Lyrics = altos \lyricsto altos \firstWords
+	%\context Lyrics = altosTwo \lyricsto altos \secondWords
+	%\context Lyrics = altosThree \lyricsto altos \thirdWords
+	%\context Lyrics = altosFour \lyricsto altos \fourthWords
 	                      >>
 	\context Staff = lower <<
 	\context Voice = tenors { \global \tenor }
