@@ -96,6 +96,33 @@ De -- um ta -- men  me -- um te con -- fi -- te -- or;
 in te spem ha -- be -- re, te di -- li -- ge -- re.
 }
 	
+fifthWords = \lyricmode
+{
+\set stanza = "5."
+O me -- _ -- mo -- ri -- a -- le mor -- tis Do -- mi -- ni!
+pa -- nis vi -- vus, vi -- tam prae -- stans ho -- mi -- ni!
+prae -- sta me -- ae men -- ti de te vi -- ve -- re
+et te il -- li sem -- per dul -- ce sa -- pe -- re.
+}
+
+sixthWords = \lyricmode
+{
+\set stanza = "6."
+Pi -- e _ pel -- li -- ca -- ne, Je -- su Do -- mi -- ne,
+me im -- mun -- dum mun -- da tu -- o san -- gui -- ne;
+cu -- jus u -- na stil -- la sal -- vum fa -- ce -- re
+to -- tum mun -- dum quit ab om -- ni sce -- le -- re.
+}
+
+seventhWords = \lyricmode
+{
+\set stanza = "7."
+Je -- su, _ quem ve -- la -- tum nunc as -- pi -- ci -- o,
+o -- ro fi -- at il -- lud quod tam si -- ti -- o;
+ut te re -- ve -- la -- ta cer -- nens fa -- ci -- e,
+vi -- su sim be -- a -- tus tu -- ae glo -- ri -- ae.
+}
+
 #(ly:set-option 'point-and-click #f)
 
 \paper {
@@ -123,9 +150,9 @@ in te spem ha -- be -- re, te di -- li -- ge -- re.
 			>>
         \context Staff = subupper <<
 	\context Voice = altos    { \global \alto }
-	%\context Lyrics = altos \lyricsto altos \firstWords
-	%\context Lyrics = altosTwo \lyricsto altos \secondWords
-	%\context Lyrics = altosThree \lyricsto altos \thirdWords
+	\context Lyrics = altos \lyricsto altos \fifthWords
+	\context Lyrics = altosTwo \lyricsto altos \sixthWords
+	\context Lyrics = altosThree \lyricsto altos \seventhWords
 	%\context Lyrics = altosFour \lyricsto altos \fourthWords
 	                      >>
 	\context Staff = lower <<
