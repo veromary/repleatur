@@ -6,10 +6,7 @@
 
 \header {
   title = "Lord Jesus Think On Me"
-  meter = \markup { \small {\column {  \line { \sans {"SOUTHWELL."} \hspace #1 \roman {"(S. M.)"}}
-                                       \line { \italic {Slow} \fontsize #-5 \general-align #Y #DOWN \note #"2" #1 = 60.}
-                                  }
-                  }}
+  meter = \markup { \sans {"SOUTHWELL."} \hspace #1 \roman {"(S. M.)"}}
  
   arranger =  \markup { \small {\center-align {
 		            \line{ \italic "Damon's Psalter, 1579" }
@@ -42,7 +39,8 @@ global = {
 }
 
 soprano = \relative c' { 
-  \partial 1 e1 | g2 g fis fis | e1 \bar "||" e1 | g2 g a a | b1 \bar "||"  b1 |
+  \partial 1 e1 | g2 g fis fis | e1 \bar "||" e1 | g2 g a a | b1 \bar "||" 
+\break b1 |
   d2 d c c | b b a1 ^\fermata \bar "||" \halfmeasure b1 | a2 g fis fis | e1 \bar "||"
 }
 
@@ -79,8 +77,9 @@ From earth -- born pas -- sions set me free,
 secondWords = \lyricmode
 {
     \set stanza = "2. "
+\override LyricText.font-shape = #'italic
     Lord Je -- sus, think on me,
-    With care and woe op -- prest;
+    With care and woe op -- pressed;
 Let me thy lov -- ing ser -- vant be,
    And taste thy pro -- mised rest.
 
@@ -97,10 +96,20 @@ Through dark -- ness and per -- plex -- i -- ty
 fourthWords = \lyricmode
 {
 \set stanza = "4. "
+\override LyricText.font-shape = #'italic
     Lord Je -- sus, think on me,
     That, when the flood is past,
 I may th'e -- ter -- nal bright -- ness see,
     And share thy joy at last.
+}
+
+fifthWords = \lyricmode
+{
+\set stanza = "5. "
+  Lord Je -- sus, think on me,
+  That I may sing a -- bove
+  To Fa -- ther, Ho -- ly Ghost and Thee
+  The strains of praise and love.
 }
 	
 #(ly:set-option 'point-and-click #f)
@@ -127,13 +136,14 @@ I may th'e -- ter -- nal bright -- ness see,
 	\context Lyrics = sopranosTwo \lyricsto sopranos \secondWords
 	\context Lyrics = sopranosThree \lyricsto sopranos \thirdWords
 	\context Lyrics = sopranosFour \lyricsto sopranos \fourthWords
+	\context Lyrics = sopranosFive \lyricsto sopranos \fifthWords
 			>>
         \context Staff = subupper <<
 	\context Voice = altos    { \global \alto }
-	\context Lyrics = altos \lyricsto altos \firstWords
-	\context Lyrics = altosTwo \lyricsto altos \secondWords
-	\context Lyrics = altosThree \lyricsto altos \thirdWords
-	\context Lyrics = altosFour \lyricsto altos \fourthWords
+	%\context Lyrics = altos \lyricsto altos \firstWords
+	%\context Lyrics = altosTwo \lyricsto altos \secondWords
+	%\context Lyrics = altosThree \lyricsto altos \thirdWords
+	%\context Lyrics = altosFour \lyricsto altos \fourthWords
 	                      >>
 	\context Staff = lower <<
 	\context Voice = tenors { \global \tenor }
@@ -141,6 +151,7 @@ I may th'e -- ter -- nal bright -- ness see,
 	\context Lyrics = tenorsTwo \lyricsto tenors \secondWords
 	\context Lyrics = tenorsThree \lyricsto tenors \thirdWords
 	\context Lyrics = tenorsFour \lyricsto tenors \fourthWords
+	\context Lyrics = tenorsFive \lyricsto tenors \fifthWords
         			>>
 	\context Staff = sublower <<    
 	\context Voice = basses { \global \bass }
@@ -168,7 +179,7 @@ I may th'e -- ter -- nal bright -- ness see,
 
 \markup { \small {  \hspace #60 \italic {"Bp. Synesius, 375-430.  Tr. A. W. Chatfield."} } }  
 
-\markup { \small {\hspace #38 "Μνώεο Χριστέ.  [Mnôeo Christe.]"} }
+\markup { \small {\hspace #58 "Μνώεο Χριστέ.  [Mnôeo Christe.]"} }
 
 %%% Lyrics, in 2 columns with separator line, 3 verses per column
 
@@ -176,7 +187,7 @@ I may th'e -- ter -- nal bright -- ness see,
 \score{
   \new ChoirStaff
    <<
-        \context Staff = upper \with { fontSize = #-3  \override StaffSymbol #'staff-space = #(magstep -2) }  
+        \context Staff = upper \with { fontSize = #-1  \override StaffSymbol #'staff-space = #(magstep -1) }  
 	                      << 
 	\context Voice = "sopranos" { \relative c' { \clef treble \global \voiceOne e1 e1  \bar "||" }}
 	\context Voice = "altos"    { \relative c' { \clef treble \global \voiceTwo c1 b1 \bar "||" }}
@@ -184,7 +195,7 @@ I may th'e -- ter -- nal bright -- ness see,
 			  
 	\context Lyrics \lyricsto "altos" {\override LyricText #'font-size = #-1  A -- men. }
 	
-	\context Staff = lower \with { fontSize = #-3  \override StaffSymbol #'staff-space = #(magstep -2) }  
+	\context Staff = lower \with { fontSize = #-1  \override StaffSymbol #'staff-space = #(magstep -1) }  
 	                       << 
 	\context Voice = "tenors" { \relative c { \clef bass \global \voiceThree a'1 gis1 \bar "||" }}
 	\context Voice = "basses" { \relative c { \clef bass \global \voiceFour  a1 e'1 \bar "||" }}
