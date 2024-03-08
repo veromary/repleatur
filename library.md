@@ -36,6 +36,7 @@ permalink: /library/
 | Tantum Ergo, canon | [PDF](/pdf/motets/tantumergo-dp.pdf) | [abc](/pdf/motets/tantumergo-dp.abc) |
 | The Royal Banners Forward Go (Gonfalon Royal) | [PDF - melody line](/pdf/hymns/TheRoyalBanners.pdf) | [ly](/pdf/hymns/TheRoyalBanners.ly) |
 | Veni Creator Spiritus, Couturier | [PDF](/pdf/Veni_Creator_-_Couturier.pdf) | [musescore](/pdf/Veni_Creator_-_Couturier.mscz) |
+| [Vexilla Regis, Dalitz](http://music.dalitio.de/choir/dalitz/vexilla-regis/index.html) | [Passiontide, Liber Usualis Words](/pdf/motets/vexilla-dalitz-passiontide.pdf), [Other, Liber Usualis Words](/pdf/motets/vexilla-dalitz-triumph.pdf), [Passiontide, Original Words](/pdf/motets/vexilla-dalitz-passiontide-orig.pdf), [Other, Original Words](/pdf/motets/vexilla-dalitz-triumph-orig.pdf) | [ly](/pdf/motets/vexilla-dalitz.ly) |
 |---|---|---|
 
 ### Organ Music:
