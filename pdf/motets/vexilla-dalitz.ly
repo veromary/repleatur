@@ -4,11 +4,12 @@
 
 \header {
 	title = "Vexilla Regis"
-        composer = "Christoph Dalitz, 2020"
+        composer = "Christoph Dalitz, 2020, music.dalitio.de"
 	poet = "Venantius Fortunatus (530-609)"
         meter = "Melody: anonymous (1846) after Vexilla regis"
-        arranger = "ed. Veronica, 2024"
-        copyright = "CC BY-SA 4.0"
+        arranger = "ed. Veronica Brandt, 2024, brandt.id.au"
+        copyright = "CC BY-SA 4.0 - music.dalitio.de/choir/dalitz/vexilla-regis/"
+        tagline = "www.brandt.id.au"
 }
 
 
