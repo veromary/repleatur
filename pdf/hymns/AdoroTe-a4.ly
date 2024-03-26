@@ -3,6 +3,8 @@
 \header {
   title = "Adoro Te Devote"
   tagline =""
+composer = "Anon"
+poet = "Thomas Aquinas"
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Macros
@@ -73,6 +75,7 @@ qui -- a te con -- tem -- plans to -- tum de -- fi -- cit.
 secondWords = \lyricmode
 {
     \set stanza = "2. "
+\override LyricText #'font-shape = #'italic
 Vi -- sus  _ tac -- tus gus -- tus in te fal -- li -- tur,
 sed au -- di -- tur so -- lo tu -- to cre -- di -- tur
 Cre -- do quid quid dix -- it De -- i Fi -- li -- us
@@ -90,6 +93,7 @@ pe -- to quod pe -- ti -- vit la -- tro pae -- ni -- tens.
 fourthWords = \lyricmode
 {
 \set stanza = "4. "
+\override LyricText #'font-shape = #'italic
 Pla -- gas _ si -- cut Tho -- mas non in -- tu -- e -- or;
 De -- um ta -- men  me -- um te con -- fi -- te -- or;
  fac me ti -- bi sem -- per ma -- gis cre -- de -- re,
@@ -108,6 +112,7 @@ et te il -- li sem -- per dul -- ce sa -- pe -- re.
 sixthWords = \lyricmode
 {
 \set stanza = "6."
+\override LyricText #'font-shape = #'italic
 Pi -- e _ pel -- li -- ca -- ne, Je -- su Do -- mi -- ne,
 me im -- mun -- dum mun -- da tu -- o san -- gui -- ne;
 cu -- jus u -- na stil -- la sal -- vum fa -- ce -- re
@@ -150,10 +155,10 @@ vi -- su sim be -- a -- tus tu -- ae glo -- ri -- ae.
 			>>
         \context Staff = subupper <<
 	\context Voice = altos    { \global \alto }
-	\context Lyrics = altos \lyricsto altos \fifthWords
-	\context Lyrics = altosTwo \lyricsto altos \sixthWords
-	\context Lyrics = altosThree \lyricsto altos \seventhWords
-	%\context Lyrics = altosFour \lyricsto altos \fourthWords
+	\context Lyrics = altos \lyricsto altos \firstWords
+	\context Lyrics = altosTwo \lyricsto altos \secondWords
+	\context Lyrics = altosThree \lyricsto altos \thirdWords
+	\context Lyrics = altosFour \lyricsto altos \fourthWords
 	                      >>
 	\context Staff = lower <<
 	\context Voice = tenors { \global \tenor }
@@ -183,6 +188,49 @@ vi -- su sim be -- a -- tus tu -- ae glo -- ri -- ae.
 \midi { \context { \Score tempoWholesPerMinute = #(ly:make-moment 60 4)}} 
 
 } %%% Score bracket
+
+%%% Verses 5,6,7
+
+\score{
+\new ChoirStaff	
+<<
+	\context Staff = upper << 
+	\context Voice = sopranos { \global \soprano }
+	\context Lyrics = sopranos \lyricsto sopranos \fifthWords
+	\context Lyrics = sopranosTwo \lyricsto sopranos \sixthWords
+	\context Lyrics = sopranosThree \lyricsto sopranos \seventhWords
+	%\context Lyrics = sopranosFour \lyricsto sopranos \fourthWords
+			>>
+        \context Staff = subupper <<
+	\context Voice = altos    { \global \alto }
+	\context Lyrics = altos \lyricsto altos \fifthWords
+	\context Lyrics = altosTwo \lyricsto altos \sixthWords
+	\context Lyrics = altosThree \lyricsto altos \seventhWords
+	%\context Lyrics = altosFour \lyricsto altos \fourthWords
+	                      >>
+	\context Staff = lower <<
+	\context Voice = tenors { \global \tenor }
+	\context Lyrics = tenors \lyricsto tenors \fifthWords
+	\context Lyrics = tenorsTwo \lyricsto tenors \sixthWords
+	\context Lyrics = tenorsThree \lyricsto tenors \seventhWords
+	%\context Lyrics = tenorsFour \lyricsto tenors \fourthWords
+        			>>
+	\context Staff = sublower <<    
+	\context Voice = basses { \global \bass }
+	%\context Lyrics = basses \lyricsto basses \firstWords
+	%\context Lyrics = bassesTwo \lyricsto basses \secondWords
+	%\context Lyrics = bassesThree \lyricsto basses \thirdWords
+	%\context Lyrics = bassesFour \lyricsto basses \fourthWords
+			        >>
+>>
+\layout {
+		indent=0
+		\context { \Score \remove "Bar_number_engraver" }
+		\context { \Staff \remove "Time_signature_engraver" }
+		\context { \Score \remove "Mark_engraver"  }
+                \context { \Staff \consists "Mark_engraver"  }
+	} %%% close layout
+}
 
 %%% Lyrics titles
 
