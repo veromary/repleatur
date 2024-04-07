@@ -1,0 +1,1047 @@
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.14)  8 APR 2024 08:08
+ restricted system commands enabled.
+**christus-resurrexit
+(./christus-resurrexit.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/home/veronica/.TinyTeX/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/veronica/.TinyTeX/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/veronica/.TinyTeX/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+) (/home/veronica/.TinyTeX/texmf-dist/tex/lualatex/gregoriotex/gregoriotex.sty
+Package: gregoriotex 2021/03/13 v6.0.0 GregorioTeX system.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/luacolor/luacolor.sty
+Package: luacolor 2023-08-18 v1.18 Color support via LuaTeX's attributes (HO)
+Inserting `luacolor.process' in `pre_shipout_filter'.
+\LuaCol@Attribute=\attribute4
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+)
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+ (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count194
+)
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
+) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luamplib/luamplib.sty
+Package: luamplib 2024/03/10 v2.26.4 mplib package for LuaTeX
+Lua module: luamplib 2024/03/10 2.26.4 Lua package to typeset Metapost with LuaTeX's MPLib.
+\luamplibcctabexplat=\catcodetable16
+\mplibtmptoks=\toks18
+\mplibscratchbox=\box51
+) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/xstring/xstring.sty (/home/veronica/.TinyTeX/texmf-dist/tex/generic/xstring/xstring.tex
+\xs_counta=\count195
+\xs_countb=\count196
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-main.tex (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-common.tex)
+\gre@attr@dash=\attribute5
+\gre@attr@center=\attribute6
+\GreScoreId=\attribute7
+\gre@attr@glyph@id=\attribute8
+\gre@attr@glyph@top=\attribute9
+\gre@attr@glyph@bottom=\attribute10
+\gre@attr@syllable@id=\attribute11
+\gre@atletter=\catcodetable17
+Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
+Custom whatsit marker = 1
+Module gregoriotex Info: marker whatsit id is 1 on input line 121
+
+(christus-resurrexit.gaux)
+Module gregoriotex Info: Reading christus-resurrexit.gaux on input line 125
+Inserting `gregoriotex.write_greaux' in `finish_pdffile'.
+\gre@gaux=\write3
+\gre@read@temp=\read2
+\gre@factor=\count197
+ (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-spaces.tex
+\gre@saved@prescore@hyphenpenalty=\count198
+\gre@saved@prescore@exhyphenpenalty=\count199
+\gre@saved@prescore@exhyphenchar=\count266
+\gre@saved@prescore@doublehyphendemerits=\count267
+\gre@saved@prescore@finalhyphendemerits=\count268
+\gre@saved@prescore@brokenpenalty=\count269
+\gre@saved@prescore@looseness=\count270
+\gre@saved@prescore@tolerance=\count271
+\gre@saved@prescore@pretolerance=\count272
+\gre@saved@prescore@emergencystretch=\skip50
+\gre@saved@prescore@widowpenalty=\count273
+\gre@saved@prescore@clubpenalty=\count274
+\gre@saved@prescore@parskip=\skip51
+\gre@saved@prescore@lineskip=\skip52
+\gre@saved@prescore@baselineskip=\skip53
+\gre@saved@prescore@lineskiplimit=\skip54
+\gre@dimen@textlower=\dimen142
+\gre@dimen@stafflinewidth=\dimen143
+\gre@dimen@linewidth=\dimen144
+\gre@dimen@stafflineheight=\dimen145
+\gre@dimen@interstafflinespace=\dimen146
+\gre@dimen@stafflinediff=\dimen147
+\gre@dimen@constantglyphraise=\dimen148
+\gre@dimen@staffheight=\dimen149
+\gre@skip@syllablefinalskip=\skip55
+\gre@skip@minTextDistance=\skip56
+\gre@skip@minNotesDistance=\skip57
+\gre@dimen@curTextDistance=\dimen150
+\gre@dimen@curNotesDistance=\dimen151
+\gre@skip@minShiftText=\skip58
+\gre@skip@minShiftNotes=\skip59
+\gre@dimen@bolshift=\dimen152
+\gre@dimen@bolextra=\dimen153
+\gre@dimen@clefwidth@current=\dimen154
+\gre@dimen@clefwidth@largest=\dimen155
+\gre@dimen@clefwidth@bol=\dimen156
+\gre@dimen@eolshift=\dimen157
+\gre@dimen@glyphraisevalue=\dimen158
+\gre@dimen@additionalbottomspace=\dimen159
+\gre@dimen@additionaltopspace=\dimen160
+\gre@dimen@additionaltopspacealt=\dimen161
+\gre@dimen@additionaltopspacenabc=\dimen162
+\gre@space@count@additionaltopspacethreshold=\count275
+\gre@space@count@additionaltopspacealtthreshold=\count276
+\gre@space@count@additionaltopspacenabcthreshold=\count277
+\gre@space@count@noteadditionalspacelinestextthreshold=\count278
+\gre@saved@prediscretionary@dimen@additionalbottomspace=\dimen163
+\gre@saved@prediscretionary@dimen@additionaltopspace=\dimen164
+\gre@saved@prediscretionary@dimen@additionaltopspacealt=\dimen165
+\gre@saved@prediscretionary@dimen@additionaltopspacenabc=\dimen166
+\gre@saved@prediscretionary@dimen@currenttranslationheight=\dimen167
+\gre@saved@prediscretionary@dimen@textlower=\dimen168
+\gre@saved@prediscretionary@dimen@currentabovelinestextheight=\dimen169
+\gre@saved@prediscretionary@dimen@constantglyphraise=\dimen170
+\gre@dimen@textaligncenter=\dimen171
+\gre@dimen@enddifference=\dimen172
+\gre@dimen@previousenddifference=\dimen173
+\gre@dimen@currenttranslationheight=\dimen174
+\gre@skip@nextbegindifference=\skip60
+\gre@dimen@annotationtrueraise=\dimen175
+\gre@dimen@commentarytrueraise=\dimen176
+\gre@skip@bar@requirement=\skip61
+\gre@skip@bar@allocation=\skip62
+\gre@dimen@bar@shift=\dimen177
+\gre@skip@text@requirement=\skip63
+\gre@skip@text@allocation=\skip64
+\gre@dimen@text@shift=\dimen178
+\gre@dimen@adjustedpreviousenddifference=\dimen179
+\gre@skip@adjustednextbegindifference=\dimen180
+\gre@skip@punctummorashift=\skip65
+\gre@skip@alterationshift=\skip66
+\gre@dimen@begindifference=\dimen181
+\gre@dimen@lastglyphwidth=\dimen182
+\gre@dimen@notesaligncenter=\dimen183
+\gre@dimen@additionalleftspace=\dimen184
+\gre@dimen@initialwidth=\dimen185
+\gre@dimen@currentabovelinestextheight=\dimen186
+\gre@dimen@temp@one=\dimen187
+\gre@dimen@temp@two=\dimen188
+\gre@dimen@temp@three=\dimen189
+\gre@dimen@temp@four=\dimen190
+\gre@dimen@temp@five=\dimen191
+\gre@skip@temp@one=\skip67
+\gre@skip@temp@two=\skip68
+\gre@skip@temp@three=\skip69
+\gre@skip@temp@four=\skip70
+\gre@count@temp@one=\count279
+\gre@count@temp@two=\count280
+\gre@count@temp@three=\count281
+\gre@space@count@newlinepenalty=\count282
+\gre@space@count@nobreakpenalty=\count283
+\gre@space@count@endofwordpenalty=\count284
+\gre@space@count@endofsyllablepenalty=\count285
+\gre@space@count@endafterbarpenalty=\count286
+\gre@space@count@endafterbaraltpenalty=\count287
+\gre@space@count@finalpenalty=\count288
+\gre@space@count@endofelementpenalty=\count289
+\gre@space@count@hyphenpenalty=\count290
+\gre@space@count@brokenpenalty=\count291
+\gre@space@count@looseness=\count292
+\gre@space@count@tolerance=\count293
+\gre@space@count@pretolerance=\count294
+\gre@space@count@widowpenalty=\count295
+\gre@space@count@clubpenalty=\count296
+\greconffactor=\count297
+)
+\gre@box@temp@width=\box52
+\gre@box@initial=\box53
+\gre@biginitial=\count298
+\gre@knownline=\count299
+\gre@box@annotation=\box54
+\gre@box@add=\box55
+\gre@box@old=\box56
+\gre@count@annotationvalign=\count300
+\gre@box@commentary=\box57
+\gre@box@lines=\box58
+Module gregoriotex Info: Registering variant font greciliae as gre@font@variant@A. on input line 987
+Module gregoriotex Info: Registering variant font greciliae-hollow as gre@font@variant@B. on input line 987
+Module gregoriotex Info: Registering variant font greciliae-hole as gre@font@variant@C. on input line 987
+luaotfload | cache : Lookup cache loaded from /home/veronica/.TinyTeX/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+Module gregoriotex Info: Mapping font greciliae on input line 992
+Module gregoriotex Info: Mapping font greciliae-hollow on input line 992
+Module gregoriotex Info: Mapping font greciliae-hole on input line 992
+ (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-chars.tex
+\gre@box@hep=\box59
+) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-signs.tex
+\gre@box@temp@clef=\box60
+\gre@box@temp@cleftwo=\box61
+\greslurheight=\dimen192
+\gre@box@temp@sign=\box62
+\gre@count@shiftaftermora=\count301
+\gre@dimen@morawidth=\dimen193
+\gre@skip@bar@lastskip=\skip71
+\gre@count@lastglyphiscavum=\count302
+) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-syllable.tex
+\gre@generate@pointandclick=\count303
+\gre@box@syllablenotes=\box63
+\gre@box@syllabletext=\box64
+\gre@clivisalignment=\count304
+\gre@count@unbreakabletotalnotes=\count305
+\gre@count@unbreakableinitialnotes=\count306
+\gre@count@unbreakablefinalnotes=\count307
+\gre@count@syllablenotes=\count308
+)
+\gre@variableheightexpansion=\count309
+\gre@lastoflinecount=\count310
+\gre@saved@prenlba@nobreakpenalty=\count311
+\gre@saved@prenlba@endofwordpenalty=\count312
+\gre@saved@prenlba@endofsyllablepenalty=\count313
+\gre@saved@prenlba@endafterbarpenalty=\count314
+\gre@saved@prenlba@endafterbaraltpenalty=\count315
+\gre@saved@prenlba@endofelementpenalty=\count316
+\gre@saved@prenlba@hyphenpenalty=\count317
+\gre@lasteuouaeindex=\count318
+ (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-symbols.tex
+Module gregoriotex Info: Registering variant font greextra as gre@font@variant@D. on input line 53
+)
+\gre@dimen@stafflinethicknessbase=\dimen194
+\gre@dimen@glyphraisebase=\dimen195
+\gre@dimen@interstafflinedistancebase=\dimen196
+\gre@dimen@inclinatumonlinemoravshiftbase=\dimen197
+\gre@dimen@inclinatumonlinemorahshiftbase=\dimen198
+\gre@dimen@inclinatumofflinemorahshiftbase=\dimen199
+ (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-gsp-default.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-nabc.tex))) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2023/11/26 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/home/veronica/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count319
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-02-20 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count320
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box65
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/02/13 2.9a Font selection for XeLaTeX and LuaLaTeX (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count321
+\l__fontspec_language_int=\count322
+\l__fontspec_strnum_int=\count323
+\l__fontspec_tmp_int=\count324
+\l__fontspec_tmpa_int=\count325
+\l__fontspec_tmpb_int=\count326
+\l__fontspec_tmpc_int=\count327
+\l__fontspec_em_int=\count328
+\l__fontspec_emdef_int=\count329
+\l__fontspec_strong_int=\count330
+\l__fontspec_strongdef_int=\count331
+\l__fontspec_tmpa_dim=\dimen256
+\l__fontspec_tmpb_dim=\dimen257
+\l__fontspec_tmpc_dim=\dimen258
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: Font family 'LinLibertine(0)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,Numbers
+(fontspec)             = {Monospaced,Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 307.
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: Font family 'LinBiolinum(0)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,Numbers
+(fontspec)             = {Monospaced, Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: Font family 'LinLibertine(1)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced,Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: Font family 'LinLibertine(2)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             { Monospaced, Lining},Scale = 1,UprightFont =
+(fontspec)             *_RZ,ItalicFont = *_RZI,BoldFont = *_RB,BoldItalicFont
+(fontspec)             = *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZ.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZ.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: Font family 'LinLibertine(3)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced,OldStyle},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+luaotfload | aux : font no 40 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'LinLibertine(4)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced,Lining},UprightFont = *_DR,ItalicFont =
+(fontspec)             *_RI,BoldFont = *_RB,BoldItalicFont = *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_DR.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: Font family 'LinBiolinum(1)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced, Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: Font family 'LinBiolinum(2)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced, OldStyle},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
+luaotfload | aux : font no 43 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MB scale = 1.
+
+luaotfload | aux : font no 44 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MO scale = 1.
+
+luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MBO scale = 1.
+
+luaotfload | aux : font no 46 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'LinLibertine(5)' created for font
+(fontspec)             'LinLibertine' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Scale
+(fontspec)             = 1,UprightFont = *_M,ItalicFont = *_MO,BoldFont =
+(fontspec)             *_MB,BoldItalicFont = *_MBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_M.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MB.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MO.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MBO.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
+luaotfload | aux : font no 43 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MB scale = 1.
+
+luaotfload | aux : font no 44 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MO scale = 1.
+
+luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MBO scale = 1.
+
+luaotfload | aux : font no 46 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'LinLibertine(6)' created for font
+(fontspec)             'LinLibertine' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,Scale = 1,UprightFont =
+(fontspec)             *_M,ItalicFont = *_MO,BoldFont = *_MB,BoldItalicFont =
+(fontspec)             *_MBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_M.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MB.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MO.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MBO.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+Package fontspec Info: Font family 'LinBiolinum_K(0)' created for font
+(fontspec)             'LinBiolinum_K' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinBiolinum_K.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+Package fontspec Info: Font family 'LinLibertine_I(0)' created for font
+(fontspec)             'LinLibertine_I' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_I.otf]:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+LaTeX Info: Redefining \oldstylenums on input line 475.
+LaTeX Info: Redefining \liningnums on input line 476.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_R.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_I.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LKey.tex)
+LaTeX Info: Redefining \textsup on input line 552.
+) (./christus-resurrexit.aux)
+\openout1 = christus-resurrexit.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 5.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 5.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 5.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 5.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 5.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 5.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 5.
+LaTeX Font Info:    Redeclaring math accent \check on input line 5.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 5.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 5.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 5.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/LinLibertine(0)/m/n on input line 5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/LinLibertine(0)/m/n on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/LinLibertine(0)/m/n --> TU/LinLibertine(0)/m/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LinLibertine(0)/m/it on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LinLibertine(0)/b/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/LinBiolinum(0)/m/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/m/n on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/LinLibertine(0)/m/n --> TU/LinLibertine(0)/b/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/LinLibertine(0)/b/it on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/LinBiolinum(0)/b/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 5.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 8.
+Module gregoriotex Info: Looking in  on input line 11
+Module gregoriotex Info: Found christus-resurrexit.gabc directly on input line 11
+Module gregoriotex Info: Looking in  on input line 11
+Module gregoriotex Info: Found christus-resurrexit-6_0_0.gtex directly on input line 11
+ (./christus-resurrexit-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' in `hyphenate'.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 40.0pt on input line 12.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [1
+
+{/home/veronica/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./christus-resurrexit.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+)
+
+Here is how much of LuaTeX's memory you used:
+ 32095 strings out of 476447
+ 156271,1977958 words of node,token memory allocated
+ 537 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 24 attribute, 60 glue_spec, 6 attribute_list, 1 write, 1 user_defined nodes
+   avail lists: 1:1,2:18467,3:3356,4:28,5:4378,6:302,7:4056,9:5050,10:24,11:6
+ 54024 multiletter control sequences out of 65536+600000
+ 56 fonts using 14353199 bytes
+ 94i,5n,114p,619b,3796s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/veronica/.TinyTeX/texmf-dist/fonts/truetype/public/gregoriotex/greciliae.ttf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf>
+Output written on christus-resurrexit.pdf (1 page, 15797 bytes).
+
+PDF statistics: 22 PDF objects out of 1000 (max. 8388607)
+ 12 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
