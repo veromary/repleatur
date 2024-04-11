@@ -34,22 +34,22 @@ global = {
 sopMusic = \relative c'' {
   g2 g4. aes8 bes4. bes8 bes2 ees2( c4.) c8 bes1
   aes2 aes2 g4 g ees g bes2.( g4) f1
-  g2 g4.( f8) ees1 bes'2 bes4.( aes8) g1
-  ees'2 d4( c) bes aes g f g2( f) ees1
+  g2 g4. f8 ees1 bes'2 bes4. aes8 g1
+  ees'2( d4 c) bes( aes g f) g2( f) ees1
 }
 
 altoMusic = \relative c' {
   ees2 ees4. f8 g4. g8 g2 ees2( ees4.) f8 g1
   f2 f ees4 ees ees ees ees1 d1
-  ees2 ees4.( d8) ees1 g2 g4.( f8) ees1
-  g2 bes4( aes) g f ees ees ees2( d) ees1
+  ees2 ees4. d8 ees1 g2 g4. f8 ees1
+  g2( bes4 aes) g( f ees ees) ees2( d) ees1
 }
 altoWords = \lyricmode {
   Lau -- da Je -- ru -- sa -- lem, Do -- mi -- num;
   Lau -- da De -- um tu -- um, Si -- on.
-  Ho -- san -- na,
-  Ho -- san -- na,
-  Ho -- san -- na Fi -- li -- o Da -- vid!
+  Al -- le -- lu -- ia,
+  Al -- le -- lu -- ia,
+  Al -- le -- lu -- ia!
 }
 
 tenorMusic = \relative {
