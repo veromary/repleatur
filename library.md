@@ -15,7 +15,7 @@ permalink: /library/
 | Ametur, SAB | [PDF](/pdf/AmeturChoir.pdf) | (Hugh Henry via Musica Sacra Forum) |
 | Assumpta est Maria in Caelum, Ravanello | [PDF](/pdf/motets/Ravanello_Assumpta.pdf), [All parts mp3](/pdf/motets/Ravanello_Assumpta.mp3), [Soprano mp3](/pdf/motets/Rav-sop.mp3), [Alto mp3](/pdf/motets/Rav-alt.mp3), [Bass mp3](/pdf/motets/Rav-bas.mp3) | [ly](/pdf/motets/Ravanello_Assumpta.ly) |
 | Audi Benigne Conditor, chant | [PDF](/pdf/chant/audiben.pdf) | [tex](/pdf/chant/audiben.tex) and [gabc](/pdf/chant/hy--audi_benigne_conditor--solesmes_1961.gabc) thanks to [gregobase](https://gregobase.selapa.net/chant.php?id=1830) |
-| Christus Resurrexit | [PDF](/pdf/chant/christus-resurrexit.pdf) | ask TWC |
+| Christus Resurrexit | [PDF](/pdf/chant/christus-resurrexit.pdf) | [tex](/pdf/chant/christus-resurrexit.tex) [gabc](/pdf/chant/christus-resurrexit.gabc) |
 | Cor Jesu Sacratissimum | [PDF](/pdf/corjesusacratissimum.pdf) | [tex](/pdf/corjesusacratissimum.tex) and [gabc](/pdf/corjesu.gabc) |
 | Es ist ein Ros entsprungen, Praetorius | [PDF](/pdf/motets/Praetorius_einros.pdf) | [ly](/pdf/motets/Praetorius_einros.ly) |
 | Flos de Radice Jesse, Praetorius | [PDF](/pdf/motets/Praetorius_flos.pdf) | [ly](/pdf/motets/Praetorius_flos.ly) |
@@ -24,6 +24,7 @@ permalink: /library/
 |God of Mercy and Compassion with SAT chorus | [PDF (G minor)](/pdf/hymns/GodofMercy.pdf) and lower : [PDF (E minor)](/pdf/hymns/GodofMercy-low.pdf) | [ly](/pdf/hymns/GodofMercy.ly) and lower [transposed](/pdf/hymns/GodofMercy-low.ly) |
 | I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
 | Immaculate Mary SATB with cascading Aves by Renato Calcaterra | [pdf](/pdf/hymns/ImmaculateMary-Calcaterra.pdf) | [ly](/pdf/hymns/ImmaculateMary-Calcaterra.ly) |
+| Lauda Jerusalem | [pdf](/pdf/LaudaJerusalem.pdf) | [ly](/pdf/LaudaJerusalem.ly) |
 | Lo, how a Rose E'er Blooming, Praetorius | [pdf](/pdf/motets/lohowarose.pdf) | [ly](/pdf/motets/lohowarose.ly) |
 | Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
 | Magnificat, a round with slightly random words, modernish | [pdf](/pdf/motets/magnificat-cf.pdf) | [abc](/pdf/motets/magnificat-cf.abc) |
