@@ -29,7 +29,9 @@ permalink: /library/
 | Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
 | Magnificat, a round with slightly random words, modernish | [pdf](/pdf/motets/magnificat-cf.pdf) | [abc](/pdf/motets/magnificat-cf.abc) |
 | O Sacred Head, Passion Chorale | [PDF](/pdf/hymns/OSacredHead.pdf) | [ly](/pdf/hymns/OSacredHead.ly) |
+| O salutaris, Ravanello | [PDF](/pdf/motets/o-salutaris-ravanello.pdf) | [ly](/pdf/motets/o-salutaris-ravanello.ly) |
 | O Sanctissima, Beethoven's harmony | [PDF](/pdf/motets/O_sanctissima.pdf) | [ly](/pdf/motets/O_sanctissima.ly) |
+| O Sanctissima, 1792 | [PDF](/pdf/motets/o-sanctissima-1792.pdf) | [ly](/pdf/motets/o-sanctissima-1792.ly) |
 | Panis Angelicus, Casciolini/Baini (edited 2024 to sort 2nd verse accents) | [PDF](/pdf/motets/Casciolini_Panis_Angelicus.pdf) and [PDF+edits](/pdf/motets/Cascio-panis-adeney.pdf) | [ly](/pdf/motets/Casciolini_Panis_Angelicus.ly) and [ly+edits](/pdf/motets/Cascio-panis-adeney.ly) |
 | Salvete Flores Martyrum, chant hymn for 28th December | [pdf](/pdf/holyinno/salvete.pdf) | [tex](/pdf/holyinno/salvete.tex) and [gabc](/pdf/holyinno/salvete.gabc) |
 | Sancta et Immaculata, Dering | [PDF](/pdf/dering/10-sanctaetimmac.pdf) | [ly](/pdf/dering/10-sanctaetimmac.ly) |
