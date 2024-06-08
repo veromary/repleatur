@@ -67,7 +67,7 @@ global =
 
 sopWords = \lyricmode
 {
-    \override Score . LyricText #'font-size = #-1
+%    \override Score . LyricText #'font-size = #-1
     \override Score . LyricHyphen #'minimum-distance = #1
     \override Score . LyricSpace #'minimum-distance = #0.8
     % \override Score . LyricText #'font-name = #"Gentium"
@@ -77,7 +77,7 @@ sopWords = \lyricmode
       Soul of my Sav -- iour, sanc -- ti -- fy my breast
       Bo -- dy of Christ, be Thou my sav -- ing guest
       Blood of my Sav -- iour, bathe me in Thy tide
-      Wash me ye wa -- ters gush -- ing from His side.
+      Wash ye with wa -- ters gush -- ing from His side.
 
 }
 sopWordsTwo = \lyricmode
