@@ -1,10 +1,10 @@
 \version "2.24"
 
 \header {
-  title = "Adoro Te Devote"
+  title = "Godhead Here in Hiding"
   tagline =""
 composer = "Anon"
-poet = "Thomas Aquinas"
+poet = "Thomas Aquinas, tr. Gerard M. Hopkins"
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Macros
