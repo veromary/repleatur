@@ -7,9 +7,10 @@
 }
 
 \header {
-  title = "Sub Tuum"
-  composer = "Slavonic"
-  tagline = "harmonized: Dominican Nuns Monastery of Our Lady of the Rosary"
+  title = "Sub Tuum, Slavonic"
+  composer = "Dominican Nuns Monastery of Our Lady of the Rosary"
+  poet = "POD TVOYO MILOST"
+  tagline = "From The Summit Choirbook, 1983"
 }
 
 global = {
