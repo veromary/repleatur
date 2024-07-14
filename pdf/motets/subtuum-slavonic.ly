@@ -7,37 +7,42 @@
 }
 
 \header {
-  title = "Sub Tuum"
-  composer = "Slavonic"
+  title = "Sub Tuum, Slavonic"
+  composer = "Dominican Nuns Monastery of Our Lady of the Rosary"
+  poet = "POD TVOYO MILOST"
+  tagline = "From The Summit Choirbook, 1983"
 }
 
 global = {
   \key bes \major
-  \set Score.timing = ##f
+  \time 6/2
+%  \set Score.timing = ##f
+\override Staff.TimeSignature.break-visibility = #all-invisible
 }
 
 sopMusic = \relative {
-  bes'1 a2 bes c d4 ees d1  | 
+\partial 1 bes'1 a2 bes c d4 ees d1  | 
   d2 c bes1 a1  |  
-  bes2 c d1( c2) bes a a bes1 \break \bar "|" 
-  bes2. bes4 bes2 a bes c d4( ees) d1  | 
-  d2 c bes2. bes4 a1 |
-  bes2 c d1( c2) bes a a bes1 \break \bar "|"
-  c2 c c d2. d4 c2 ees2( d) c | bes d c bes a1 bes \break \bar "|"
+  bes2 c d1( c2) bes \time 4/2 a a bes1 \break \bar "|" 
+  \time 6/2 bes2. bes4 bes2 a bes c \time 3/2 d4( ees) d1  \bar "|" 
+  \time 6/2 d2 c bes2. bes4 a1 |
+  bes2 c d1( c2) bes \time 4/2 a a bes1 \break \bar "|"
+  \time 3/2 c2 c c d2. d4 c2 ees2( d) c \time 4/2 bes d c bes a1 bes \break \bar "|"
   c2. c4 d2. d4 c2( ees d) c | bes d( c) bes a1 bes \bar "||"
 }
 sopWords = \lyricmode {
 }
 
 altoMusic = \relative {
-  g'1 fis2 g a bes4 c bes1
-  bes2 a g1 fis
-  g2 a bes1( a2) g fis fis g1
+\accidentalStyle voice
+  g'1 fis2 g a bes4 c bes1 \bar "|"
+  bes2 a g1 fis \bar "|"
+  g2 a bes1( a2) g fis fis g1 \bar "|"
   g2. g4 g2 fis g a bes4( c) bes1
   bes2 a g2. g4 fis1
   g2 a bes1( a2) g2 fis fis g1
   a2 a a bes2. bes4 a2 c2( bes) a g bes a g fis1 g
-  a2. a4 bes2. bes4 a2( c bes) a g bes a g fis1 g1
+  a2. a4 bes2. bes4 a2( c bes) a g bes( a) g fis1 g1
 }
 altoWords = \lyricmode {
   Sub tu -- um prae -- si -- di -- um
