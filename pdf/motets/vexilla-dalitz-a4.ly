@@ -12,6 +12,14 @@
         tagline = "www.brandt.id.au"
 }
 
+\paper {
+  system-system-spacing.basic-distance = #8
+  score-system-spacing =
+    #'((basic-distance . 12)
+       (minimum-distance . 6)
+       (padding . 10)
+       (stretchability . 12))
+}
 
 
 chant = \relative c'' {
@@ -141,7 +149,7 @@ quos per Cru -- cis mys -- te -- ri -- um
 sal -- vas, fo -- ve per sae -- cu -- la. A -- men. }
 
    global = {
-     \key ees \major
+     \key aes \major
      \time 4/4
      \dynamicUp
    }
@@ -184,11 +192,23 @@ r1 r1 r2 r4 aes, ees' c f bes, f2' c f2.
 \header {
   subtitle = "in Passiontide - SATB"
 }
+
 \markup {
-Chant verses after the Liber Usualis:
+   \vspace #5
+   \line {
+ Chant verses after the Liber Usualis:
+    }
 }
+
+
+
+
+%%%
+%   Chant verses 1, 3, 5 - passiontide
+%%%
+
    \score {
-     \transpose bes aes
+     \transpose f d
      \new GregorianTranscriptionStaff <<
        \new GregorianTranscriptionVoice = "melody" \chant
        \new GregorianTranscriptionLyrics = "one" \lyricsto melody \altowords
@@ -205,8 +225,17 @@ Chant verses after the Liber Usualis:
 
    }
 
+
+%%%%
+%
+%%%%
+
+
 \markup {
+\vspace #5
+\line {
 Final verse:
+}
 }
 \score {
   \transpose f d
@@ -224,14 +253,21 @@ Final verse:
 
 }
 
+\markup {
+\vspace #5
+}
+
 \pageBreak
 
 \markup {
+\vspace #3
+\line {
  Polyphonic verses:
+}
 }
 
 \score {
-%  \transpose f d
+  \transpose f e
   \new ChoirStaff <<
     \new Staff <<
       \new Voice = "soprano" <<
@@ -291,8 +327,16 @@ Final verse:
   subtitle = "outside Passiontide - SATB"
 }
 \markup {
-Chant verses after the Liber Usualis:
+\vspace #5
+\line {
+ Chant verses after the Liber Usualis:
+    }
 }
+
+
+
+
+
    \score {
      \transpose f d
      \new GregorianTranscriptionStaff <<
@@ -312,11 +356,42 @@ Chant verses after the Liber Usualis:
    }
 
 \markup {
+\vspace #5
+\line {
+Final verse:
+}
+}
+\score {
+  \transpose f d
+  \new GregorianTranscriptionStaff <<
+    \new GregorianTranscriptionVoice = "melody" \chantamen
+    \new GregorianTranscriptionLyrics = "one" \lyricsto melody \versesevenwords
+  >>
+\layout {
+		indent=0
+		\context { \Score \remove "Bar_number_engraver" }
+		\context { \Staff \remove "Time_signature_engraver" }
+		\context { \Score \remove "Mark_engraver"  }
+                \context { \Staff \consists "Mark_engraver"  }
+	} %%% close layout
+
+}
+
+\markup {
+\vspace #5
+}
+
+\pageBreak
+
+\markup {
+\vspace #3
+\line {
  Polyphonic verses:
+}
 }
 
 \score {
-  \transpose f d
+  \transpose f e
   \new ChoirStaff <<
     \new Staff <<
       \new Voice = "soprano" <<
@@ -367,25 +442,6 @@ Chant verses after the Liber Usualis:
 }
 
 
-\markup {
-Final verse:
-}
-\score {
-  \transpose f d
-  \new GregorianTranscriptionStaff <<
-    \new GregorianTranscriptionVoice = "melody" \chantamen
-    \new GregorianTranscriptionLyrics = "one" \lyricsto melody \versesevenwords
-  >>
-\layout {
-		indent=0
-		\context { \Score \remove "Bar_number_engraver" }
-		\context { \Staff \remove "Time_signature_engraver" }
-		\context { \Score \remove "Mark_engraver"  }
-                \context { \Staff \consists "Mark_engraver"  }
-	} %%% close layout
-
-}
-
 }
 
 
@@ -395,8 +451,13 @@ Final verse:
   subtitle = "in Passiontide - SATB"
 }
 \markup {
-Chant verses after the Liber Usualis:
+\vspace #5
+\line {
+ Chant verses after the Liber Usualis:
+    }
 }
+
+
    \score {
      \transpose f d
      \new GregorianTranscriptionStaff <<
@@ -416,11 +477,45 @@ Chant verses after the Liber Usualis:
    }
 
 \markup {
+\vspace #5
+\line {
+Final verse:
+}
+}
+\score {
+  \transpose f d
+  \new GregorianTranscriptionStaff <<
+    \new GregorianTranscriptionVoice = "melody" \chantamen
+    \new GregorianTranscriptionLyrics = "one" \lyricsto melody \origversesevenwords
+  >>
+\layout {
+		indent=0
+		\context { \Score \remove "Bar_number_engraver" }
+		\context { \Staff \remove "Time_signature_engraver" }
+		\context { \Score \remove "Mark_engraver"  }
+                \context { \Staff \consists "Mark_engraver"  }
+	} %%% close layout
+
+}
+
+\markup {
+\vspace #5
+}
+
+
+
+\pageBreak
+
+
+\markup {
+\vspace #3
+\line {
  Polyphonic verses:
+}
 }
 
 \score {
-  \transpose f d
+  \transpose f e
   \new ChoirStaff <<
     \new Staff <<
       \new Voice = "soprano" <<
@@ -470,26 +565,6 @@ Chant verses after the Liber Usualis:
 \midi { \context { \Score tempoWholesPerMinute = #(ly:make-moment 60 2) }} 
 }
 
-
-\markup {
-Final verse:
-}
-\score {
-  \transpose f d
-  \new GregorianTranscriptionStaff <<
-    \new GregorianTranscriptionVoice = "melody" \chantamen
-    \new GregorianTranscriptionLyrics = "one" \lyricsto melody \origversesevenwords
-  >>
-\layout {
-		indent=0
-		\context { \Score \remove "Bar_number_engraver" }
-		\context { \Staff \remove "Time_signature_engraver" }
-		\context { \Score \remove "Mark_engraver"  }
-                \context { \Staff \consists "Mark_engraver"  }
-	} %%% close layout
-
-}
-
 }
 
 
@@ -499,8 +574,13 @@ Final verse:
   subtitle = "outside Passiontide - SATB"
 }
 \markup {
-Chant verses after the Liber Usualis:
+\vspace #5
+\line {
+ Chant verses after the Liber Usualis:
+    }
 }
+
+
    \score {
      \transpose f d
      \new GregorianTranscriptionStaff <<
@@ -520,11 +600,45 @@ Chant verses after the Liber Usualis:
    }
 
 \markup {
+\vspace #5
+\line {
+Final verse:
+}
+}
+\score {
+  \transpose f d
+  \new GregorianTranscriptionStaff <<
+    \new GregorianTranscriptionVoice = "melody" \chantamen
+    \new GregorianTranscriptionLyrics = "one" \lyricsto melody \origversesevenwords
+  >>
+\layout {
+		indent=0
+		\context { \Score \remove "Bar_number_engraver" }
+		\context { \Staff \remove "Time_signature_engraver" }
+		\context { \Score \remove "Mark_engraver"  }
+                \context { \Staff \consists "Mark_engraver"  }
+	} %%% close layout
+
+}
+
+
+\markup {
+\vspace #5
+}
+
+
+\pageBreak
+
+
+\markup {
+\vspace #3
+\line {
  Polyphonic verses:
+}
 }
 
 \score {
-  \transpose f d
+  \transpose f e
   \new ChoirStaff <<
     \new Staff <<
       \new Voice = "soprano" <<
@@ -572,26 +686,6 @@ Chant verses after the Liber Usualis:
 	} %%% close layout
 
 \midi { \context { \Score tempoWholesPerMinute = #(ly:make-moment 60 2) }} 
-}
-
-
-\markup {
-Final verse:
-}
-\score {
-  \transpose f d
-  \new GregorianTranscriptionStaff <<
-    \new GregorianTranscriptionVoice = "melody" \chantamen
-    \new GregorianTranscriptionLyrics = "one" \lyricsto melody \origversesevenwords
-  >>
-\layout {
-		indent=0
-		\context { \Score \remove "Bar_number_engraver" }
-		\context { \Staff \remove "Time_signature_engraver" }
-		\context { \Score \remove "Mark_engraver"  }
-                \context { \Staff \consists "Mark_engraver"  }
-	} %%% close layout
-
 }
 
 }
