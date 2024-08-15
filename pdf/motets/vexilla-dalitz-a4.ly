@@ -81,6 +81,12 @@ Da -- vid fi -- de -- li car -- mi -- ne,
 di -- cen -- do na -- ti -- o -- ni -- bus:
 re -- gna -- vit a li -- gno De -- us. }
 
+origversethreewords = \lyricmode { \set stanza = "3. "
+Im -- ple -- ta sunt quae con -- ci -- nit
+Da -- vid fi -- de -- li car -- mi -- ne,
+Di -- cens: in na -- ti -- o -- ni -- bus:
+Re -- gna -- vit a li -- gno De -- us. }
+
 versefourwords = \lyricmode { \set stanza = "4. "
 Ar -- bor de -- co -- ra_et ful -- gi -- da,
 or -- na -- ta Re -- gis pur -- pu -- ra,
@@ -91,62 +97,74 @@ tam san -- cta mem -- bra tan -- ge -- re.
 
 sopfourwords = \lyricmode { \set stanza = "4. "
 Ar -- bor de -- co -- ra_et ful -- gi -- da,
-or -- na -- ta Re -- gis pur -- pu -- ra,
-tam san -- cta mem -- bra tan -- ge -- re.
+Or -- na -- ta Re -- gis pur -- pu -- ra,
+Tam san -- cta mem -- bra tan -- ge -- re.
 }
 
 versefivewords = \lyricmode { \set stanza = "5. "
 Be -- a -- ta, cu -- jus bra -- chi -- is
-pre -- tium pe -- pen -- dit sae -- cu -- li:
-sta -- te -- ra fa -- cta cor -- po -- ris,
-tu -- lit -- que prae -- dam tar -- ta -- ri.
+Pre -- tium pe -- pen -- dit sae -- cu -- li:
+Sta -- te -- ra fa -- cta cor -- po -- ris,
+Tu -- lit -- que prae -- dam tar -- ta -- ri.
 }
 
 
 origversefivewords = \lyricmode { \set stanza = "5. "
 Be -- a -- ta, cu -- jus bra -- chi -- is
-pre -- tium pe -- pen -- dit sae -- cu -- li:
-sta -- te -- ra fa -- cta cor -- po -- ris,
-prae -- dam tu -- lit -- que tar -- ta -- ri.
+Sae -- cli pe -- pen -- dit pre -- tium,
+Sta -- te -- ra fa -- cta cor -- po -- ris,
+Prae -- dam -- que tu -- lit tar -- ta -- ri.
 }
 
 versesixwords = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
-hoc Pas -- si -- o -- nis tem -- po -- re!
-pi -- is ad -- au -- ge gra -- ti -- am,
-re -- is -- que de -- le cri -- mi -- na.}
+Hoc Pas -- si -- o -- nis tem -- po -- re!
+Pi -- is ad -- au -- ge gra -- ti -- am,
+Re -- is -- que de -- le cri -- mi -- na.}
+
+origversesixwords = \lyricmode { \set stanza = "6. "
+O Crux a -- ve, spes un -- i -- ca,
+Hoc Pas -- si -- o -- nis tem -- po -- re!
+Au -- ge pi -- is ju -- sti -- ti -- am,
+Re -- is -- que do -- na ve -- ni --am.}
 
 
 sopsixwords = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
-hoc Pas -- si -- o -- nis tem -- po -- re!
-re -- is -- que de -- le cri -- mi -- na.}
+Hoc Pas -- si -- o -- nis tem -- po -- re!
+Re -- is -- que de -- le cri -- mi -- na.}
+
+
+origsopsixwords = \lyricmode { \set stanza = "6. "
+O Crux a -- ve, spes un -- i -- ca,
+Hoc Pas -- si -- o -- nis tem -- po -- re!
+Re -- is -- que do -- na ve -- ni --am.}
 
 
 versesixtriumph = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
-in hac tri -- um -- phi glo -- ri -- a!
-pi -- is ad -- au -- ge gra -- ti -- am,
-re -- is -- que de -- le cri -- mi -- na.}
+In hac tri -- um -- phi glo -- ri -- a!
+Pi -- is ad -- au -- ge gra -- ti -- am,
+Re -- is -- que de -- le cri -- mi -- na.}
 
 
 sopsixtriumph = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
-in hac tri -- um -- phi glo -- ri -- a!
-re -- is -- que de -- le cri -- mi -- na.}
+In hac tri -- um -- phi glo -- ri -- a!
+Re -- is -- que de -- le cri -- mi -- na.}
 
 versesevenwords = \lyricmode { \set stanza = "7. "
 Te, fons sa -- lu -- tis Tri -- ni -- tas,
-col -- lau -- det om -- nis spi -- ri -- tus:
-qui -- bus Cru -- cis vic -- to -- ri -- am
-lar -- gi -- ris, ad -- de prae -- mi -- um. A -- men. }
+Col -- lau -- det om -- nis spi -- ri -- tus:
+Qui -- bus Cru -- cis vic -- to -- ri -- am
+Lar -- gi -- ris, ad -- de prae -- mi -- um. A -- men. }
 
 
 origversesevenwords = \lyricmode { \set stanza = "7. "
 Te, fons sa -- lu -- tis Tri -- ni -- tas,
 col -- lau -- det om -- nis spi -- ri -- tus:
 quos per Cru -- cis mys -- te -- ri -- um
-sal -- vas, fo -- ve per sae -- cu -- la. A -- men. }
+sal -- vas, re -- ge per sae -- cu -- la. A -- men. }
 
    global = {
      \key aes \major
@@ -301,9 +319,9 @@ Final verse:
         \global
         \bassnotes
       >>
-      \new Lyrics \lyricsto "bass" \versetwowords
-      \new Lyrics \lyricsto "bass" \versefourwords
-      \new Lyrics \lyricsto "bass" \versesixwords
+      \new Lyrics \lyricsto "bass" \soptwowords
+      \new Lyrics \lyricsto "bass" \sopfourwords
+      \new Lyrics \lyricsto "bass" \sopsixwords
     >>
   >>
 \layout {
@@ -418,16 +436,16 @@ Final verse:
       >>
       \new Lyrics \lyricsto "tenor" \versetwowords
       \new Lyrics \lyricsto "tenor" \versefourwords
-      \new Lyrics \lyricsto "tenor" \versesixwords
+      \new Lyrics \lyricsto "tenor" \versesixtriumph
     >>
    \new Staff <<
       \new Voice = "bass" <<
         \global
         \bassnotes
       >>
-      \new Lyrics \lyricsto "bass" \versetwowords
-      \new Lyrics \lyricsto "bass" \versefourwords
-      \new Lyrics \lyricsto "bass" \versesixtriumph
+      \new Lyrics \lyricsto "bass" \soptwowords
+      \new Lyrics \lyricsto "bass" \sopfourwords
+      \new Lyrics \lyricsto "bass" \sopsixtriumph
     >>
   >>
 \layout {
@@ -453,7 +471,7 @@ Final verse:
 \markup {
 \vspace #5
 \line {
- Chant verses after the Liber Usualis:
+	Chant verses after the Antiphonale Monasticum:
     }
 }
 
@@ -549,9 +567,9 @@ Final verse:
         \global
         \bassnotes
       >>
-      \new Lyrics \lyricsto "bass" \origversetwowords
-      \new Lyrics \lyricsto "bass" \versefourwords
-      \new Lyrics \lyricsto "bass" \versesixwords
+      \new Lyrics \lyricsto "bass" \origsoptwowords
+      \new Lyrics \lyricsto "bass" \sopfourwords
+      \new Lyrics \lyricsto "bass" \sopsixwords
     >>
   >>
 \layout {
@@ -576,7 +594,7 @@ Final verse:
 \markup {
 \vspace #5
 \line {
- Chant verses after the Liber Usualis:
+ Chant verses after the Antiphonale Monasticum:
     }
 }
 
@@ -672,9 +690,9 @@ Final verse:
         \global
         \bassnotes
       >>
-      \new Lyrics \lyricsto "bass" \origversetwowords
-      \new Lyrics \lyricsto "bass" \versefourwords
-      \new Lyrics \lyricsto "bass" \versesixtriumph
+      \new Lyrics \lyricsto "bass" \origsoptwowords
+      \new Lyrics \lyricsto "bass" \sopfourwords
+      \new Lyrics \lyricsto "bass" \sopsixtriumph
     >>
   >>
 \layout {
