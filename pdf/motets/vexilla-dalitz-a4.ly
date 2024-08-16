@@ -128,6 +128,12 @@ Hoc Pas -- si -- o -- nis tem -- po -- re!
 Au -- ge pi -- is ju -- sti -- ti -- am,
 Re -- is -- que do -- na ve -- ni --am.}
 
+origversesixwordstriumph = \lyricmode { \set stanza = "6. "
+O Crux a -- ve, spes un -- i -- ca,
+In hac tri -- um -- phi glo -- ri -- a!
+Au -- ge pi -- is ju -- sti -- ti -- am,
+Re -- is -- que do -- na ve -- ni --am.}
+
 
 sopsixwords = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
@@ -138,6 +144,11 @@ Re -- is -- que de -- le cri -- mi -- na.}
 origsopsixwords = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
 Hoc Pas -- si -- o -- nis tem -- po -- re!
+Re -- is -- que do -- na ve -- ni --am.}
+
+origsopsixwordstriumph = \lyricmode { \set stanza = "6. "
+O Crux a -- ve, spes un -- i -- ca,
+In hac tri -- um -- phi glo -- ri -- a!
 Re -- is -- que do -- na ve -- ni --am.}
 
 
@@ -481,7 +492,7 @@ Final verse:
      \new GregorianTranscriptionStaff <<
        \new GregorianTranscriptionVoice = "melody" \chant
        \new GregorianTranscriptionLyrics = "one" \lyricsto melody \basswords
-       \new GregorianTranscriptionLyrics = "two" \lyricsto melody \versethreewords
+       \new GregorianTranscriptionLyrics = "two" \lyricsto melody \origversethreewords
        \new GregorianTranscriptionLyrics = "three" \lyricsto melody \origversefivewords
      >>
    \layout {
@@ -542,7 +553,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "soprano" \origsoptwowords
       \new Lyrics \lyricsto "soprano" \sopfourwords
-      \new Lyrics \lyricsto "soprano" \sopsixwords
+      \new Lyrics \lyricsto "soprano" \origsopsixwords
     >>
     \new Staff <<
       \new Voice = "alto" <<
@@ -551,7 +562,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "alto" \origversetwowords
       \new Lyrics \lyricsto "alto" \versefourwords
-      \new Lyrics \lyricsto "alto" \versesixwords
+      \new Lyrics \lyricsto "alto" \origversesixwords
     >>
    \new Staff <<
       \new Voice = "tenor" <<
@@ -560,7 +571,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "tenor" \versetwowords
       \new Lyrics \lyricsto "tenor" \versefourwords
-      \new Lyrics \lyricsto "tenor" \versesixwords
+      \new Lyrics \lyricsto "tenor" \origversesixwords
     >>
    \new Staff <<
       \new Voice = "bass" <<
@@ -569,7 +580,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "bass" \origsoptwowords
       \new Lyrics \lyricsto "bass" \sopfourwords
-      \new Lyrics \lyricsto "bass" \sopsixwords
+      \new Lyrics \lyricsto "bass" \origsopsixwords
     >>
   >>
 \layout {
@@ -604,7 +615,7 @@ Final verse:
      \new GregorianTranscriptionStaff <<
        \new GregorianTranscriptionVoice = "melody" \chant
        \new GregorianTranscriptionLyrics = "one" \lyricsto melody \basswords
-       \new GregorianTranscriptionLyrics = "two" \lyricsto melody \versethreewords
+       \new GregorianTranscriptionLyrics = "two" \lyricsto melody \origversethreewords
        \new GregorianTranscriptionLyrics = "three" \lyricsto melody \origversefivewords
      >>
    \layout {
@@ -665,7 +676,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "soprano" \origsoptwowords
       \new Lyrics \lyricsto "soprano" \sopfourwords
-      \new Lyrics \lyricsto "soprano" \sopsixtriumph
+      \new Lyrics \lyricsto "soprano" \origsopsixtriumph
     >>
     \new Staff <<
       \new Voice = "alto" <<
