@@ -126,13 +126,13 @@ origversesixwords = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
 Hoc Pas -- si -- o -- nis tem -- po -- re!
 Au -- ge pi -- is ju -- sti -- ti -- am,
-Re -- is -- que do -- na ve -- ni --am.}
+Re -- is -- que do -- na ve -- ni -- am.}
 
 origversesixwordstriumph = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
 In hac tri -- um -- phi glo -- ri -- a!
 Au -- ge pi -- is ju -- sti -- ti -- am,
-Re -- is -- que do -- na ve -- ni --am.}
+Re -- is -- que do -- na ve -- ni -- am.}
 
 
 sopsixwords = \lyricmode { \set stanza = "6. "
@@ -144,12 +144,12 @@ Re -- is -- que de -- le cri -- mi -- na.}
 origsopsixwords = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
 Hoc Pas -- si -- o -- nis tem -- po -- re!
-Re -- is -- que do -- na ve -- ni --am.}
+Re -- is -- que do -- na ve -- ni -- am.}
 
 origsopsixwordstriumph = \lyricmode { \set stanza = "6. "
 O Crux a -- ve, spes un -- i -- ca,
 In hac tri -- um -- phi glo -- ri -- a!
-Re -- is -- que do -- na ve -- ni --am.}
+Re -- is -- que do -- na ve -- ni -- am.}
 
 
 versesixtriumph = \lyricmode { \set stanza = "6. "
@@ -676,7 +676,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "soprano" \origsoptwowords
       \new Lyrics \lyricsto "soprano" \sopfourwords
-      \new Lyrics \lyricsto "soprano" \origsopsixtriumph
+      \new Lyrics \lyricsto "soprano" \origsopsixwordstriumph
     >>
     \new Staff <<
       \new Voice = "alto" <<
@@ -685,7 +685,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "alto" \origversetwowords
       \new Lyrics \lyricsto "alto" \versefourwords
-      \new Lyrics \lyricsto "alto" \versesixtriumph
+      \new Lyrics \lyricsto "alto" \origversesixwordstriumph
     >>
    \new Staff <<
       \new Voice = "tenor" <<
@@ -694,7 +694,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "tenor" \versetwowords
       \new Lyrics \lyricsto "tenor" \versefourwords
-      \new Lyrics \lyricsto "tenor" \versesixwords
+      \new Lyrics \lyricsto "tenor" \origversesixwordstriumph
     >>
  \new Staff <<
       \new Voice = "bass" <<
@@ -703,7 +703,7 @@ Final verse:
       >>
       \new Lyrics \lyricsto "bass" \origsoptwowords
       \new Lyrics \lyricsto "bass" \sopfourwords
-      \new Lyrics \lyricsto "bass" \sopsixtriumph
+      \new Lyrics \lyricsto "bass" \origsopsixwordstriumph
     >>
   >>
 \layout {
