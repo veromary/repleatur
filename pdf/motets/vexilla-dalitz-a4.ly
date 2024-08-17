@@ -195,7 +195,7 @@ sus -- pen -- sus est pa -- ti -- bu -- lo. }
 altonotes = \relative c'' {
 \override Slur.stencil = ##f
    aes8( bes) c4 des c bes c8( bes) aes( g) f4 ees ees ees c des8( ees) f4 e f
-f aes f ees aes c4.( bes16 aes g4 ees~ ees8) aes4( g8) aes4 aes g g f des c f2 e4 f2. 
+f aes f ees aes c4.( bes16 aes g4 ees~ ees8) aes4( g8) aes4 aes g g f des c( f2) e4 f2. 
 }
 
 tenornotes = \relative c' {
