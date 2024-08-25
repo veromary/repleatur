@@ -37,7 +37,7 @@ permalink: /library/
 | Salvete Flores Martyrum, chant hymn for 28th December | [pdf](/pdf/holyinno/salvete.pdf) | [tex](/pdf/holyinno/salvete.tex) and [gabc](/pdf/holyinno/salvete.gabc) |
 | Sancta et Immaculata, Dering | [PDF](/pdf/dering/10-sanctaetimmac.pdf) | [ly](/pdf/dering/10-sanctaetimmac.ly) |
 | Soul of my Saviour | [pdf](/pdf/organ/Soul-choir.pdf) | [ly](/pdf/organ/Soul-choir.ly) |
-| Sub Tuum (Slavonic) | [PDF](/pdf/motets/subtuum-slavonic.pdf) | [ly](/pdf/motets/subtuum-slavonic.pdf) |
+| Sub Tuum (Slavonic) (3 part version transcribed from piece of paper, 4 part version edited by Ján Janovcík from [this Facebook thread](https://www.facebook.com/ccwatershed/posts/pfbid0pjfxwW5wJbMyKrcBPQqUWum4yzVB3qyK9ghe4b5cGqCW2266krDhUxYuxGfAD8RXl) | [3 part PDF](/pdf/motets/subtuum-slavonic.pdf) and [4 part PDF](/pdf/motets/subtuum-slavonic-a4.pdf) and [alt 4 part PDF](/pdf/motets/subtuum-slavonic-a4-alt.pdf) | [3 part ly](/pdf/motets/subtuum-slavonic.pdf) and [4 part ly](/pdf/motets/subtuum-slavonic-a4.ly) and [alt 4 part ly](/pdf/motets/subtuum-slavonic-a4-alt.ly) |
 | Tantum Ergo, canon | [PDF](/pdf/motets/tantumergo-dp.pdf) | [abc](/pdf/motets/tantumergo-dp.abc) |
 | The Royal Banners Forward Go (Gonfalon Royal) | [PDF - melody line](/pdf/hymns/TheRoyalBanners.pdf) | [ly](/pdf/hymns/TheRoyalBanners.ly) |
 | Veni Creator Spiritus, Couturier | [PDF](/pdf/Veni_Creator_-_Couturier.pdf) | [musescore](/pdf/Veni_Creator_-_Couturier.mscz) |
