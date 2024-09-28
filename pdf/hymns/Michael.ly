@@ -1,11 +1,12 @@
+\version "2.24.2"
+
+
 \header {
   title = "Michael, Prince of Highest Heaven"
   composer = "Jules Brazil"
 tagline = " "
 }
 
-\footer {
-}
 
 #(set-global-staff-size 18) \paper{ #(define fonts (make-pango-font-tree "Calluna" "Calluna" "Calluna" (/ 18 20))) }
 
@@ -21,6 +22,7 @@ d4 d d8( c) g( a) b4 a g2
 }
 
 versetune = \relative c'' {
+  \key g \major
 b4 b b a c c c b d d d b a g fis2
 a4 a a a a b8( cis) d4 a d a cis8( b) a( g) fis4 e d2
 }
@@ -67,8 +69,6 @@ Round your charge pro -- tect -- ing shine.
   \layout { }
   \midi { }
 }
-
-Verses
 
 \score{
  \header {
