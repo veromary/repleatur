@@ -17,20 +17,20 @@
 chant = \relative c'' {
   \key bes \major
   \set Score.timing = ##f
-  bes4 c( d) ees d( c bes) c c( d c) bes a( g4.) \bar "'"
-  c4 c d bes( g) bes a( bes) g f( g4.) \bar "|" \break
-  g4 g bes g8( f) bes4 bes8( c d) c4 c4( bes4.) \bar "'"
-  bes4 bes8( d ees d c) d4 bes( g) bes a( bes) g f4( g4.) \bar "||"
+  bes4 c( d) ees d( c bes) c c( d c) bes a4.( g4.) \bar "'"
+  c4 c d bes( g) bes a( bes) g f4.( g4.) \bar "|" \break
+  g4 g bes g8( f) bes4 bes8( c d) c4 c4.( bes4.) \bar "'"
+  bes4 bes8( d ees d c) d4 bes( g) bes a( bes) g f4.( g4.) \bar "||"
 }
 
 chantamen = \relative c'' {
   \key bes \major
   \set Score.timing = ##f
-  bes4 c( d) ees d( c bes) c c( d c) bes a( g4.) \bar "'"
-  c4 c d bes( g) bes a( bes) g f( g4.) \bar "|"
-  g4 g bes g8( f) \bar "" \break bes4 bes8( c d) c4 c4( bes4.) \bar "'"
-  bes4 bes8( d ees d c) d4 bes( g) bes a( bes) g f4( g4.) \bar "|"
-  g4( a g) f( g4.) \bar "||"
+  bes4 c( d) ees d( c bes) c c( d c) bes a4.( g4.) \bar "'"
+  c4 c d bes( g) bes a( bes) g f4.( g4.) \bar "|"
+  g4 g bes g8( f) \bar "" \break bes4 bes8( c d) c4 c4.( bes4.) \bar "'"
+  bes4 bes8( d ees d c) d4 bes( g) bes a( bes) g f4.( g4.) \bar "|"
+  g4( a g) f4.( g4.) \bar "||"
 }
 
 altowords = \lyricmode { \set stanza = "1. " Ve -- xil -- la re -- gis pro -- de -- unt, ful -- get Cru -- cis my -- ste -- ri -- um 
