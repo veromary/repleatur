@@ -27,8 +27,9 @@ permalink: /library/
 | Immaculate Mary SATB with cascading Aves by Renato Calcaterra | [pdf](/pdf/hymns/ImmaculateMary-Calcaterra.pdf) | [ly](/pdf/hymns/ImmaculateMary-Calcaterra.ly) |
 | Lauda Jerusalem | [pdf](/pdf/LaudaJerusalem.pdf) | [ly](/pdf/LaudaJerusalem.ly) |
 | Lo, how a Rose E'er Blooming, Praetorius | [pdf](/pdf/motets/lohowarose.pdf) | [ly](/pdf/motets/lohowarose.ly) |
-| Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
+| Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/hymns/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
 | Magnificat, a round with slightly random words, modernish | [pdf](/pdf/motets/magnificat-cf.pdf) | [abc](/pdf/motets/magnificat-cf.abc) |
+| O Gracious Maker (translation Audi Benigne) | [pdf](/pdf/hymns/OGraciousMaker-BabylonsStreams.pdf) or [leadsheet](/pdf/hymns/OGraciousMaker-leadsheet.pdf) | [ly](/pdf/hymns/OGraciousMaker-BabylonsStreams.pdf) or leadsheet [ly](/pdf/hymns/OGraciousMaker-leadsheet.pdf) |
 | O Sacred Head, Passion Chorale | [PDF](/pdf/hymns/OSacredHead.pdf) | [ly](/pdf/hymns/OSacredHead.ly) |
 | O salutaris, Ravanello | [PDF](/pdf/motets/o-salutaris-ravanello.pdf) | [ly](/pdf/motets/o-salutaris-ravanello.ly) |
 | O Sanctissima, Beethoven's harmony | [PDF](/pdf/motets/O_sanctissima.pdf) | [ly](/pdf/motets/O_sanctissima.ly) |
