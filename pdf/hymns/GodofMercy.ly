@@ -37,7 +37,7 @@ d4 c bes2 bes a4 a c( d) ees2 d4 c bes4( c) d( c) bes a bes1
 
 verses = \relative c'' { \clef treble
 \partial 2
-bes4 a g2 bes d4 d c( bes) a2 bes4 a g2 bes4( a) g fis g2. r4
+bes4 a g2 bes d4 d c( bes) a2 bes4 a g2 \slurDotted bes4( a) g fis g2. r4 \slurSolid
 \bar "|" \break
 bes4 a g2 bes d4 d c( bes) a2 bes4 a g2 bes4( a) g fis g2. r4
 \bar "||"
@@ -53,7 +53,7 @@ firstWords = \lyricmode
     \set stanza = "1. "
     %\set vocalName = "Men/Women/Unison/SATB"
 God of mer -- cy and com -- pas -- sion
-Look with pi -- ty up -- on me
+Look with pi -- ty_up -- on _ me
 Fa -- ther, let me call Thee Fa -- ther
 'tis Thy child re -- turns to Thee
 	}
