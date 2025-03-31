@@ -1,15 +1,16 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.3.23)  19 JUL 2023 10:54
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.14)  31 MAR 2025 12:50
  restricted system commands enabled.
 **oratio-ante-scholam-musicae.tex
 (./oratio-ante-scholam-musicae.tex
-LaTeX2e <2022-11-01> patch level 1
-Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
-Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended collection.
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
 luaotfload | conf : Root cache directory is "/home/veronica/.TinyTeX/texmf-var/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-resolved path "/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luaotfload/fontloader-2022-10-03.lua".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
 Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.120
+luaotfload | init : Context OpenType loader version 3.134
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
@@ -32,23 +33,32 @@ Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'. L3 programming layer <2023-02-22>
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `tracingstacklevels' in `input_level_string'. (/home/veronica/.TinyTeX/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2022/11/17 v3.7.19 configurable book, report, article document class
-(/home/veronica/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Document Class: memoir 2024/01/26 v3.8.2 configurable book, report, article document class
+(/home/veronica/.TinyTeX/texmf-dist/tex/latex/xpatch/xpatch.sty (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-03-14 L3 programming layer (loader) 
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-03-14 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count186
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box51
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-03-14 L3 Experimental document command parser
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count183
-)
+\etb@tempcnta=\count187
+))
 \onelineskip=\skip48
 \lxvchars=\skip49
 \xlvchars=\skip50
-\@memcnta=\count184
-\c@@memmarkcntra=\count185
+\@memcnta=\count188
+\c@@memmarkcntra=\count189
  (/home/veronica/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-\stockheight=\dimen139
-\stockwidth=\dimen140
 \trimtop=\skip51
 \trimedge=\skip52
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/memoir/mem10.clo
@@ -64,20 +74,20 @@ luaotfload | db : Font names database loaded from /home/veronica/.TinyTeX/texmf-
 \mem@maxheadheight=\skip60
 \mem@maxfootheight=\skip61
 \headwidth=\skip62
-\c@storedpagenumber=\count186
-\memPD=\dimen141
+\c@storedpagenumber=\count190
+\memPD=\dimen139
 \m@mabparskip=\skip63
 \thanksmarkwidth=\skip64
 \thanksmarksep=\skip65
 \droptitle=\skip66
-\c@book=\count187
-\c@part=\count188
-\c@chapter=\count189
-\c@section=\count190
-\c@subsection=\count191
-\c@subsubsection=\count192
-\c@paragraph=\count193
-\c@subparagraph=\count194
+\c@book=\count191
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
 \beforechapskip=\skip67
 \midchapskip=\skip68
 \afterchapskip=\skip69
@@ -99,10 +109,10 @@ luaotfload | db : Font names database loaded from /home/veronica/.TinyTeX/texmf-
 \beforesubparaskip=\skip85
 \aftersubparaskip=\skip86
 \pfbreakskip=\skip87
-\c@@ppsavesec=\count195
-\c@@ppsaveapp=\count196
-\ragrparindent=\dimen142
-\everylistparindent=\dimen143
+\c@@ppsavesec=\count199
+\c@@ppsaveapp=\count266
+\ragrparindent=\dimen140
+\everylistparindent=\dimen141
 \parsepi=\skip88
 \topsepi=\skip89
 \itemsepi=\skip90
@@ -115,82 +125,84 @@ luaotfload | db : Font names database loaded from /home/veronica/.TinyTeX/texmf-
 \partopsepiii=\skip97
 \m@msavetopsep=\skip98
 \m@msavepartopsep=\skip99
-\@enLab=\toks16
+\@enLab=\toks17
 \abstitleskip=\skip100
 \absleftindent=\skip101
-\abs@leftindent=\dimen144
+\abs@leftindent=\dimen142
 \absrightindent=\skip102
 \absparindent=\skip103
 \absparsep=\skip104
-\c@vslineno=\count197
-\c@poemline=\count198
-\c@modulo@vs=\count199
-\c@memfvsline=\count266
+\c@vslineno=\count267
+\c@poemline=\count268
+\c@modulo@vs=\count269
+\c@memfvsline=\count270
 \vleftskip=\skip105
 \vrightskip=\skip106
 \stanzaskip=\skip107
 \versewidth=\skip108
 \vgap=\skip109
 \vindent=\skip110
-\vleftmargin=\dimen145
-\c@verse=\count267
-\c@chrsinstr=\count268
+\vleftmargin=\dimen143
+\c@verse=\count271
+\c@chrsinstr=\count272
 \beforepoemtitleskip=\skip111
 \afterpoemtitleskip=\skip112
-\c@poem=\count269
+\c@poem=\count273
 \beforePoemTitleskip=\skip113
 \midPoemTitleskip=\skip114
 \afterPoemTitleskip=\skip115
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen146
-\ar@mcellbox=\box51
-\extrarowheight=\dimen147
-\NC@list=\toks17
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen144
+\ar@mcellbox=\box52
+\extrarowheight=\dimen145
+\NC@list=\toks18
 \extratabsurround=\skip116
 \backup@length=\skip117
-\ar@cellbox=\box52
+\ar@cellbox=\box53
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/tools/dcolumn.sty
-Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen148
-\TX@old@table=\dimen149
-\TX@old@col=\dimen150
-\TX@target=\dimen151
-\TX@delta=\dimen152
-\TX@cols=\count270
-\TX@ftn=\toks18
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen146
+\TX@old@table=\dimen147
+\TX@old@col=\dimen148
+\TX@target=\dimen149
+\TX@delta=\dimen150
+\TX@cols=\count274
+\TX@ftn=\toks19
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count275
+\@cmidlb=\count276
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count277
+\@lastruleclass=\count278
+\@thisrulewidth=\dimen163
 )
-\heavyrulewidth=\dimen153
-\lightrulewidth=\dimen154
-\cmidrulewidth=\dimen155
-\belowrulesep=\dimen156
-\belowbottomsep=\dimen157
-\aboverulesep=\dimen158
-\abovetopsep=\dimen159
-\cmidrulesep=\dimen160
-\cmidrulekern=\dimen161
-\defaultaddspace=\dimen162
-\@cmidla=\count271
-\@cmidlb=\count272
-\@aboverulesep=\dimen163
-\@belowrulesep=\dimen164
-\@thisruleclass=\count273
-\@lastruleclass=\count274
-\@thisrulewidth=\dimen165
 \ctableftskip=\skip118
 \ctabrightskip=\skip119
-\abovecolumnspenalty=\count275
-\@linestogo=\count276
-\@cellstogo=\count277
-\@cellsincolumn=\count278
-\crtok=\toks19
-\@mincolumnwidth=\dimen166
-\c@newflo@tctr=\count279
-\mem@margin@floatbox=\box53
+\abovecolumnspenalty=\count279
+\@linestogo=\count280
+\@cellstogo=\count281
+\@cellsincolumn=\count282
+\crtok=\toks20
+\@mincolumnwidth=\dimen164
+\c@newflo@tctr=\count283
+\mem@margin@floatbox=\box54
 \@contcwidth=\skip120
 \@contindw=\skip121
 \abovecaptionskip=\skip122
@@ -200,29 +212,49 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \subfloatcaptopadj=\skip126
 \subfloatbottomskip=\skip127
 \subfloatlabelskip=\skip128
-\subfloatcapmargin=\dimen167
-\c@@contsubnum=\count280
-\m@mscap@capbox=\box54
-\m@mscap@fbox=\box55
-\sidecapsep=\dimen168
-\sidecapwidth=\dimen169
-\m@m@tempdima=\dimen170
-\m@mscapraise=\dimen171
-\sidecapraise=\dimen172
-\m@mscapmainwidth=\dimen173
-\m@mscaplkern=\dimen174
+\subfloatcapmargin=\dimen165
+\c@@contsubnum=\count284
+\m@mscap@capbox=\box55
+\m@mscap@fbox=\box56
+\sidecapsep=\dimen166
+\sidecapwidth=\dimen167
+\m@m@tempdima=\dimen168
+\m@mscapraise=\dimen169
+\sidecapraise=\dimen170
+\m@mscapmainwidth=\dimen171
+\m@mscaplkern=\dimen172
 \beforeepigraphskip=\skip129
 \afterepigraphskip=\skip130
 \epigraphwidth=\skip131
 \epigraphrule=\skip132
-LaTeX Info: Redefining \em on input line 7655.
-LaTeX Info: Redefining \emph on input line 7663.
+LaTeX Info: Redefining \em on input line 6932.
+LaTeX Info: Redefining \emph on input line 6940.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count285
+)
 \tocentryskip=\skip133
 \tocbaseline=\skip134
 \cftparskip=\skip135
 \cftbeforebookskip=\skip136
-\cftbookindent=\dimen175
-\cftbooknumwidth=\dimen176
+\cftbookindent=\dimen173
+\cftbooknumwidth=\dimen174
 \cftbeforepartskip=\skip137
 \cftpartindent=\skip138
 \cftpartnumwidth=\skip139
@@ -244,16 +276,18 @@ LaTeX Info: Redefining \emph on input line 7663.
 \cftbeforesubparagraphskip=\skip155
 \cftsubparagraphindent=\skip156
 \cftsubparagraphnumwidth=\skip157
-\prechapterprecisshift=\dimen177
-\c@maxsecnumdepth=\count281
-\bibindent=\dimen178
+\prechapterprecisshift=\dimen175
+\c@maxsecnumdepth=\count286
+\bibindent=\dimen176
 \bibitemsep=\skip158
 \indexcolsep=\skip159
 \indexrule=\skip160
-\indexmarkstyle=\toks20
+\indexmarkstyle=\toks22
 \@indexbox=\insert252
-\glossarycolsep=\dimen179
-\glossaryrule=\dimen180
+LaTeX Info: Redefining \raggedbottom on input line 7935.
+LaTeX Info: Redefining \flushbottom on input line 7939.
+\glossarycolsep=\dimen177
+\glossaryrule=\dimen178
 \sideparvshift=\skip161
 \sideins=\insert251
 \sidebartopsep=\skip162
@@ -266,8 +300,8 @@ LaTeX Info: Redefining \emph on input line 7663.
 \footinsdim=\skip169
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
-\m@m@k=\count282
-\m@m@h=\dimen181
+\m@m@k=\count287
+\m@m@h=\dimen179
 \m@mipn@skip=\skip170
 \sidefootins=\insert248
 \sidefootadjust=\skip171
@@ -276,60 +310,63 @@ LaTeX Info: Redefining \emph on input line 7663.
 \sidefootvsep=\skip174
 \sidefootwidth=\skip175
 \m@mdownsf=\skip176
-\c@sidefootnote=\count283
+\c@sidefootnote=\count288
 \sidefootmarkwidth=\skip177
 \sidefootmarksep=\skip178
 \sidefootparindent=\skip179
-\c@pagenote=\count284
-\c@pagenoteshadow=\count285
+\c@pagenote=\count289
+\c@pagenoteshadow=\count290
 \mem@pn@lastkern=\skip180
-\every@verbatim=\toks21
-\afterevery@verbatim=\toks22
-\verbatim@line=\toks23
-\tab@position=\count286
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
 \verbatim@in@stream=\read2
+)
 \verbatimindent=\skip181
 \verbatim@out=\write3
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/shortvrb.sty
+Package: shortvrb 2022/11/13 v3.0m Standard LaTeX documentation package V3 (FMi)
+)
 \bvboxsep=\skip182
-\c@memfbvline=\count287
-\c@bvlinectr=\count288
+\c@memfbvline=\count291
+\c@bvlinectr=\count292
 \bvnumlength=\skip183
-\fb@frw=\dimen182
-\fb@frh=\dimen183
-\FrameRule=\dimen184
-\FrameSep=\dimen185
-\c@cp@cntr=\count289
-\c@ism@mctr=\count290
-\c@xsm@mctr=\count291
-\c@csm@mctr=\count292
-\c@ksm@mctr=\count293
-\c@xksm@mctr=\count294
-\c@cksm@mctr=\count295
-\c@msm@mctr=\count296
-\c@xmsm@mctr=\count297
-\c@cmsm@mctr=\count298
-\c@bsm@mctr=\count299
-\c@workm@mctr=\count300
-\c@sheetsequence=\count301
-\c@lastsheet=\count302
-\c@lastpage=\count303
+\fb@frw=\dimen180
+\fb@frh=\dimen181
+\FrameRule=\dimen182
+\FrameSep=\dimen183
+\c@cp@cntr=\count293
+\c@ism@mctr=\count294
+\c@xsm@mctr=\count295
+\c@csm@mctr=\count296
+\c@ksm@mctr=\count297
+\c@xksm@mctr=\count298
+\c@cksm@mctr=\count299
+\c@msm@mctr=\count300
+\c@xmsm@mctr=\count301
+\c@cmsm@mctr=\count302
+\c@bsm@mctr=\count303
+\c@workm@mctr=\count304
+\c@sheetsequence=\count305
+\c@lastsheet=\count306
+\c@lastpage=\count307
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/textcase/textcase.sty
-Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
-\c@figure=\count304
-\c@lofdepth=\count305
+\c@figure=\count308
+\c@lofdepth=\count309
 \cftbeforefigureskip=\skip184
 \cftfigureindent=\skip185
 \cftfigurenumwidth=\skip186
-\c@table=\count306
-\c@lotdepth=\count307
+\c@table=\count310
+\c@lotdepth=\count311
 \cftbeforetableskip=\skip187
 \cfttableindent=\skip188
 \cfttablenumwidth=\skip189
 Package abstract [2008/07/23] emulated by memoir.
 Package appendix [2008/07/23] emulated by memoir.
-Package booktabs [2016/05/16] emulated by memoir.
 Package ccaption [2008/07/23] emulated by memoir.
 Package changepage [2008/07/23] emulated by memoir.
 Package chngcntr [2008/07/23] emulated by memoir.
@@ -360,37 +397,28 @@ Package verse [2008/07/23] emulated by memoir.
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/lualatex/gregoriotex/gregoriotex.sty
 Package: gregoriotex 2021/03/13 v6.0.0 GregorioTeX system.
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 227.
+Package xcolor Info: Driver file: luatex.def on input line 274.
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/luacolor/luacolor.sty
-Package: luacolor 2021-02-17 v1.17 Color support via LuaTeX's attributes (HO)
+Package: luacolor 2023-08-18 v1.18 Color support via LuaTeX's attributes (HO)
 Inserting `luacolor.process' in `pre_shipout_filter'.
 \LuaCol@Attribute=\attribute4
-) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
-) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
@@ -401,26 +429,27 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 107.
 )
-\Gin@req@height=\dimen186
-\Gin@req@width=\dimen187
+\Gin@req@height=\dimen184
+\Gin@req@width=\dimen185
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
  (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count308
+\@catcodetablestackcnt=\count312
 )
-\CatcodeTableOther=\catcodetable12
-\CatcodeTableExpl=\catcodetable13
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/luamplib/luamplib.sty
-Package: luamplib 2022/01/12 v2.23.0 mplib package for LuaTeX
-Lua module: luamplib 2022/01/12 2.23.0 Lua package to typeset Metapost with LuaTeX's MPLib.
+Package: luamplib 2024/04/12 v2.28.0 mplib package for LuaTeX
+Lua module: luamplib 2024/04/12 2.28.0 Lua package to typeset Metapost with LuaTeX's MPLib.
+\luamplibcctabexplat=\catcodetable16
 \mplibtmptoks=\toks25
-\mplibscratchbox=\box56
+\mplibscratchbox=\box57
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/xstring/xstring.sty (/home/veronica/.TinyTeX/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count309
-\decimalpart=\count310
+\xs_counta=\count313
+\xs_countb=\count314
 )
-Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-main.tex (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-common.tex)
 \gre@attr@dash=\attribute5
 \gre@attr@center=\attribute6
@@ -429,7 +458,7 @@ Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 \gre@attr@glyph@top=\attribute9
 \gre@attr@glyph@bottom=\attribute10
 \gre@attr@syllable@id=\attribute11
-\gre@atletter=\catcodetable14
+\gre@atletter=\catcodetable17
 Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
 Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
@@ -439,124 +468,124 @@ Module gregoriotex Info: Reading oratio-ante-scholam-musicae.gaux on input line 
 Inserting `gregoriotex.write_greaux' in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read3
-\gre@factor=\count311
+\gre@factor=\count315
  (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-spaces.tex
-\gre@saved@prescore@hyphenpenalty=\count312
-\gre@saved@prescore@exhyphenpenalty=\count313
-\gre@saved@prescore@exhyphenchar=\count314
-\gre@saved@prescore@doublehyphendemerits=\count315
-\gre@saved@prescore@finalhyphendemerits=\count316
-\gre@saved@prescore@brokenpenalty=\count317
-\gre@saved@prescore@looseness=\count318
-\gre@saved@prescore@tolerance=\count319
-\gre@saved@prescore@pretolerance=\count320
+\gre@saved@prescore@hyphenpenalty=\count316
+\gre@saved@prescore@exhyphenpenalty=\count317
+\gre@saved@prescore@exhyphenchar=\count318
+\gre@saved@prescore@doublehyphendemerits=\count319
+\gre@saved@prescore@finalhyphendemerits=\count320
+\gre@saved@prescore@brokenpenalty=\count321
+\gre@saved@prescore@looseness=\count322
+\gre@saved@prescore@tolerance=\count323
+\gre@saved@prescore@pretolerance=\count324
 \gre@saved@prescore@emergencystretch=\skip190
-\gre@saved@prescore@widowpenalty=\count321
-\gre@saved@prescore@clubpenalty=\count322
+\gre@saved@prescore@widowpenalty=\count325
+\gre@saved@prescore@clubpenalty=\count326
 \gre@saved@prescore@parskip=\skip191
 \gre@saved@prescore@lineskip=\skip192
 \gre@saved@prescore@baselineskip=\skip193
 \gre@saved@prescore@lineskiplimit=\skip194
-\gre@dimen@textlower=\dimen188
-\gre@dimen@stafflinewidth=\dimen189
-\gre@dimen@linewidth=\dimen190
-\gre@dimen@stafflineheight=\dimen191
-\gre@dimen@interstafflinespace=\dimen192
-\gre@dimen@stafflinediff=\dimen193
-\gre@dimen@constantglyphraise=\dimen194
-\gre@dimen@staffheight=\dimen195
+\gre@dimen@textlower=\dimen186
+\gre@dimen@stafflinewidth=\dimen187
+\gre@dimen@linewidth=\dimen188
+\gre@dimen@stafflineheight=\dimen189
+\gre@dimen@interstafflinespace=\dimen190
+\gre@dimen@stafflinediff=\dimen191
+\gre@dimen@constantglyphraise=\dimen192
+\gre@dimen@staffheight=\dimen193
 \gre@skip@syllablefinalskip=\skip195
 \gre@skip@minTextDistance=\skip196
 \gre@skip@minNotesDistance=\skip197
-\gre@dimen@curTextDistance=\dimen196
-\gre@dimen@curNotesDistance=\dimen197
+\gre@dimen@curTextDistance=\dimen194
+\gre@dimen@curNotesDistance=\dimen195
 \gre@skip@minShiftText=\skip198
 \gre@skip@minShiftNotes=\skip199
-\gre@dimen@bolshift=\dimen198
-\gre@dimen@bolextra=\dimen199
-\gre@dimen@clefwidth@current=\dimen256
-\gre@dimen@clefwidth@largest=\dimen257
-\gre@dimen@clefwidth@bol=\dimen258
-\gre@dimen@eolshift=\dimen259
-\gre@dimen@glyphraisevalue=\dimen260
-\gre@dimen@additionalbottomspace=\dimen261
-\gre@dimen@additionaltopspace=\dimen262
-\gre@dimen@additionaltopspacealt=\dimen263
-\gre@dimen@additionaltopspacenabc=\dimen264
-\gre@space@count@additionaltopspacethreshold=\count323
-\gre@space@count@additionaltopspacealtthreshold=\count324
-\gre@space@count@additionaltopspacenabcthreshold=\count325
-\gre@space@count@noteadditionalspacelinestextthreshold=\count326
-\gre@saved@prediscretionary@dimen@additionalbottomspace=\dimen265
-\gre@saved@prediscretionary@dimen@additionaltopspace=\dimen266
-\gre@saved@prediscretionary@dimen@additionaltopspacealt=\dimen267
-\gre@saved@prediscretionary@dimen@additionaltopspacenabc=\dimen268
-\gre@saved@prediscretionary@dimen@currenttranslationheight=\dimen269
-\gre@saved@prediscretionary@dimen@textlower=\dimen270
-\gre@saved@prediscretionary@dimen@currentabovelinestextheight=\dimen271
-\gre@saved@prediscretionary@dimen@constantglyphraise=\dimen272
-\gre@dimen@textaligncenter=\dimen273
-\gre@dimen@enddifference=\dimen274
-\gre@dimen@previousenddifference=\dimen275
-\gre@dimen@currenttranslationheight=\dimen276
+\gre@dimen@bolshift=\dimen196
+\gre@dimen@bolextra=\dimen197
+\gre@dimen@clefwidth@current=\dimen198
+\gre@dimen@clefwidth@largest=\dimen199
+\gre@dimen@clefwidth@bol=\dimen256
+\gre@dimen@eolshift=\dimen257
+\gre@dimen@glyphraisevalue=\dimen258
+\gre@dimen@additionalbottomspace=\dimen259
+\gre@dimen@additionaltopspace=\dimen260
+\gre@dimen@additionaltopspacealt=\dimen261
+\gre@dimen@additionaltopspacenabc=\dimen262
+\gre@space@count@additionaltopspacethreshold=\count327
+\gre@space@count@additionaltopspacealtthreshold=\count328
+\gre@space@count@additionaltopspacenabcthreshold=\count329
+\gre@space@count@noteadditionalspacelinestextthreshold=\count330
+\gre@saved@prediscretionary@dimen@additionalbottomspace=\dimen263
+\gre@saved@prediscretionary@dimen@additionaltopspace=\dimen264
+\gre@saved@prediscretionary@dimen@additionaltopspacealt=\dimen265
+\gre@saved@prediscretionary@dimen@additionaltopspacenabc=\dimen266
+\gre@saved@prediscretionary@dimen@currenttranslationheight=\dimen267
+\gre@saved@prediscretionary@dimen@textlower=\dimen268
+\gre@saved@prediscretionary@dimen@currentabovelinestextheight=\dimen269
+\gre@saved@prediscretionary@dimen@constantglyphraise=\dimen270
+\gre@dimen@textaligncenter=\dimen271
+\gre@dimen@enddifference=\dimen272
+\gre@dimen@previousenddifference=\dimen273
+\gre@dimen@currenttranslationheight=\dimen274
 \gre@skip@nextbegindifference=\skip256
-\gre@dimen@annotationtrueraise=\dimen277
-\gre@dimen@commentarytrueraise=\dimen278
+\gre@dimen@annotationtrueraise=\dimen275
+\gre@dimen@commentarytrueraise=\dimen276
 \gre@skip@bar@requirement=\skip257
 \gre@skip@bar@allocation=\skip258
-\gre@dimen@bar@shift=\dimen279
+\gre@dimen@bar@shift=\dimen277
 \gre@skip@text@requirement=\skip259
 \gre@skip@text@allocation=\skip260
-\gre@dimen@text@shift=\dimen280
-\gre@dimen@adjustedpreviousenddifference=\dimen281
-\gre@skip@adjustednextbegindifference=\dimen282
+\gre@dimen@text@shift=\dimen278
+\gre@dimen@adjustedpreviousenddifference=\dimen279
+\gre@skip@adjustednextbegindifference=\dimen280
 \gre@skip@punctummorashift=\skip261
 \gre@skip@alterationshift=\skip262
-\gre@dimen@begindifference=\dimen283
-\gre@dimen@lastglyphwidth=\dimen284
-\gre@dimen@notesaligncenter=\dimen285
-\gre@dimen@additionalleftspace=\dimen286
-\gre@dimen@initialwidth=\dimen287
-\gre@dimen@currentabovelinestextheight=\dimen288
-\gre@dimen@temp@one=\dimen289
-\gre@dimen@temp@two=\dimen290
-\gre@dimen@temp@three=\dimen291
-\gre@dimen@temp@four=\dimen292
-\gre@dimen@temp@five=\dimen293
+\gre@dimen@begindifference=\dimen281
+\gre@dimen@lastglyphwidth=\dimen282
+\gre@dimen@notesaligncenter=\dimen283
+\gre@dimen@additionalleftspace=\dimen284
+\gre@dimen@initialwidth=\dimen285
+\gre@dimen@currentabovelinestextheight=\dimen286
+\gre@dimen@temp@one=\dimen287
+\gre@dimen@temp@two=\dimen288
+\gre@dimen@temp@three=\dimen289
+\gre@dimen@temp@four=\dimen290
+\gre@dimen@temp@five=\dimen291
 \gre@skip@temp@one=\skip263
 \gre@skip@temp@two=\skip264
 \gre@skip@temp@three=\skip265
 \gre@skip@temp@four=\skip266
-\gre@count@temp@one=\count327
-\gre@count@temp@two=\count328
-\gre@count@temp@three=\count329
-\gre@space@count@newlinepenalty=\count330
-\gre@space@count@nobreakpenalty=\count331
-\gre@space@count@endofwordpenalty=\count332
-\gre@space@count@endofsyllablepenalty=\count333
-\gre@space@count@endafterbarpenalty=\count334
-\gre@space@count@endafterbaraltpenalty=\count335
-\gre@space@count@finalpenalty=\count336
-\gre@space@count@endofelementpenalty=\count337
-\gre@space@count@hyphenpenalty=\count338
-\gre@space@count@brokenpenalty=\count339
-\gre@space@count@looseness=\count340
-\gre@space@count@tolerance=\count341
-\gre@space@count@pretolerance=\count342
-\gre@space@count@widowpenalty=\count343
-\gre@space@count@clubpenalty=\count344
-\greconffactor=\count345
+\gre@count@temp@one=\count331
+\gre@count@temp@two=\count332
+\gre@count@temp@three=\count333
+\gre@space@count@newlinepenalty=\count334
+\gre@space@count@nobreakpenalty=\count335
+\gre@space@count@endofwordpenalty=\count336
+\gre@space@count@endofsyllablepenalty=\count337
+\gre@space@count@endafterbarpenalty=\count338
+\gre@space@count@endafterbaraltpenalty=\count339
+\gre@space@count@finalpenalty=\count340
+\gre@space@count@endofelementpenalty=\count341
+\gre@space@count@hyphenpenalty=\count342
+\gre@space@count@brokenpenalty=\count343
+\gre@space@count@looseness=\count344
+\gre@space@count@tolerance=\count345
+\gre@space@count@pretolerance=\count346
+\gre@space@count@widowpenalty=\count347
+\gre@space@count@clubpenalty=\count348
+\greconffactor=\count349
 )
-\gre@box@temp@width=\box57
-\gre@box@initial=\box58
-\gre@biginitial=\count346
-\gre@knownline=\count347
-\gre@box@annotation=\box59
-\gre@box@add=\box60
-\gre@box@old=\box61
-\gre@count@annotationvalign=\count348
-\gre@box@commentary=\box62
-\gre@box@lines=\box63
+\gre@box@temp@width=\box58
+\gre@box@initial=\box59
+\gre@biginitial=\count350
+\gre@knownline=\count351
+\gre@box@annotation=\box60
+\gre@box@add=\box61
+\gre@box@old=\box62
+\gre@count@annotationvalign=\count352
+\gre@box@commentary=\box63
+\gre@box@lines=\box64
 Module gregoriotex Info: Registering variant font greciliae as gre@font@variant@A. on input line 987
 Module gregoriotex Info: Registering variant font greciliae-hollow as gre@font@variant@B. on input line 987
 Module gregoriotex Info: Registering variant font greciliae-hole as gre@font@variant@C. on input line 987
@@ -565,47 +594,47 @@ Module gregoriotex Info: Mapping font greciliae on input line 992
 Module gregoriotex Info: Mapping font greciliae-hollow on input line 992
 Module gregoriotex Info: Mapping font greciliae-hole on input line 992
  (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-chars.tex
-\gre@box@hep=\box64
+\gre@box@hep=\box65
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-signs.tex
-\gre@box@temp@clef=\box65
-\gre@box@temp@cleftwo=\box66
-\greslurheight=\dimen294
-\gre@box@temp@sign=\box67
-\gre@count@shiftaftermora=\count349
-\gre@dimen@morawidth=\dimen295
+\gre@box@temp@clef=\box66
+\gre@box@temp@cleftwo=\box67
+\greslurheight=\dimen292
+\gre@box@temp@sign=\box68
+\gre@count@shiftaftermora=\count353
+\gre@dimen@morawidth=\dimen293
 \gre@skip@bar@lastskip=\skip267
-\gre@count@lastglyphiscavum=\count350
+\gre@count@lastglyphiscavum=\count354
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-syllable.tex
-\gre@generate@pointandclick=\count351
-\gre@box@syllablenotes=\box68
-\gre@box@syllabletext=\box69
-\gre@clivisalignment=\count352
-\gre@count@unbreakabletotalnotes=\count353
-\gre@count@unbreakableinitialnotes=\count354
-\gre@count@unbreakablefinalnotes=\count355
-\gre@count@syllablenotes=\count356
+\gre@generate@pointandclick=\count355
+\gre@box@syllablenotes=\box69
+\gre@box@syllabletext=\box70
+\gre@clivisalignment=\count356
+\gre@count@unbreakabletotalnotes=\count357
+\gre@count@unbreakableinitialnotes=\count358
+\gre@count@unbreakablefinalnotes=\count359
+\gre@count@syllablenotes=\count360
 )
-\gre@variableheightexpansion=\count357
-\gre@lastoflinecount=\count358
-\gre@saved@prenlba@nobreakpenalty=\count359
-\gre@saved@prenlba@endofwordpenalty=\count360
-\gre@saved@prenlba@endofsyllablepenalty=\count361
-\gre@saved@prenlba@endafterbarpenalty=\count362
-\gre@saved@prenlba@endafterbaraltpenalty=\count363
-\gre@saved@prenlba@endofelementpenalty=\count364
-\gre@saved@prenlba@hyphenpenalty=\count365
-\gre@lasteuouaeindex=\count366
+\gre@variableheightexpansion=\count361
+\gre@lastoflinecount=\count362
+\gre@saved@prenlba@nobreakpenalty=\count363
+\gre@saved@prenlba@endofwordpenalty=\count364
+\gre@saved@prenlba@endofsyllablepenalty=\count365
+\gre@saved@prenlba@endafterbarpenalty=\count366
+\gre@saved@prenlba@endafterbaraltpenalty=\count367
+\gre@saved@prenlba@endofelementpenalty=\count368
+\gre@saved@prenlba@hyphenpenalty=\count369
+\gre@lasteuouaeindex=\count370
  (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-symbols.tex
 Module gregoriotex Info: Registering variant font greextra as gre@font@variant@D. on input line 53
 )
-\gre@dimen@stafflinethicknessbase=\dimen296
-\gre@dimen@glyphraisebase=\dimen297
-\gre@dimen@interstafflinedistancebase=\dimen298
-\gre@dimen@inclinatumonlinemoravshiftbase=\dimen299
-\gre@dimen@inclinatumonlinemorahshiftbase=\dimen300
-\gre@dimen@inclinatumofflinemorahshiftbase=\dimen301
+\gre@dimen@stafflinethicknessbase=\dimen294
+\gre@dimen@glyphraisebase=\dimen295
+\gre@dimen@interstafflinedistancebase=\dimen296
+\gre@dimen@inclinatumonlinemoravshiftbase=\dimen297
+\gre@dimen@inclinatumonlinemorahshiftbase=\dimen298
+\gre@dimen@inclinatumofflinemorahshiftbase=\dimen299
  (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-gsp-default.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/luatex/gregoriotex/gregoriotex-nabc.tex))) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/libertine.sty
-Package: libertine 2022/09/12 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
+Package: libertine 2023/11/26 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
  (/home/veronica/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
@@ -616,39 +645,58 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count367
+\XKV@depth=\count371
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
- (/home/veronica/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2023-01-16 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count368
-\l__pdf_internal_box=\box70
-))
-Package: xparse 2023-02-02 L3 Experimental document command parser
-)
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count369
-\l__fontspec_language_int=\count370
-\l__fontspec_strnum_int=\count371
-\l__fontspec_tmp_int=\count372
-\l__fontspec_tmpa_int=\count373
-\l__fontspec_tmpb_int=\count374
-\l__fontspec_tmpc_int=\count375
-\l__fontspec_em_int=\count376
-\l__fontspec_emdef_int=\count377
-\l__fontspec_strong_int=\count378
-\l__fontspec_strongdef_int=\count379
-\l__fontspec_tmpa_dim=\dimen302
-\l__fontspec_tmpb_dim=\dimen303
-\l__fontspec_tmpc_dim=\dimen304
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/02/13 2.9a Font selection for XeLaTeX and LuaLaTeX (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count372
+\l__fontspec_language_int=\count373
+\l__fontspec_strnum_int=\count374
+\l__fontspec_tmp_int=\count375
+\l__fontspec_tmpa_int=\count376
+\l__fontspec_tmpb_int=\count377
+\l__fontspec_tmpc_int=\count378
+\l__fontspec_em_int=\count379
+\l__fontspec_emdef_int=\count380
+\l__fontspec_strong_int=\count381
+\l__fontspec_strongdef_int=\count382
+\l__fontspec_tmpa_dim=\dimen300
+\l__fontspec_tmpb_dim=\dimen301
+\l__fontspec_tmpc_dim=\dimen302
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
 
 Package fontspec Info: Font family 'LinLibertine(0)' created for font
 (fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
@@ -681,6 +729,33 @@ Package fontspec Info: Font family 'LinLibertine(0)' created for font
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 307.
 
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
 Package fontspec Info: Font family 'LinBiolinum(0)' created for font
 (fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
 (fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,Numbers
@@ -707,6 +782,33 @@ Package fontspec Info: Font family 'LinBiolinum(0)' created for font
 (fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
 
 
 Package fontspec Info: Font family 'LinLibertine(1)' created for font
@@ -737,6 +839,33 @@ Package fontspec Info: Font family 'LinLibertine(1)' created for font
 (fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
 
 
+Package fontspec Info: LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RZI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
 Package fontspec Info: Font family 'LinLibertine(2)' created for font
 (fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
 (fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
@@ -763,6 +892,33 @@ Package fontspec Info: Font family 'LinLibertine(2)' created for font
 (fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: LinLibertine_RBI scale = 1.
 
 
 Package fontspec Info: Font family 'LinLibertine(3)' created for font
@@ -792,6 +948,9 @@ Package fontspec Info: Font family 'LinLibertine(3)' created for font
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[1]"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
 
+
+Package fontspec Info: LinLibertine_R scale = 1.
+
 luaotfload | aux : font no 42 (nil) does not define feature smcp for script latn with language dflt
 
 Package fontspec Info: Font family 'LinLibertine(4)' created for font
@@ -818,6 +977,33 @@ Package fontspec Info: Font family 'LinLibertine(4)' created for font
 (fontspec)             <->"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->"[LinLibertine_RBI.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
 
 
 Package fontspec Info: Font family 'LinBiolinum(1)' created for font
@@ -848,6 +1034,33 @@ Package fontspec Info: Font family 'LinBiolinum(1)' created for font
 (fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+lnum;+smcp;"
 
 
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: LinBiolinum_RBO scale = 1.
+
+
 Package fontspec Info: Font family 'LinBiolinum(2)' created for font
 (fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
 (fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
@@ -875,9 +1088,27 @@ Package fontspec Info: Font family 'LinBiolinum(2)' created for font
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;+smcp;"
 
+
+Package fontspec Info: LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
 luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MB scale = 1.
+
 luaotfload | aux : font no 46 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MO scale = 1.
+
 luaotfload | aux : font no 47 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MBO scale = 1.
+
 luaotfload | aux : font no 48 (nil) does not define feature smcp for script latn with language dflt
 
 Package fontspec Info: Font family 'LinLibertine(5)' created for font
@@ -926,9 +1157,24 @@ Package fontspec Info: Font family 'LinLibertine(5)' created for font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
+
+Package fontspec Info: LinLibertine_M scale = 1.
+
 luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MB scale = 1.
+
 luaotfload | aux : font no 46 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MO scale = 1.
+
 luaotfload | aux : font no 47 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: LinLibertine_MBO scale = 1.
+
 luaotfload | aux : font no 48 (nil) does not define feature smcp for script latn with language dflt
 
 Package fontspec Info: Font family 'LinLibertine(6)' created for font
@@ -989,25 +1235,27 @@ Package fontspec Info: Font family 'LinLibertine_I(0)' created for font
 (fontspec)             and font adjustment code:
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \oldstylenums on input line 473.
-LaTeX Info: Redefining \liningnums on input line 474.
- (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_R.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_I.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LKey.tex)) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/paracol/paracol.sty
+LaTeX Info: Redefining \oldstylenums on input line 475.
+LaTeX Info: Redefining \liningnums on input line 476.
+ (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_R.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_I.tex) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/libertine/LKey.tex)
+LaTeX Info: Redefining \textsup on input line 552.
+) (/home/veronica/.TinyTeX/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
-\pcol@currcol=\count380
-\pcol@nextcol=\count381
-\pcol@ncol=\count382
-\pcol@ncolleft=\count383
-\pcol@page=\count384
-\pcol@basepage=\count385
-\pcol@toppage=\count386
-\pcol@footnotebase=\count387
-\pcol@nfootnotes=\count388
-\pcol@mcid=\count389
-\pcol@prevdepth=\dimen305
-\pcol@colht=\dimen306
-\pcol@textfloatsep=\dimen307
-\pcol@lrmargin=\dimen308
-\pagerim=\dimen309
+\pcol@currcol=\count383
+\pcol@nextcol=\count384
+\pcol@ncol=\count385
+\pcol@ncolleft=\count386
+\pcol@page=\count387
+\pcol@basepage=\count388
+\pcol@toppage=\count389
+\pcol@footnotebase=\count390
+\pcol@nfootnotes=\count391
+\pcol@mcid=\count392
+\pcol@prevdepth=\dimen303
+\pcol@colht=\dimen304
+\pcol@textfloatsep=\dimen305
+\pcol@lrmargin=\dimen306
+\pagerim=\dimen307
 \pcol@topskip=\skip268
 \belowfootnoteskip=\skip269
 \pcol@topfnotes=\box71
@@ -1053,7 +1301,7 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 21.
  (/home/veronica/.TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
@@ -1179,19 +1427,28 @@ Underfull \hbox (badness 1755) in paragraph at lines 87--93
 
 [1
 
-{/home/veronica/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./oratio-ante-scholam-musicae.aux))
+{/home/veronica/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+warning  (file /home/veronica/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map) (map file): invalid entry for 'TengwarP': subfonts are not supported
+
+warning  (file /home/veronica/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map) (map file): invalid entry for 'TengwarPA': subfonts are not supported
+}] (./oratio-ante-scholam-musicae.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+)
 
 Here is how much of LuaTeX's memory you used:
- 36791 strings out of 478285
+ 37062 strings out of 476435
  100000,1977958 words of node,token memory allocated
- 1289 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 30 attribute, 207 glue_spec, 7 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 2:5225,3:937,4:6,5:1346,6:124,7:3506,9:1720,10:4,11:92
- 56628 multiletter control sequences out of 65536+600000
+ 1284 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 30 attribute, 206 glue_spec, 7 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 2:5225,3:937,4:6,5:1348,6:124,7:3506,9:1720,10:4,11:92
+ 58927 multiletter control sequences out of 65536+600000
  66 fonts using 17330943 bytes
- 87i,10n,110p,631b,1191s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,10n,114p,631b,1191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/veronica/.TinyTeX/texmf-dist/fonts/truetype/public/gregoriotex/greextra.ttf></home/veronica/.TinyTeX/texmf-dist/fonts/truetype/public/gregoriotex/greciliae.ttf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></home/veronica/.TinyTeX/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf>
-Output written on oratio-ante-scholam-musicae.pdf (1 page, 24308 bytes).
+Output written on oratio-ante-scholam-musicae.pdf (1 page, 24312 bytes).
 
 PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
