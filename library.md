@@ -15,6 +15,7 @@ permalink: /library/
 | Ametur, SAB | [PDF](/pdf/AmeturChoir.pdf) | (Hugh Henry via Musica Sacra Forum) |
 | Assumpta est Maria in Caelum, Ravanello | [PDF](/pdf/motets/Ravanello_Assumpta.pdf), [All parts mp3](/pdf/motets/Ravanello_Assumpta.mp3), [Soprano mp3](/pdf/motets/Rav-sop.mp3), [Alto mp3](/pdf/motets/Rav-alt.mp3), [Bass mp3](/pdf/motets/Rav-bas.mp3) | [ly](/pdf/motets/Ravanello_Assumpta.ly) |
 | Audi Benigne Conditor, chant | [PDF](/pdf/chant/audiben.pdf) | [tex](/pdf/chant/audiben.tex) and [gabc](/pdf/chant/hy--audi_benigne_conditor--solesmes_1961.gabc) thanks to [gregobase](https://gregobase.selapa.net/chant.php?id=1830) |
+| Ave Maris Stella, Monteverdi | [PDF](/pdf/blackbook/ave-maris-monteverdi.pdf) | |
 | Christus Resurrexit | [PDF](/pdf/chant/christus-resurrexit.pdf) | [tex](/pdf/chant/christus-resurrexit.tex) [gabc](/pdf/chant/christus-resurrexit.gabc) |
 | Cor Jesu Sacratissimum | [PDF](/pdf/corjesusacratissimum.pdf) | [tex](/pdf/corjesusacratissimum.tex) and [gabc](/pdf/corjesu.gabc) |
 | Es ist ein Ros entsprungen, Praetorius | [PDF](/pdf/motets/Praetorius_einros.pdf) | [ly](/pdf/motets/Praetorius_einros.ly) |
@@ -29,6 +30,7 @@ permalink: /library/
 | Lo, how a Rose E'er Blooming, Praetorius | [pdf](/pdf/motets/lohowarose.pdf) | [ly](/pdf/motets/lohowarose.ly) |
 | Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/hymns/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
 | Magnificat, a round with slightly random words, modernish | [pdf](/pdf/motets/magnificat-cf.pdf) | [abc](/pdf/motets/magnificat-cf.abc) |
+| Magnificat, 3 part by Ronan Reilly | [pdf](/pdf/blackbook/magnificat-reilly.pdf) | |
 | O Gracious Maker (translation Audi Benigne) | [pdf](/pdf/hymns/OGraciousMaker-BabylonsStreams.pdf) or [leadsheet](/pdf/hymns/OGraciousMaker-leadsheet.pdf) | [ly](/pdf/hymns/OGraciousMaker-BabylonsStreams.pdf) or leadsheet [ly](/pdf/hymns/OGraciousMaker-leadsheet.pdf) |
 | O Sacred Head, Passion Chorale | [PDF](/pdf/hymns/OSacredHead.pdf) | [ly](/pdf/hymns/OSacredHead.ly) |
 | O salutaris, Ravanello | [PDF](/pdf/motets/o-salutaris-ravanello.pdf) | [ly](/pdf/motets/o-salutaris-ravanello.ly) |
