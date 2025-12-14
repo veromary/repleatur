@@ -24,10 +24,10 @@ permalink: /library/
 | Glory be to Jesus | [PDF (D major)](/pdf/motets/Glory-be-to-Jesus.pdf) | [ly](/pdf/motets/Glory-be-to-Jesus.ly) |
 | Godhead here in hiding | [PDF](/pdf/hymns/Godhead-a4.pdf) | [ly](/pdf/hymns/Godhead-a4.ly) |
 |God of Mercy and Compassion with SAT chorus | [PDF (G minor)](/pdf/hymns/GodofMercy.pdf) and lower : [PDF (E minor)](/pdf/hymns/GodofMercy-low.pdf) | [ly](/pdf/hymns/GodofMercy.ly) and lower [transposed](/pdf/hymns/GodofMercy-low.ly) |
-| I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
+| I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) I've broken this one a bit, but put the verses that matter in Lo How a Rose | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
 | Immaculate Mary SATB with cascading Aves by Renato Calcaterra | [pdf](/pdf/hymns/ImmaculateMary-Calcaterra.pdf) | [ly](/pdf/hymns/ImmaculateMary-Calcaterra.ly) |
 | Lauda Jerusalem | [pdf](/pdf/LaudaJerusalem.pdf) | [ly](/pdf/LaudaJerusalem.ly) |
-| Lo, how a Rose E'er Blooming, Praetorius | [pdf](/pdf/motets/lohowarose.pdf) | [ly](/pdf/motets/lohowarose.ly) |
+| Lo, how a Rose E'er Blooming, Praetorius and Vulpius too | [pdf](/pdf/Vulpius/lo-how-a-rose.pdf) | [ly](/pdf/Vulpius/lo-how-a-rose.ly) |
 | Lord Jesus Think on Me | [PDF](/pdf/hymns/LordJesusThink.pdf) and [with more verses inline](/pdf/hymns/LordJesus-choir.pdf) | [ly](/pdf/hymns/LordJesusThink.ly) |
 | Magnificat, a round with slightly random words, modernish | [pdf](/pdf/motets/magnificat-cf.pdf) | [abc](/pdf/motets/magnificat-cf.abc) |
 | Magnificat, 3 part by Ronan Reilly | [pdf](/pdf/blackbook/magnificat-reilly.pdf) | |

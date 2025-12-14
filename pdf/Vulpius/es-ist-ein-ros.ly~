@@ -1,0 +1,320 @@
+\version "2.19.82"
+
+\header {
+  title = \markup \override #'(font-name . "Alegreya SC Medium") \fontsize #3 "Es ist ein Ros entsprungen"
+  % poet = "Jesaja 11,1a; Friedrich Layritz (1808&thinsp;&ndash;&thinsp;1859)"
+  poet = \markup \italic "Köln (1599), nach Jesaja 11,1a"
+  composer = "Melchior Vulpius (um 1570&thinsp;&ndash;&thinsp;1615)"
+}
+
+\include "merge-rests-engraver.ily"
+\include "center-lyrics-ignoring-punctuation.ily"
+\include "autoextenders.ily"
+\include "time-signatures-over-bar-lines.ily"
+\include "lyric-syllable-magnetic-snap.ily"
+\layout {
+  \context {
+    \Lyrics
+    \override LyricExtender.minimum-length = #1
+    \override LyricWord.after-line-breaking = #(lyric-word-compressor 0)
+    \override LyricHyphen.minimum-distance = #0
+  }
+}
+
+#(set-global-staff-size 17.5)
+\paper {
+  #(include-special-characters)
+  indent = 0\mm
+  page-count = #1
+  print-page-number = ##f
+  ragged-last-bottom = ##f
+  tagline = ##f
+  top-margin = 12.7\mm
+  bottom-margin = 12.7\mm
+  %top-margin = 9\mm
+  %bottom-margin = 7\mm
+  inner-margin = 12.7\mm
+  outer-margin = 12.7\mm
+
+  top-margin = 15\mm
+  bottom-margin = 15\mm
+  inner-margin = 15\mm
+  outer-margin = 15\mm
+  
+  %top-markup-spacing.basic-distance = #6
+  %markup-system-spacing.basic-distance = #30
+  %last-bottom-spacing = #'((minimum-distance . 2) (padding . -100))
+  %score-markup-spacing = #'((padding . 6))
+  %last-bottom-spacing = #'((padding . 0))
+
+  two-sided = ##t
+  fonts = #
+  (make-pango-font-tree
+   "Alegreya"
+   "Alegreya Sans"
+   "DejaVu Sans Mono"
+   (/ (* staff-height pt) 2.5)
+   ;(/ 17 20)
+   )
+
+  scoreTitleMarkup = \markup {
+    \column {
+      \fill-line {
+        \strut
+        \fromproperty #'header:composer
+      }
+    }
+  }
+}
+
+textScriptCenterOnParent = \override TextScript #'X-offset = 
+#(lambda (grob) 
+   (let* ( 
+          ;; get parent in X axis (a PaperColumn) 
+          (paper-col (ly:grob-parent grob X)) 
+          ;; extract array of grobs attached to this column 
+          (elts (ly:grob-object paper-col 'elements)) 
+          ;; could be an unsafe assumption, but the first 
+          ;; element should be a NoteHead or Rest 
+          (rhythmic-head (ly:grob-array-ref elts 0))) 
+
+     (+ 
+      ;; read self-alignment-X 
+      (ly:self-alignment-interface::x-aligned-on-self grob) 
+      ;; equivalent to ly:self-alignment-interface::centered-on-x-parent, 
+      ;; but using the extracted notehead/rest instead of the paper column 
+      (interval-center 
+       (ly:grob-robust-relative-extent rhythmic-head rhythmic-head X)))))
+
+vulpius = \relative c'' {
+  \override Score.NonMusicalPaperColumn.line-break-permission = ##f
+  \override Voice.Script #'script-priority = #-100
+  \override Voice.TextScript #'self-alignment-X = #CENTER
+  \override Voice.TextScript #'font-size = #1.5
+  \textScriptCenterOnParent
+  \key f \major \time 2/2
+  | c2^\markup \bold "I" c4 c | d2( c4. g8 | a4) bes g2 | a4\fermata^\markup \bold "II"
+  f e f | bes,8( c d e f4 e | d bes) c2 |
+  \break
+  f4\fermata^\markup \bold "III"
+  f g a | bes2 a4 g(~ | g8 f f2 e4) | f\fermata^\markup \bold "IV"
+  \tag #'cns { a g f | f4.( g8 a bes) c4 | d2( c)\fermata } \bar "|."
+  \tag #'org { a g f | f4.( g8 a bes c4) | d2 c\fermata } \bar "|."
+}
+
+lyrVulpius = \lyricmode {
+  Es ist ein Ros ent -- sprun -- gen
+  aus ei -- ner Wur -- zel zart,
+  \tag #'text-modern wie \tag #'text-1599 als uns die Al -- ten sun -- gen,
+  \tag #'text-modern von \tag #'text-1599 aus Jes -- se kam die Art.
+}
+
+\score {
+  \keepWithTag #'(cns text-modern) <<
+    \new Voice = "vulpius" { \vulpius }
+    \new Lyrics \lyricsto "vulpius" \lyrVulpius
+  >>
+  
+  \header {
+    composer = \markup \null
+  }
+
+  \layout {
+    indent = 5\mm
+    short-indent = 5\mm
+    line-width = 175\mm
+    system-count = #2
+    \context {
+      \Score
+      \remove Bar_number_engraver
+      \override RehearsalMark.font-series = #'bold
+      %\override RehearsalMark.self-alignment-X = #RIGHT
+      \override KeySignature.break-align-anchor-alignment = #CENTER
+    }
+    \context {
+      \Voice
+      \override DynamicTextSpanner.style = #'none
+    }
+  }
+}
+
+global = {
+  \time 2/2
+  \partial 2
+  s2 s1
+  \time 3/2 s1.*2
+  \time 2/2 s2
+  \bar ":|."
+  s2 s1*3
+  \time 3/2 s1.*2
+  s1 \bar "|."
+}
+perStaff = {
+  \key f \major
+  \partial 2
+  s2 \override Staff.TimeSignature.break-visibility = #begin-of-line-invisible s1
+  \time 3/2 s1.*2
+  \time 2/2 s2 \once \undo \hide Staff.BarLine
+  s2 \break
+  s1*3
+  \time 3/2 s1.*2
+  s1 \once \undo \hide Staff.BarLine
+}
+
+sop = \relative c'' {
+  \partial 2
+  c2 c4 c d c c2 a bes a4 g2 f e4 f2
+  r4 a g e f d c2 r4 c' c c d c c2 a bes a4 g2 f e4 f1
+}
+
+alt = \relative c'' {
+  \partial 2
+  \tag #'org { a2 a4 f f f e2 d d c( d4.) a8 c4 c c2 }
+  \tag #'modern { a'2 a4 f f f e2 d d c4 c d4.( a8 c4) c c2 }
+  r4 f d c c b c8([ d] e4) r e g f f f e2 d d f4 d e( f g) c, c1
+}
+
+ten = \relative c' {
+  \partial 2
+  c2 c4 a bes a g2 f f a4 c bes( a2) g4 a2
+  r4 c bes a a g g2 r4 g g a bes a g2 fis g c4 bes a2 g a1
+}
+
+bas = \relative c {
+  \partial 2
+  f2 f4 f bes f c2 d bes f'4 e d2 c f,
+  r4 f' g a f g c,2 r4 c e f bes, f' c2 d g, a4 bes c2 c f,1
+}
+
+dyn = {}
+
+lyrIa = \lyricmode {
+  \set stanza = "1"
+  Es ist ein Ros ent -- sprun -- gen
+  aus ei -- ner Wur -- zel zart,
+}
+lyrIb = \lyricmode {
+  \tag #'text-modern wie \tag #'text-1599 als uns die Al -- ten sun -- gen,
+  \tag #'text-modern von \tag #'text-1599 aus Jes -- se kam die Art.
+}
+lyrIc = \lyricmode {
+  \override LyricText.extra-offset = #'(0 . 1.5)
+  \override LyricHyphen.extra-offset = #'(0 . 1.5)
+  \override LyricExtender.extra-offset = #'(0 . 1.5)
+  und
+  \revert LyricText.extra-offset
+  \revert LyricHyphen.extra-offset
+  \revert LyricExtender.extra-offset
+  hat ein Blüm -- lein bracht
+  mit -- ten im kal -- ten Win -- ter,
+  wohl zu der hal -- ben Nacht.
+}
+
+\score {
+  \keepWithTag #'(modern text-modern) <<
+    \new Devnull \global
+    \new StaffGroup {
+      <<
+        \new Staff = "sop" \with {
+          % instrumentName = "S"
+        } {
+          <<
+            \perStaff
+            \new Voice = "sop" { << \sop \dyn >> }
+          >>
+        }
+        \new Lyrics \lyricsto "sop" { \lyrIa }
+        \new Lyrics \lyricsto "sop" { \lyrIb \lyrIc }
+        
+        \new Staff = "alt" \with {
+          % instrumentName = "A"
+        } {
+          <<
+            \perStaff
+            \new Voice = "alt" { << \alt \dyn >> }
+          >>
+        }
+        \new Lyrics \lyricsto "alt" { \lyrIa }
+        \new Lyrics \lyricsto "alt" { \lyrIb \lyrIc }
+
+        \new Staff = "ten" \with {
+          % instrumentName = "T"
+        } {
+          <<
+            \clef "treble_8"
+            \perStaff
+            \new Voice = "ten" { << \ten \dyn >> }
+          >>
+        }
+        \new Lyrics \lyricsto "ten" { \lyrIa }
+        \new Lyrics \lyricsto "ten" { \lyrIb \lyrIc }
+
+        \new Staff = "bas" \with {
+          % instrumentName = "B"
+        } {
+          <<
+            \clef "bass"
+            \perStaff
+            \new Voice = "bas" { << \bas \dyn >> }
+          >>
+        }
+        \new Lyrics \lyricsto "bas" { \lyrIa }
+        \new Lyrics \lyricsto "bas" { \lyrIb \lyrIc }
+      >>
+    }
+  >>
+
+  \header {
+    composer = \markup \right-column { "Michael Praetorius (1571&thinsp;&ndash;&thinsp;1621)" }
+  }
+  
+  \layout {
+    indent = 0\mm
+    system-count = #2
+    \context {
+      \Lyrics
+      \override LyricSpace.minimum-distance = #1
+    }
+    \context {
+      \Score
+      \override BarNumber.extra-offset = #'(-0.5 . 0)
+      \override BarNumber.font-size = #0
+    }
+    \context {
+      \Staff
+      \hide BarLine
+      \consists #merge-rests-engraver
+      \consists #merge-mmrests-engraver
+      % \remove Instrument_name_engraver
+      \override TimeSignature.style = #'single-digit
+    }
+    \context {
+      \Voice
+      \override DynamicTextSpanner.style = #'none
+    }
+  }
+}
+
+\markup \justify-line {
+  \strut
+  \line {
+    \bold "2" 
+    \left-column {
+      "Das Röslein, das ich meine,&ensp;/&ensp;davon Jesaja sagt,"
+      "hat uns gebracht alleine&ensp;/&ensp;Marie, die reine Magd."
+      "Aus Gottes ewgem Rat&ensp;/&ensp;hat sie ein Kind geboren,"
+      "welches uns selig macht."
+    }
+  }
+  \strut
+  \line {
+    \bold "3" 
+    \left-column {
+      "Das Blümelein so kleine,&ensp;/&ensp;das duftet uns so süß;"
+      "mit seinem hellen Scheine&ensp;/&ensp;vertreibt’s die Finsternis:"
+      "Wahr’ Mensch und wahrer Gott&ensp;/&ensp;hilft uns aus allem Leide,"
+      "rettet von Sünd und Tod."
+    }
+  }
+  \strut
+}

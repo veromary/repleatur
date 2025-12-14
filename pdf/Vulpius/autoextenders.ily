@@ -1,0 +1,63 @@
+\version "2.24.0"
+
+#(define (conditional-kill-lyric-extender-callback . args)
+  (lambda (grob)
+   (let* ((orig (ly:grob-original grob))
+	  (siblings (ly:spanner-broken-into orig))
+          (minimum-length
+           (if (null? args)
+            (ly:grob-property grob 'minimum-length 0)
+            (car args)))
+          (X-extent (ly:stencil-extent (ly:grob-property grob 'stencil empty-stencil) X))
+          (natural-length (- (cdr X-extent) (car X-extent))))
+    (if (and (> minimum-length natural-length)
+	 (<= (length siblings) 1)) ;; never kill a broken extender
+     (ly:grob-suicide! grob)))))
+
+\layout {
+  \context {
+    \Lyrics
+    \override LyricExtender.minimum-length = #1.5
+    \override LyricExtender.after-line-breaking = #(conditional-kill-lyric-extender-callback)
+  }
+}
+
+autoextenders =
+#(define-music-function (lyrics) (ly:music?)
+   (let* ((has-hyphen?
+           (lambda (event)
+             (let* ((art (ly:music-property event 'articulations))
+                    (is-hyphen? (lambda (ev) (eq? (ly:music-property ev 'name) 'HyphenEvent))))
+               (find is-hyphen? art))))
+          (has-extender? 
+           (lambda (event)
+             (let* ((art (ly:music-property event 'articulations))
+                    (is-hyphen? (lambda (ev) (eq? (ly:music-property ev 'name) 'ExtenderEvent))))
+               (find is-hyphen? art))))
+          (add-extender! 
+           (lambda (event)
+             (ly:music-set-property! event 'articulations
+               (append (ly:music-property event 'articulations) (list (make-music 'ExtenderEvent))))
+             event)))
+     (music-map
+      (lambda (event)
+        (if (and (eq? (ly:music-property event 'name) 'LyricEvent)
+                 ; do not add extenders below hyphens
+                 (not (has-hyphen? event))
+                 ; do not duplicate extenders
+                 (not (has-extender? event))
+                 ; do not add additional extenders after _ (internally equivalent to " ")
+                 ; to avoid killed extenders
+                 (not (equal? (ly:music-property event 'text) " "))
+                 ; do not add extenders after "" to allow ending extenders
+                 ; within _ _ _ _ skip sequences with _ _ "" _ _
+                 (not (equal? (ly:music-property event 'text) ""))
+                 ; ditto, with _ _ \markup{|null} _ _
+                 (not (equal? (ly:music-property event 'text) (markup #:null)))
+                 )
+            (add-extender! event))
+        event)
+      lyrics)))
+
+#(set! toplevel-music-functions
+       (cons autoextenders toplevel-music-functions))

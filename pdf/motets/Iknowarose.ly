@@ -26,22 +26,58 @@ Transcribed from R R Terry's Two Hundred Folk Carols, 1933, pp20-21.
 }
 
 global = {
-  \time 4/4
   \key f \major
   \tempo 2=60
 }
 
 soprano = \relative c'' {
-  \global
-  \partial 2 c2 c4 c d c
-  c2 a2 bes a4 g4 ~ g4 f2 e4 f2\fermata
-  c'2 c4 c d c c2 a2 bes a4 g4 ~ g4 f2 e4 f2\fermata
+  
+  \once\override Staff.TimeSignature.stencil =
+  #(lambda (grob)
+    (grob-interpret-markup grob
+     #{ \markup \number \override #'(baseline-skip . 0)
+     { \column { 4 4 } \column { 3 2 } } #}))
+\partial 2 c2
+%\omit Staff.TimeSignature
+ c4 c d c
+  c2 a2 bes a4 g2 f2 e4 f2\fermata
+  c'2 c4 c d c c2 a2 bes a4 g2 f2 e4 f2\fermata
   r4 a4 g e f d c2
   r4 c'4 c c d c c2 a2 bes a4 g4 ~ g4 f2 e4 f2\fermata
+
 }
 
+partrhythm = {
+   s2
+  \repeat unfold 2 {
+    \time 4/4
+    s1
+    \time 3/2
+    s1 s2
+    s1 s2
+    \time 4/4
+    s1
+   }
+    s1 s1 s1
+    \time 3/2
+    s1 s2
+    s1 s2
+\time 4/4
+    s1
+
+ }
+
+
+%soprano = \relative c'' {
+%  \global
+%  \partial 2 c2 c4 c d c
+%  c2 a2 bes a4 g4 ~ g4 f2 e4 f2\fermata
+%  c'2 c4 c d c c2 a2 bes a4 g4 ~ g4 f2 e4 f2\fermata
+%  r4 a4 g e f d c2
+%  r4 c'4 c c d c c2 a2 bes a4 g4 ~ g4 f2 e4 f2\fermata
+%}
+
 alto = \relative c' {
-  \global
   a'2 a4 f f f e2 d2 d c d4 ~ d8 a8 c2 c2
   a'2 a4 f f f e2 d2 d c d4 ~ d8 a8 c2 c2
   r4 f4 d c c b c8( d e4)
@@ -51,7 +87,6 @@ alto = \relative c' {
 }
 
 tenor = \relative c' {
-  \global
   c2 c4 a bes a g2 f f a4 c4( bes) a2 g4 a2
   c2 c4 a bes a g2 f f a4 c4( bes) a2 g4 a2
   r4 c4 bes a a g g2
@@ -59,7 +94,6 @@ tenor = \relative c' {
 }
 
 bass = \relative c {
-  \global
   f2 f4 f bes f c2 d bes f'4 e d2 c f,\fermata
   f'2 f4 f bes f c2 d bes f'4 e d2 c f,\fermata
   r4 f'4 g a f g c,2 
@@ -101,7 +135,12 @@ verseThree = \lyricmode {
   And shrive us, ev -- ry -- one.
 }
 
-\score {
+\score 
+{
+  <<
+  \new Devnull {
+    \partrhythm
+  }
   \new ChoirStaff <<
     \new Staff \with {
       midiInstrument = "choir aahs"
