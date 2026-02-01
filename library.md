@@ -37,6 +37,7 @@ permalink: /library/
 | O Sanctissima, Beethoven's harmony | [PDF](/pdf/motets/O_sanctissima.pdf) | [ly](/pdf/motets/O_sanctissima.ly) |
 | O Sanctissima, 1792 | [PDF](/pdf/motets/o-sanctissima-1792.pdf) | [ly](/pdf/motets/o-sanctissima-1792.ly) |
 | Panis Angelicus, Casciolini/Baini (edited 2024 to sort 2nd verse accents) | [PDF](/pdf/motets/Casciolini_Panis_Angelicus.pdf) and [PDF+edits](/pdf/motets/Cascio-panis-adeney.pdf) | [ly](/pdf/motets/Casciolini_Panis_Angelicus.ly) and [ly+edits](/pdf/motets/Cascio-panis-adeney.ly) |
+| Protect Us While Telling SATB with cascading Aves by Renato Calcaterra | [pdf](/pdf/hymns/Protect-Calcaterra.pdf) | [ly](/pdf/hymns/Protect-Calcaterra.ly) |
 | Salvete Flores Martyrum, chant hymn for 28th December | [pdf](/pdf/holyinno/salvete.pdf) | [tex](/pdf/holyinno/salvete.tex) and [gabc](/pdf/holyinno/salvete.gabc) |
 | Sancta et Immaculata, Dering | [PDF](/pdf/dering/10-sanctaetimmac.pdf) | [ly](/pdf/dering/10-sanctaetimmac.ly) |
 | Soul of my Saviour | [pdf](/pdf/organ/Soul-choir.pdf) | [ly](/pdf/organ/Soul-choir.ly) |
