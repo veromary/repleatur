@@ -10,7 +10,8 @@ permalink: /links/
 
 [The Adoremus Hymnal mp3s](https://www.ignatius.com/promotions/adoremus-hymnal/downloadable-mp3s.htm)
 
-Fixed 2017/2/26 - [Cant Greg at christusrex.org from a monastery in Sao Paolo, Brazil](https://www.christusrex.org/www2/cantgreg/index_eng.html) including [selected hymns](https://www.christusrex.org/www2/cantgreg/cantos_selec_eng.html)
+[Cant Greg at christusrex.org from a monastery in Sao Paolo, Brazil](https://web.archive.org/web/20080720094517/https://www.christusrex.org/www2/cantgreg/index_eng.html) 
+[original link](https://www.christusrex.org/www2/cantgreg/index_eng.html)
 
 [CC Watershed's collection of propers](https://ccwatershed.org/goupil)
 
