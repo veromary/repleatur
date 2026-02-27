@@ -24,6 +24,7 @@ permalink: /library/
 | Glory be to Jesus | [PDF (D major)](/pdf/motets/Glory-be-to-Jesus.pdf) | [ly](/pdf/motets/Glory-be-to-Jesus.ly) |
 | Godhead here in hiding | [PDF](/pdf/hymns/Godhead-a4.pdf) | [ly](/pdf/hymns/Godhead-a4.ly) |
 |God of Mercy and Compassion with SAT chorus | [PDF (G minor)](/pdf/hymns/GodofMercy.pdf) and lower : [PDF (E minor)](/pdf/hymns/GodofMercy-low.pdf) | [ly](/pdf/hymns/GodofMercy.ly) and lower [transposed](/pdf/hymns/GodofMercy-low.ly) |
+| Hail to Thee True Body | [PDF](/pdf/hymns/hail-to-thee-CYS.pdf) | [ly](/pdf/hymns/hail-to-thee-CYS.ly) |
 | I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) I've broken this one a bit, but put the verses that matter in Lo How a Rose | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
 | Immaculate Mary SATB with cascading Aves by Renato Calcaterra | [pdf](/pdf/hymns/ImmaculateMary-Calcaterra.pdf) | [ly](/pdf/hymns/ImmaculateMary-Calcaterra.ly) |
 | Lauda Jerusalem | [pdf](/pdf/LaudaJerusalem.pdf) | [ly](/pdf/LaudaJerusalem.ly) |
