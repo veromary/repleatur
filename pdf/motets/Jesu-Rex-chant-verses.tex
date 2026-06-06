@@ -1,0 +1,23 @@
+\documentclass[a4paper]{article}
+\usepackage{fontspec}
+\usepackage[autocompile]{gregoriotex}
+\setmainfont[BoldFont = Calluna Black]{Calluna}
+\usepackage[width=15cm]{geometry}
+\usepackage{pdfpages}
+
+\newcommand{\myincludepdf}[1]{\includepdf[pages=-,templatesize={18cm}{25cm}]{#1}}
+
+\begin{document}
+
+\myincludepdf{Jesu-Rex-Joan}
+
+\gresetinitiallines{0}
+
+\grechangestaffsize{25}
+\grechangedim{baselineskip}{100pt plus 2pt minus 2pt}{fixed}
+
+\Large
+
+\gregorioscore{gabc/Jesu-Rex-verses}
+
+\end{document}
