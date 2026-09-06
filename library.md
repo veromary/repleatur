@@ -28,6 +28,7 @@ permalink: /library/
 | Holy Michael, great Archangel | [PDF](/pdf/hymns/holymichael.pdf) | [ly](/pdf/hymns/holymichael.ly) |
 | I know a Flower, it Springeth, Praetorius (Mary is the Rose, as in the original German) I've broken this one a bit, but put the verses that matter in Lo How a Rose | [pdf](/pdf/motets/Iknowarose.pdf) | [ly](/pdf/motets/Iknowarose.ly) |
 | Immaculate Mary SATB with cascading Aves by Renato Calcaterra | [pdf](/pdf/hymns/ImmaculateMary-Calcaterra.pdf) | [ly](/pdf/hymns/ImmaculateMary-Calcaterra.ly) |
+| Jesu grant me this, I pray | [pdf](/pdf/hymns/JesuGrant.pdf) | [ly](/pdf/hymns/JesuGrant.ly) |
 | Jesu Rex - 5vs, odds SAB, evens chant, in A minor | [pdf](/pdf/motets/Jesu-Rex-chant-verses.pdf) | the ly and gabc are across [a few files](https://github.com/veromary/repleatur/tree/gh-pages/pdf/motets) |
 | Lauda Jerusalem | [pdf](/pdf/LaudaJerusalem.pdf) | [ly](/pdf/LaudaJerusalem.ly) |
 | Lo, how a Rose E'er Blooming, Praetorius and Vulpius too | [pdf](/pdf/Vulpius/lo-how-a-rose.pdf) | [ly](/pdf/Vulpius/lo-how-a-rose.ly) |
