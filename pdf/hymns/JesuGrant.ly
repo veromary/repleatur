@@ -49,16 +49,16 @@ soprano = \relative c'' {
 
 alto = \relative c' { 
 r4 ees2 ees4 d ees ees d ees2
-r4 ees2 ees4 d g f4. ees8 d2
-r4 ees2 ees4 d c des8( c) bes( ees) d2
-r4 ees2 ees4 d ees ees d ees2
+r4 ees2 ees4 d g f8( ees8) c4 d2
+r4 ees2 ees8( f) g4 aes f ees d2
+r4 ees2 c4 d ees ees d ees2
 }
 
 tenor = \relative c' { \clef "treble_8"
-r4 bes2 ees,4 f aes8( g) f4 bes bes2
-r4 g2 a4 bes4 bes bes a bes2
-r4 bes2 ees,8( f) g4 aes f g8( aes) bes2
-r4 bes2 c4 f,4 g bes4. aes8 g2
+r4 bes2 ees,4 f aes f4 bes bes2
+r4 g2 g8( a8) bes4 bes bes a bes2
+r4 bes2 c4 d4 ees des8( c) bes4 bes2
+r4 bes2 ees,4 bes'4 g bes4. aes8 g2
 }
 
 bass = \relative c { \clef bass
@@ -80,7 +80,7 @@ firstWords = \lyricmode
 Je -- su, grant me this, I pray,
 Ev -- er in Thy heart to stay;
 Let me ev -- er -- more a -- bide
-in Thy heart and wound -- ed side.	
+Hid -- den in Thy wound -- ed side.	
 }
 secondWords = \lyricmode
 {
