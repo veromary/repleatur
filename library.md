@@ -13,6 +13,7 @@ permalink: /library/
 | Adoro Te, Stephen Moreno | [Vocal score](/pdf/AdoroTe-vocal.pdf) and [With piano reduction](/pdf/AdoroTe.pdf) | [Vocal score](/pdf/AdoroTe-vocal.ly) and [with piano ly](/pdf/hymns/AdoroTe.ly) |
 | Adoro Te, anon | [4 parts](/pdf/hymns/AdoroTe-a4.pdf) | [lilypond](/pdf/hymns/AdoroTe-a4.ly) |
 | Ametur, SAB | [PDF](/pdf/AmeturChoir.pdf) | (Hugh Henry via Musica Sacra Forum) |
+| Ametur, SAB with verse | [PDF](/pdf/motets/ametur-withverse.pdf) | [lilypond](/pdf/motets/ametur-withverse.ly) |
 | Assumpta est Maria in Caelum, Ravanello | [PDF](/pdf/motets/Ravanello_Assumpta.pdf), [All parts mp3](/pdf/motets/Ravanello_Assumpta.mp3), [Soprano mp3](/pdf/motets/Rav-sop.mp3), [Alto mp3](/pdf/motets/Rav-alt.mp3), [Bass mp3](/pdf/motets/Rav-bas.mp3) | [ly](/pdf/motets/Ravanello_Assumpta.ly) |
 | Audi Benigne Conditor, chant | [PDF](/pdf/chant/audiben.pdf) | [tex](/pdf/chant/audiben.tex) and [gabc](/pdf/chant/hy--audi_benigne_conditor--solesmes_1961.gabc) thanks to [gregobase](https://gregobase.selapa.net/chant.php?id=1830) |
 | Ave Maris Stella, Monteverdi | [PDF](/pdf/blackbook/ave-maris-monteverdi.pdf) | |
