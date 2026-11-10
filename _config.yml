@@ -7,7 +7,7 @@ url: "https://www.repleatur.net" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
 
 # Google analytics
-google_analytics: UA-39810569-1
+# google_analytics: UA-39810569-1
 
 # Optional features
 animated:           false
@@ -16,7 +16,7 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: repleatur
+disqus_shortname: 
 
 # Social icons
 show_social_icons: true
@@ -32,7 +32,7 @@ flattr_button:
 feed: https://www.repleatur.net/feed.xml
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: true
